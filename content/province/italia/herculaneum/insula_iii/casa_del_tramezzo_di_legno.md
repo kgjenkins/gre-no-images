@@ -57,7 +57,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 ### Plans
 {{< image src="H_3_3-17.jpg" alt="Plan of Casa del Tramezzo di Legno" title="Plan of Casa del Tramezzo di Legno" >}}
