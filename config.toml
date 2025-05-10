@@ -66,6 +66,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	images = ["images/landing-page-map-1.png"]
 	customCSS = ["css/custom.css"]
 	highlightColor = "#c22d30"
+	customJS = ["js/custom.js"]
 
 [Params.logo]
 	title = "GARDENS of the ROMAN EMPIRE"

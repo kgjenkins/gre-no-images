@@ -45,20 +45,6 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	<script>
-		// highlight when running on test site
-		window.onload = (e) => {
-			let re = new RegExp(`^/(test-\\w+)/`)
-			let m = location.pathname.match(re)
-			if (m) {
-				document.querySelector('body').classList.add(m[1])
-				let div = document.createElement('div')
-				div.classList.add('test-header')
-				div.innerText = m[1]
-				document.querySelector('body').prepend(div)
-			}
-		}
-	</script>
 </head>
 <body class='body{{ if (in .Site.BaseURL "localhost") }} localhost{{ end }}'>
 	{{ if (in .Site.BaseURL "localhost") }}
