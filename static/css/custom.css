@@ -54,6 +54,11 @@ figure img {
   box-shadow: 4px 4px 8px 4px #888;
 }
 
+figure img:hover {
+  cursor: pointer;
+  box-shadow: 4px 4px 8px 4px #000;
+}
+
 img.zoom {
   position: fixed;
   top:0;
