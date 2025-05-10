@@ -55,28 +55,8 @@ figure img {
 }
 
 figure img:hover {
-  cursor: pointer;
+  cursor: zoom-in;
   box-shadow: 4px 4px 8px 4px #000;
-}
-
-img.zoom {
-  position: fixed;
-  top:0;
-  left:0;
-  max-width: fit-content;
-  width: initial;
-}
-
-figcaption {
-  color: #000;
-}
-
-h2 {
-  margin: 0.5em 0 0.2em;
-}
-
-h3 {
-  margin: 0.5em 0 0.2em;
 }
 
 .fullscreen {
@@ -91,6 +71,22 @@ h3 {
   background-position: center;
   background-color: #000;
   z-index: 9999999;
+}
+
+.fullscreen:hover {
+  cursor: zoom-out;
+}
+
+figcaption {
+  color: #000;
+}
+
+h2 {
+  margin: 0.5em 0 0.2em;
+}
+
+h3 {
+  margin: 0.5em 0 0.2em;
 }
 
 .container--outer {

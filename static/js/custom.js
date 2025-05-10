@@ -10,7 +10,7 @@ window.onload = (e) => {
         document.querySelector('body').prepend(div)
     }
 }
-function zoom(img) {
+function fullscreen(img) {
     let d = document.querySelector('.fullscreen')
     if (d) {
         d.remove()

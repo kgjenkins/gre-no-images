@@ -2,6 +2,6 @@
 {{ $src = urls.JoinPath "https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/" .Page.Parent.Path $src }}
 
 <figure>
-    <img src="{{ $src }}" alt="{{ .Get "alt" }}" onclick="zoom(this)">
+    <img src="{{ $src }}" alt="{{ .Get "alt" }}" onclick="fullscreen(this)">
     <figcaption>{{ .Get "title" }}</figcaption>
 </figure>
