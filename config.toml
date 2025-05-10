@@ -1,0 +1,92 @@
+baseURL = "https://roman-gardens.github.io/"
+relativeURLs = false
+
+languageCode = "en-us"
+title = "Gardens of the Roman Empire"
+theme = "mainroad"
+
+publishDir = "docs"
+
+buildDrafts = false
+enableEmoji = true
+enableInlineShortcodes = true
+
+# This forces the "title" function to capitalize EVERY word
+# The default setting "ap" does not capitalize "via"...
+titleCaseStyle = "go"
+
+
+# This needs to be high to insure .Summary includes the Garden Description
+summaryLength = 10000
+
+# suppress warnings about having raw HTML in markdown (used for tables, etc.)
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
+[menu]
+
+	[[menu.main]]
+		name = "Home"
+		pageRef = "/home/"
+		weight = 10
+
+	[[menu.main]]
+		name = "About"
+		pageRef = "/about/"
+		weight = 20
+
+	[[menu.main]]
+		name = "Gardens"
+		pageRef = "/province/"
+		weight = 30
+
+	[[menu.main]]
+		name = "People"
+		pageRef = "/contributors/"
+		weight = 40
+
+	[[menu.main]]
+		name = "History"
+		pageRef = "/history/"
+		weight = 50
+
+	[[menu.main]]
+		name = "Join"
+		pageRef = "/contribute/"
+		weight = 60
+
+	[[menu.main]]
+		name = "How to Cite"
+		pageRef = "/citation/"
+		weight = 70
+
+
+[Params]
+	twitter_cards = false
+	images = ["images/landing-page-map-1.png"]
+	customCSS = ["css/custom.css"]
+	highlightColor = "#c22d30"
+
+[Params.logo]
+	title = "GARDENS of the ROMAN EMPIRE"
+
+[Params.sidebar]
+	home = "left" # Configure layout for home page
+	list = "left"  # Configure layout for list pages
+	single = "left" # Configure layout for single pages
+	# Enable widgets in given order
+	# widgets = ["search", "recent", "categories", "taglist", "provinces"]
+	widgets = ["search-lunr", "map"]
+
+[Params.widgets]
+	recent_num = 2 # Set the number of articles in the "Recent articles" widget
+	tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+  [markup.goldmark.extensions]
+    typographer = false
+
+	[markup.goldmark.renderer]
+	  unsafe = true

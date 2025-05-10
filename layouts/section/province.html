@@ -1,0 +1,71 @@
+{{- define "main" -}}
+<!-- Display list of gardens under the current location -->
+<main class="main list" role="main">
+	{{- partial "breadcrumbs.html" . -}}
+	{{- $path := .Path -}}
+
+	<!-- iterate through all published pages in this province
+			 to find unique subdirectories
+	-->
+	{{- $dirs := slice -}}
+	{{- range .RegularPagesRecursive -}}
+		{{- $d := strings.TrimPrefix (print $path "/") ( path.Dir .Path) -}}
+		<!-- only keep first level subdirectories -->
+		{{- $d = replaceRE "/.*" "" $d -}}
+		<!-- force roman rumerals to sort better (e.g. IX comes after VIII)-->
+		{{- $d = replaceRE "([ivx]*x[ivx]*)" "xxx$1" $d -}}
+		<!-- don't keep articles in the current directory -->
+		{{- if and (not (in $dirs $d)) (not (eq $path $d)) -}}
+			{{- if ne $d "province" -}}
+				{{- $dirs = $dirs | append $d -}}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+
+	<!-- get the current place name -->
+	{{- $thisplace := "" -}}
+	{{- $thisplace = delimit (last 1 (split (.Path) "/") ) "" -}}
+	{{- $thisplace = replaceRE "_" " " $thisplace | title -}}
+
+	<!-- List sublocations, if any -->
+	{{- if index $dirs 0 -}}
+		{{- if eq $thisplace "Province" }}
+			Provinces:
+		{{- else }}
+			Sublocations of {{ partial "romancase" $thisplace }}:
+		{{ end -}}
+		<ul class='sublocations'>
+			{{ range $i, $v := sort $dirs -}}
+				{{- with strings.TrimPrefix $path . -}}
+					<!-- repair roman numerals containing x -->
+					{{- $link := replaceRE "xxx" "" . -}}
+					<li><a href="{{- $link | lower -}}/">{{- partial "romancase" $link -}}</a></li>
+				{{ end -}}
+			{{- end }}
+		</ul>
+	{{ end -}}
+
+	{{- if .Sections -}}
+		<!-- List all gardens under this location -->
+		{{- $pages := slice -}}
+		{{- range sort .RegularPagesRecursive ".Params.Title" -}}
+			{{- if ne ( path.Base .Path ) "index.md" -}}
+				{{- $pages = $pages | append . -}}
+			{{- end -}}
+		{{- end -}}
+		{{- $count := len $pages -}}
+		<div class='count'>
+			{{ $count }} garden
+			{{ if ne $count 1 }} entries {{ else }} entry{{ end }}
+			{{- if ne $thisplace "Province" }}
+				in {{ partial "romancase" $thisplace }}
+			{{ end -}}
+			{{ if ne $count 1 }} have {{ else }} has {{ end }}
+			been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:
+		</div>
+		{{- range $pages -}}
+			{{- .Render "summary" -}}
+		{{- end -}}
+	{{- end -}}
+</main>
+{{- end -}}

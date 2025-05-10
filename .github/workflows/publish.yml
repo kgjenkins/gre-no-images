@@ -1,0 +1,33 @@
+name: publish to roman-gardens.github.io
+
+on:
+  workflow_dispatch:
+    branches:
+      - main  # User can select branch to deploy when running
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.145.0'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: roman-gardens/roman-gardens.github.io
+          publish_branch: main
+          publish_dir: ./docs
+          commit_message: ${{ github.event.head_commit.message }}

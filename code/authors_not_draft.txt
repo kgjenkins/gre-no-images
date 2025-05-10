@@ -1,0 +1,46 @@
+AUTHOR_ID
+AUTHOR_UNKONWN
+Amina-Aïcha Malek
+Annalisa Marzano
+Catherine Kearns
+Christa Ebnöther
+Christine Kondoleon
+Christophe Gaston
+Claudine Munier
+Clopper Almon
+D. Vaquerizo
+David Gilman Romano
+E. Roffia
+E.R. Macaulay
+EUGENIA SALZA PRINA RICOTTI
+Elizabeth Macaulay-Lewis
+Eugenia Salza Prina Ricotti
+Francesca Carboni
+Françoise Villedieu
+Graeme Clark
+Győző Vörös
+Jacques Monnier
+John Bodel
+Jorge de Alarcão
+Kathryn Gleason
+M. Orfila
+M.-A. Tomei
+Maureen Carroll
+Michel Fuchs
+N. Doenges
+NAME_OF_AUTHOR
+None
+Other Guy
+Paola Olivanti
+Pier Giorgio Monti
+Roger Wilson
+SALZA PRINA RICOTTI
+Unknown
+V.Blanc-Bijon
+Valerie Aymer
+Walter Widrig
+Wilhelmina F. Jashemski
+Wilhelmina Jashemski
+Yitzar Hirschfeld
+editor: Lingyi Xu
+editor: Yuyao Liu

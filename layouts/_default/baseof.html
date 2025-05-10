@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ .Site.Language.Lang }}">
+<head>
+  {{- if or (.Site.BuildDrafts) (in .Site.BaseURL "test") }}
+	<meta name="robots" content="noindex, nofollow">
+  {{- end }}
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>
+		{{- if not (eq .Path "/home") -}}  
+			{{- $mytitle := .Title -}}
+			{{- if not .Title -}}
+				{{- $mytitle = (replaceRE "/province/" " " .Path | title) -}}
+			{{- end -}}
+			{{- $mytitle }} - 
+		{{ end -}}
+		{{- .Site.Title -}}
+	</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+	{{- if .Site.Params.opengraph }}
+		{{ template "_internal/opengraph.html" . }}
+	{{- end }}
+	{{- if .Site.Params.schema }}
+		{{ template "_internal/schema.html" . }}
+	{{- end }}
+
+	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
+	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" {{ printf `href="%s"` $googleFontsLink | safeHTMLAttr }}>
+	{{- end }}
+
+	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	{{ range .Site.Params.customCSS -}}
+	<link rel="stylesheet" href="{{ . | relURL }}">
+	{{- end }}
+
+	{{- with .OutputFormats.Get "rss" }}
+	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{- end }}
+
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	<script>
+		// highlight when running on test site
+		window.onload = (e) => {
+			let re = new RegExp(`^/(test-\\w+)/`)
+			let m = location.pathname.match(re)
+			if (m) {
+				document.querySelector('body').classList.add(m[1])
+				let div = document.createElement('div')
+				div.classList.add('test-header')
+				div.innerText = m[1]
+				document.querySelector('body').prepend(div)
+			}
+		}
+	</script>
+</head>
+<body class='body{{ if (in .Site.BaseURL "localhost") }} localhost{{ end }}'>
+	{{ if (in .Site.BaseURL "localhost") }}
+	<div class="test-header">{{ .Site.BaseURL }}</div>
+	{{ end }}
+	<div class="container container--outer">
+		{{ partial "header" . }}
+		<div class="wrapper flex">
+			<div class="primary">
+			{{ block "main" . }}
+				{{ with .Content }}
+				<div class="content main__content clearfix">
+					{{ . }}
+				</div>
+				{{ end }}
+			{{ end }}
+			</div>
+			{{ partial "sidebar.html" . }}
+		</div>
+		{{ partial "footer" . }}
+	</div>
+<script async defer src="{{ "js/menu.js" | relURL }}"></script>
+{{ range .Site.Params.customJS -}}
+<script src="{{ . | relURL }}"></script>
+{{- end }}
+{{- partial "mathjax.html" . -}}
+</body>
+</html>

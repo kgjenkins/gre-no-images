@@ -1,0 +1,63 @@
+AUTHOR_ID
+AUTHOR_UNKONWN
+Amartya Shri
+Amina-Aïcha Malek
+Annalisa Marzano
+Beth Ryan
+Catherine Kearns
+Christa Ebnöther
+Christine Kondoleon
+Christophe Gaston
+Claudine Munier
+Clopper Almon
+D. Vaquerizo
+David Gilman Romano
+E. Roffia
+E.R. Macaulay
+EUGENIA SALZA PRINA RICOTTI
+Elizabeth J. Shepherd
+Elizabeth Macaulay-Lewis
+Eugenia Salza Prina Ricotti
+Francesca Carboni
+Françoise Villedieu
+Graeme Clark
+Győző Vörös
+Holly Spoth-Torres
+Jacques Monnier
+Janet DeLaine
+Jean-Paul Morel
+Jessica Venner
+John Bodel
+Jorge de Alarcão
+Joseph Patrich
+K.L. Gleason
+Kathryn Gleason
+Leigh-Ann Bedal
+Linda Anderson
+M. Barbara Reeves
+M. Orfila
+M.-A. Tomei
+Maureen Carroll
+Michel Fuchs
+Michèle Blanchard-Lemée
+Monika Trümper
+N. Doenges
+NAME_OF_AUTHOR
+None
+Other Guy
+Paola Olivanti
+Pier Giorgio Monti
+Roger Wilson
+SALZA PRINA RICOTTI
+Stella Falzone
+Thomas Morard
+Unknown
+V.Blanc-Bijon
+Valerie Aymer
+Walter Widrig
+Wilhelmina F. Jashemski
+Wilhelmina Jashemski
+Yitzar Hirschfeld
+editor: Jane Millar
+editor: Lingyi Xu
+editor: Yuyao Liu

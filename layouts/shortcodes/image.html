@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $src = urls.JoinPath "https://raw.githubusercontent.com/kgjenkins/gre-images/refs/heads/main/content/" .Page.Parent.Path $src }}
+
+<figure>
+    <img src="{{ $src }}" alt="{{ .Get "alt" }}" loading="lazy">
+    <hr>
+    <figcaption>{{ .Get "title" }}</figcaption>
+</figure>

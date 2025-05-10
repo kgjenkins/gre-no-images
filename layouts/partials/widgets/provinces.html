@@ -1,0 +1,20 @@
+{{- $categories := .Site.Taxonomies.categories }}
+{{- $pages := .Site.RegularPages }}
+{{- if gt (len $categories) 0 }}
+<div class="widget-categories widget">
+	<h4 class="widget__title">Provinces</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+		{{- range $name, $taxonomy := $categories }}
+			{{- with $.Site.GetPage (printf "/categories/%s" $name) }}
+			{{- $url := replaceRE "categories/" "province/" .RelPermalink }}
+			{{- $url = replaceRE "-" "_" $url }}
+			<li class="widget__item">
+				<a class="widget__link" href="{{ $url }}">{{ .Title }}</a>
+			</li>
+			{{- end }}
+		{{- end }}
+		</ul>
+	</div>
+</div>
+{{- end }}

@@ -1,0 +1,21 @@
+# Search widget
+- id: search_placeholder
+  translation: "search..."
+
+# Categories widget
+- id: categories_title
+  translation: "Provinces"
+
+# Recent Posts widget
+- id: recent_title
+  translation: "Newest Gardens"
+
+# Tags List widget
+- id: tags_title
+  translation: "Keywords"
+
+# Footer
+- id: footer_credits
+  translation:
+    "Generated with <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> and a modified \
+    <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a> theme."

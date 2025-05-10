@@ -1,0 +1,180 @@
+<!-- Leaflet (JS/CSS) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+			integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+			crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+				integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+				crossorigin=""></script>
+<script src="{{ .Site.BaseURL }}js/leaflet-tilelayer-colorfilter.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/leaflet.fullscreen.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/L.Control.Basemaps-min.js"></script>
+<link href="{{ .Site.BaseURL }}css/leaflet.fullscreen.css" rel="stylesheet"/>
+<link href="{{ .Site.BaseURL }}css/L.Control.Basemaps.css" rel="stylesheet"/>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Map</h4>
+	<div class="widget__content">
+		<div id='map' class="leaflet-map"></div>
+		{{ if eq hugo.Environment "development" }}
+		<div>ctrl-click the map to capture coordinates</div>
+		{{ end }}
+		<script>
+			//Create Map
+			map = L.map('map', {
+				attributionControl: true,
+				fullscreenControl: true
+			}).setView([40, 17], 3);
+			map.attributionControl.setPrefix('Basemap');
+
+			{{ if eq hugo.Environment "development" }}
+				// When running hugo server locally, add basemap selector including satelitte imagery, for checking coordinate accuracy
+
+				// Digital Atlas of the Roman Empire, muted colors
+				var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+					label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+					minZoom: 4,
+					maxZoom: 11,
+					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+					errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 30%',
+						'opacity: 100%',
+						'sepia: 10%'
+					]
+				});
+
+				// OpenStreetMap, muted colors, for low zoom values
+				var osm = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					label: 'OpenStreetMap',
+					minZoom: 0,
+					maxZoom: 19,
+					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 30%',
+						'opacity: 100%',
+						'sepia: 10%'
+					]
+				});
+
+				var gsat = L.tileLayer.colorFilter('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+					label: 'Google Satellite Imagery',
+					minZoom: 0,
+					maxZoom: 21,
+					attribution: '<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution">Google</a>',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 100%',
+						'opacity: 80%',
+						'sepia: 0%'
+					]
+				});
+
+				map.addControl(L.control.basemaps({
+					basemaps: [osm, gsat],
+					tileX: 16,
+					tileY: 12,
+					tileZ: 5
+				}));
+
+				// CTRL-click on map will copy coordinates
+				L.DomEvent.addListener(map, 'click', function(e) {
+					if (e.originalEvent.ctrlKey || e.originalEvent.metaKey) {
+						var coords = '[ ' + e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6) + ' ]';
+						navigator.clipboard.writeText(coords);
+					}
+				});
+			{{ else }}
+				// For public website, use DARE basemap, backed up by OpenStreetMap
+
+				// OpenStreetMap, muted colors, for low zoom values
+				var osm_lo = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					label: 'OpenStreetMap',
+					minZoom: 0,
+					maxZoom: 3,
+					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 30%',
+						'opacity: 100%',
+						'sepia: 10%'
+					]
+				});
+				osm_lo.addTo(map);
+
+				// Digital Atlas of the Roman Empire, muted colors
+				var dare = L.tileLayer.colorFilter('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
+					label: 'Digital Atlas of the Roman Empire (zoom 4-11 only)',
+					minZoom: 4,
+					maxZoom: 11,
+					attribution: '<a href="https://dh.gu.se/dare/">DARE</a>',
+					errorTileUrl: 'https://dh.gu.se/tiles/imperium/4/8/5.png',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 30%',
+						'opacity: 100%',
+						'sepia: 10%'
+					]
+				});
+				dare.addTo(map);
+
+				// OpenStreetMap, muted colors, for high zoom values
+				var osm_hi = L.tileLayer.colorFilter('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					label: 'OpenStreetMap',
+					minZoom: 12,
+					maxZoom: 19,
+					attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+					filter: [
+						'brightness: 100%',
+						'contrast: 100%',
+						'saturation: 30%',
+						'opacity: 100%',
+						'sepia: 10%'
+					]
+				});
+				osm_hi.addTo(map);
+			{{ end }}
+
+
+
+			<!-- add marker for each garden relevant to the current page -->
+			markers = [];
+			bounds = L.latLngBounds();
+			var div_circle = L.divIcon({ className: 'dot' });
+			{{ $points := slice . }}
+			{{ if not .File }}
+				{{ $points = .Site.RegularPages }}
+			{{ else if eq .File.Path "home.md" }}
+				{{ $points = .Site.RegularPages }}
+			{{ else }}
+				{{ with .RegularPagesRecursive }}
+						{{ $points = . }}
+				{{ end }}
+			{{ end }}
+			{{- range $points }}
+				{{ if .Params.latlon }}
+					{{ $lat := index .Params.latlon 0 }}
+					{{ $lon := index .Params.latlon 1 }}
+					{{ if gt $lat 0 }}
+						marker = L.marker([ {{ $lat }}, {{ $lon }} ], { icon: div_circle });
+						marker.bindPopup("<a href='{{ .Permalink }}'>{{ .Title }}</a>");
+						marker.addTo(map);
+						markers.push(marker);
+						bounds.extend(marker.getLatLng());
+					{{ end }}
+				{{ end }}
+			{{- end }}
+			if (bounds.isValid()) {
+				map.fitBounds(bounds.pad(0.05));
+				if (map.getZoom() > 17) {
+					map.setZoom(17);
+				}
+			}
+		</script>
+	</div>
+</div>

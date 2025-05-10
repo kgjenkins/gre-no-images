@@ -1,0 +1,16 @@
+<!-- replace underscores with spaces -->
+{{- $s := replaceRE "_" " " . -}}
+
+<!-- capitalize each word in the text -->
+{{- $s = title $s -}}
+
+<!-- Fully capitalize any Roman numerals -->
+<!-- The range is needed because hugo won't honor (upper "$1") -->
+<!-- We sort so that longer numbers are replaced first (otherwise we'll get "Region II/Insula IIi")-->
+{{- $roman := findRE `\b[IVX]+[ivx]+\b` $s -}}
+{{- range (sort $roman "value" "desc") -}}
+    {{- $s = replaceRE . (upper .) $s -}}
+{{- end -}}
+
+<!-- print the result -->
+{{- $s -}}

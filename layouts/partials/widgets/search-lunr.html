@@ -1,0 +1,9 @@
+<div class="widget-search widget">
+	<h4 class="widget__title">Search</h4>
+	<form class="widget-search__form" role="search" method="get" action="{{ with .GetPage "/search" }}{{.Permalink}}{{end}}">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="{{ T "search_placeholder" }}" value="" name="q" id="search-input" aria-label="{{ T "search_placeholder" }}">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+	</form>
+</div>

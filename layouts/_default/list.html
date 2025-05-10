@@ -1,0 +1,46 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- if .Sections -}}
+		{{- range .Sections -}}
+			{{- range .Data.Pages -}}
+				{{- .Render "summary" }}
+			{{- end -}}
+			{{- if .Sections -}}
+				{{- range .Sections -}}
+					{{- range .Data.Pages -}}
+						{{- .Render "summary" }}
+					{{- end -}}
+					{{- if .Sections -}}
+						{{- range .Sections -}}
+							{{- range .Data.Pages -}}
+								{{- .Render "summary" }}
+							{{- end -}}
+							{{- if .Sections -}}
+								{{- range .Sections -}}
+									{{- range .Data.Pages -}}
+										{{- .Render "summary" }}
+									{{- end -}}
+								{{- end -}}
+							{{- end -}}
+						{{- end -}}
+					{{- end -}}
+				{{- end -}}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+	{{- range .Paginator.Pages.ByTitle }}
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}
