@@ -83,7 +83,7 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 
 {{< image src="noyal2.jpg" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." title="Plans of Land Development Over Time." >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

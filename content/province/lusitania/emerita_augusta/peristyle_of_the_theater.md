@@ -78,7 +78,7 @@ While the theater belongs to multiple phases of construction, the aula sacra bel
 
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

@@ -43,7 +43,7 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

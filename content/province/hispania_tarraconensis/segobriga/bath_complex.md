@@ -87,7 +87,7 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

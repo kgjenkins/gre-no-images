@@ -57,19 +57,19 @@ A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph 
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 <!--### Plans-->
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

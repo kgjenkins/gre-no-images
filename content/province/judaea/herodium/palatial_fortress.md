@@ -66,7 +66,7 @@ The Palace Fortress is a cylindrical structure originally seven stories high (tw
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

@@ -64,7 +64,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
@@ -73,7 +73,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

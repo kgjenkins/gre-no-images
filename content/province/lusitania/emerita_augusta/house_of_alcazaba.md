@@ -69,7 +69,7 @@ Within the enclosure of the Islamic Alcazaba, west of the city, are the remains 
 
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

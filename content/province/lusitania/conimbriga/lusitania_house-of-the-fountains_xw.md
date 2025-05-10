@@ -58,13 +58,13 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="HIS LUS_Conimbriga_Fountains_Plan_CA fig1.jpg" alt="Plan of the fountains at Conimbriga, Lusitania Province" title="Fig. 1: Plan of the House of the Fountains.  Adapted from I. Morand." >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

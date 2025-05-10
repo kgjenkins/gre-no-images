@@ -86,7 +86,7 @@ Built under Tiberius, this site is a rare if not unique example of a first centu
 In the center of the peristyle was a rectangular pool with protruding semi-circular niches at each corner; it was lined with painted stucco. The garden around the pool was open on the north side in front of the reception room [1].  In a later modification, the west portico was divided into four small rooms beside the garden.
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

@@ -87,9 +87,9 @@ The house is one of the most interesting examples of the transition from the atr
 
 {{< image src="ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" title="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" title="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" title="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images_b/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" title="Figure 4: Section of the basin (from Ricciardi, Scrinari 1996)." >}}
+{{< image src="ostia_fig13b_threshold.jpg" alt="Section of the basin in th" title="Figure 4: Section of the basin (from Ricciardi, Scrinari 1996)." >}}
 
 ### Dates
 

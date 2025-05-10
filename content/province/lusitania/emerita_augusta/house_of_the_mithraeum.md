@@ -80,7 +80,7 @@ West-southwest of the peristyle, a group of interesting chambers were arrayed ar
 The passage formed by the north colonnade gave access to three chambers, the middle one a triclinium, with mosaic pavements and wall dados painted with birds and vegetal themes. On the west side, facing the garden's exedra, was a chamber with Bacchic murals (now in the Museo Nacional de Arte Romano) and below its floor, a great barrel-vaulted cistern. On the south side, several rooms formed what may have been a cubiculum (bedroom) with mosaics whose themes included Eros with a dove. Two subterranean rooms in the southeast corner of this same group probably provided cool refuge from the summer heat.
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

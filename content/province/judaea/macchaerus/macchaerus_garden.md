@@ -66,7 +66,7 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}-->
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}-->
 
 
 ### Plans

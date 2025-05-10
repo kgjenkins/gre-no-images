@@ -71,7 +71,7 @@ After Alexandra’s death, during the period from 67-32, a large swimming pool (
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

@@ -53,7 +53,7 @@ Evidence for a temple grove on Aegina exists only in a literary reference. Pausa
 <!--### Plans-->
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 <!--### Images-->

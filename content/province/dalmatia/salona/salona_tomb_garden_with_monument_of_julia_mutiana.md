@@ -65,7 +65,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ### Plans
 
 <!-- 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

@@ -72,7 +72,7 @@ Just off the peristyle in Room 17, the walls feature a variety of birds, individ
 <!--
 ### Maps
 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

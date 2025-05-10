@@ -62,19 +62,19 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the west of the filadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

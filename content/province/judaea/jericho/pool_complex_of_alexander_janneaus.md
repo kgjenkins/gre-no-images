@@ -69,7 +69,7 @@ By 90 BCE, Jannaeus was experiencing political and military difficulties, and it
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

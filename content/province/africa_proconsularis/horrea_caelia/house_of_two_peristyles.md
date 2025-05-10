@@ -70,19 +70,19 @@ House of two peristyles (Maison aux deux péristyles)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="AFR_Hor_Htp_Amalek1.jpg" alt="Plan of the House of Two Peristyles at Horrea Caelia" title="Fig. 1: Plan of the House of Two Peristyles. (Ennaïfer, M., Ouertani, N., 2001, fig.2)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

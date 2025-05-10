@@ -79,7 +79,7 @@ This fourth-century villa was discovered in 1973.  An apse and a figured mosaic 
 ### Plans
 {{< image src="his_tar_albadalejo_olmilla_fig1.jpg" alt="Plan drawing of the Villa en Puente de la Olmilla" title="Plan drawing of the Villa en Puente de la Olmilla. " >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 

@@ -77,7 +77,7 @@ Inscriptions of the fifth and fourth centuries B.C. record certain regulations f
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

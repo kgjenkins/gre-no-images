@@ -72,7 +72,7 @@ With porticoes on three sides and measuring 23 x 14.5m, this courtyard, known as
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

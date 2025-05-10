@@ -71,7 +71,7 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

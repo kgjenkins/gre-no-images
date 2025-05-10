@@ -77,7 +77,7 @@ King Eumenes II of Pergamum employed a gardener to plant new trees and nurse dam
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

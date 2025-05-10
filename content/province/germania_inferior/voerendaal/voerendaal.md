@@ -60,7 +60,7 @@ In front of the house to the south was a large area (17 x 37 m.), enclosed by a 
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

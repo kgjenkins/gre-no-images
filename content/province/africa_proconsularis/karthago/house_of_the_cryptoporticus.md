@@ -65,14 +65,14 @@ House of the Cryptoporticus (Maison du Cryptoportique)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="House_of_the_cryptoportique1.jpg" alt="Plan of the House of the Cryptoportique at Karthago; Catherine Balmelle et al., 2012" title="Fig. 1: Plan of the House of the Cryptoportique. (Catherine Balmelle et al., 2012, fig. 271)" >}}
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

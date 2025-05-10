@@ -59,7 +59,7 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

@@ -68,7 +68,7 @@ The Greeks in Homer’s *Iliad* sacrificed to Artemis at Aulis in Boeotia in the
 <!--### Plans-->
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 <!--### Images-->

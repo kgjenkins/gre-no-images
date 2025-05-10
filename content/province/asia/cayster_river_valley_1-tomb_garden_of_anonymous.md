@@ -67,19 +67,19 @@ A highly fragmentary inscription found in the south part of the Cayster River va
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
 ### Plans
 {{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="Plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan of the excavations at Aphrodisias">}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 <!--
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

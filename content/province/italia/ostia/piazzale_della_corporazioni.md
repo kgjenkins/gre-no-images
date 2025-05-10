@@ -89,13 +89,13 @@ In October 1912 Dante Vaglieri began the reconstruction of the garden at the cen
 
 ### Figures
 
-{{< figure src="../images_b/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" title="Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953)." >}}
+{{< image src="ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" title="Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953)." >}}
 
-{{< figure src="../images_b/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" title="Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881)." >}}
+{{< image src="ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" title="Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881)." >}}
 
-{{< figure src="../images_b/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" title="Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912)." >}}
+{{< image src="ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" title="Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912)." >}}
 
-{{< figure src="../images_b/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" title="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" title="Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 

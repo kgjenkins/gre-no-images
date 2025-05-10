@@ -64,7 +64,7 @@ There is a small semicircular basin (Farrar Type E) inserted in a secondary peri
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

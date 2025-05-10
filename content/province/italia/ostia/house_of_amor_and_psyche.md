@@ -84,7 +84,7 @@ The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source
 
 {{< image src="ostia_fig5_better.jpg" alt="Axonometry" title="Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
-{{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
+{{< image src="ostia_fig4b.jpg" alt="Section" title="Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
 ### Dates
 

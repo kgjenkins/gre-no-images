@@ -71,14 +71,14 @@ Place of the Palms (South Agora)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="South agora plan.jpg" alt="The South Agora plan approximately 215 by 70 metres, courtesy- Mica and Ahmet Ertegün South Agora Pool Project" title="Plan of the South Agora, also called as the Place of Palms at Aphrodisias, courtesy-Mica and Ahmet Ertegün South Agora Pool Project">}}
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

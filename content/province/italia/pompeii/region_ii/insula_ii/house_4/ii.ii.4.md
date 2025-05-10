@@ -52,7 +52,7 @@ A. The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the [
 B. The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to the narrow garden to the back of the house.
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 

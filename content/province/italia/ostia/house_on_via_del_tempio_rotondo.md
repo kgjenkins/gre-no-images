@@ -82,7 +82,7 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 ### Photos
 
-{{< figure src="../images_b/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" title="Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 

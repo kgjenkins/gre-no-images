@@ -68,13 +68,13 @@ House of the Planters (Maison aux jardinières)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
@@ -83,7 +83,7 @@ House of the Planters (Maison aux jardinières)
 <!--{{< image src="#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
 -->
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

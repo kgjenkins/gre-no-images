@@ -81,7 +81,7 @@ A huge pool (90 x 40 m.) built to the east of the sunken garden formed an integr
 
 <!--
 ### Maps
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

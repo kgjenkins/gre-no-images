@@ -65,19 +65,19 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)" >}}
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

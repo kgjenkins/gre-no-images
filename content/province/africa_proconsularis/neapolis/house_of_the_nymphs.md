@@ -75,14 +75,14 @@ House of the Nymphs (Maison des Nymphes)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="afr_nea_hn_amalekfig2.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" >}}
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

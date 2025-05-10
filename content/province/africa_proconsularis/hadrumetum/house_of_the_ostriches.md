@@ -68,7 +68,7 @@ Fig. 1: Plan of the House of the Ostriches <!--(VER is sending image)-->
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

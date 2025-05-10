@@ -55,7 +55,7 @@ None Available
 ### Plans
 {{< image src="rue_de_la_harpe.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

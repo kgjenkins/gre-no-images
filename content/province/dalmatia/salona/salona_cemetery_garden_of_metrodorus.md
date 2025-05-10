@@ -66,7 +66,7 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 ### Plans
 
 <!-- 
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images

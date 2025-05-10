@@ -64,7 +64,7 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

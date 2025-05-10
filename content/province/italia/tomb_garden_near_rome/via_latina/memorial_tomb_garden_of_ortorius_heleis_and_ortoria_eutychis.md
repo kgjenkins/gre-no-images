@@ -45,7 +45,7 @@ An inscribed marble plaque found in the early 1930s covering a drain near Ponte 
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

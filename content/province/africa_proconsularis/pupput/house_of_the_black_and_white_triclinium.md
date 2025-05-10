@@ -62,19 +62,19 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" title="Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

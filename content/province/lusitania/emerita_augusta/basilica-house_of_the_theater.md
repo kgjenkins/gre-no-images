@@ -70,7 +70,7 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

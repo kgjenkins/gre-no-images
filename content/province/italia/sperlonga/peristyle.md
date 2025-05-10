@@ -51,7 +51,7 @@ In the villa there are three different garden arrangements (SALZA PRINA RICOTTI 
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans

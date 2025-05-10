@@ -63,19 +63,19 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 {{< image src="house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" title="Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 {{< image src="photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" title="Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" >}}
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

@@ -52,7 +52,7 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 ### Maps
 
 <!--
-{{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
