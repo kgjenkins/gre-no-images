@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Pupput]({{<relref ".">}}) \
 [Pupput (Pleiades)](https://pleiades.stoa.org/places/315121)
 
-{{< figure src="../images/city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
+{{< image src="city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
 
 ### Location Description
 
@@ -66,7 +66,7 @@ The house is laid out around a square shaped peristyle garden. Between the colum
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" title="Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" >}}
+{{< image src="AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" title="Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

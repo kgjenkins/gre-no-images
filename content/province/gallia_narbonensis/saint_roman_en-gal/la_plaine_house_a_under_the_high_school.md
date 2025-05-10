@@ -75,13 +75,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/la_plaine_house_a_under_the_high_school.png" alt="Plan of La Plaine, House A under the High School" title="Plan of La Plaine, House A under the High School" >}}
+{{< image src="la_plaine_house_a_under_the_high_school.png" alt="Plan of La Plaine, House A under the High School" title="Plan of La Plaine, House A under the High School" >}}
 
 
 

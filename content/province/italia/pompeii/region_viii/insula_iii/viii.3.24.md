@@ -45,7 +45,7 @@ A. The earthquake destroyed an elegant house on this site and this house was sub
 B. Backed up to the ancient caupona there was a second garden (b) next to the triclinium (c).
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

@@ -55,19 +55,19 @@ It is evident that this peristyle-garden was clearly designed to give a scenogra
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/46_plan_of_the_throne_garden.jpg" alt="Plan of the Throne Hall garden at Hadrian's Villa" title="Fig. 46: Plan of the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="46_plan_of_the_throne_garden.jpg" alt="Plan of the Throne Hall garden at Hadrian's Villa" title="Fig. 46: Plan of the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/50_reconstruction.jpg" alt="Reconstruction of the Throne Hall garden at Hadrian's Villa" title="Fig. 50: Reconstruction of the Throne Hall garden." >}}
+{{< image src="50_reconstruction.jpg" alt="Reconstruction of the Throne Hall garden at Hadrian's Villa" title="Fig. 50: Reconstruction of the Throne Hall garden." >}}
 
 ### Images
 
-{{< figure src="../images/47_finding_a_flower_pot.jpg" alt="Photograph of the unearthing of a flower pot in the Throne Hall garden at Hadrian's Villa" title="Fig. 47: Finding a flower pot, courtesy of Eugenia Salza Prina Ricotti." >}}
+{{< image src="47_finding_a_flower_pot.jpg" alt="Photograph of the unearthing of a flower pot in the Throne Hall garden at Hadrian's Villa" title="Fig. 47: Finding a flower pot, courtesy of Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/48_flower_pot.jpg" alt="Photograph of the flower pot found in the Throne Hall garden at Hadrian's Villa, in its modern state" title="Fig. 48: The flower pot found in the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="48_flower_pot.jpg" alt="Photograph of the flower pot found in the Throne Hall garden at Hadrian's Villa, in its modern state" title="Fig. 48: The flower pot found in the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/49_the_throne_garden.jpg" alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian's Villa" title="Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="49_the_throne_garden.jpg" alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian's Villa" title="Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

@@ -76,13 +76,13 @@ Domus of the Sea Front (Villa du front de mer)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Hip_Vsf_Amalekfig11.jpg" alt="Plan of the House of the Sea Front at Hippo Regius; rights statement" title="Fig. 1: Plan of the House of the sea Front. (Marec, E., 1950, )" >}}
+{{< image src="AFR_Hip_Vsf_Amalekfig11.jpg" alt="Plan of the House of the Sea Front at Hippo Regius; rights statement" title="Fig. 1: Plan of the House of the sea Front. (Marec, E., 1950, )" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-{{< figure src="../images/AFR_Hip_Vsfphoto_Amalek fig2.jpg" alt="Photographic view of the garden and its semi-circular basin at Hippo Regius; rights statement" title="Fig. 2: Photographic view of the garden and its semi-circular basin. (aOrOc CNRS-ENS A.-A Malek)" >}}
+{{< image src="AFR_Hip_Vsfphoto_Amalek fig2.jpg" alt="Photographic view of the garden and its semi-circular basin at Hippo Regius; rights statement" title="Fig. 2: Photographic view of the garden and its semi-circular basin. (aOrOc CNRS-ENS A.-A Malek)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

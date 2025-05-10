@@ -65,15 +65,15 @@ It has already been cited in the precedent Jashemski-Ricotti article but only ve
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/17_piombo_colorato.jpg" alt="Plan of the Stadium-garden at Hadrian's Villa" title="Fig. 17: Plan of Villa Adriana indicating the Concentration of Lead in the Soil throughout, Eugenia Salza Prina Ricotti." >}}
+{{< image src="17_piombo_colorato.jpg" alt="Plan of the Stadium-garden at Hadrian's Villa" title="Fig. 17: Plan of Villa Adriana indicating the Concentration of Lead in the Soil throughout, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/18_augustan_nymphaeum.jpg" alt="Plan of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 18: Plan of the Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="18_augustan_nymphaeum.jpg" alt="Plan of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 18: Plan of the Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/19_augusteum.jpg" alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="19_augusteum.jpg" alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian's Villa" title="Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

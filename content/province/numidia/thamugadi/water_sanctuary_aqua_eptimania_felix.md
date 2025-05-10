@@ -32,7 +32,7 @@ Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
-{{< figure src="../images/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image src="timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
 ### Location Description
 
@@ -74,7 +74,7 @@ Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)
 -->
 
 ### Plans
-{{< figure src="../images/water_sanctuary _aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" title="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)" >}}
+{{< image src="water_sanctuary _aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" title="Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

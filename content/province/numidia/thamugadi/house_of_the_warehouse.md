@@ -30,7 +30,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
-{{< figure src="../images/timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image src="timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
 ### Location Description
 
@@ -69,7 +69,7 @@ The S part of the *domus* was probably added in a latter period. It presents a p
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)" >}}
+{{< image src="house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" title="Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

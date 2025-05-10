@@ -40,10 +40,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 At the time of the eruption this site (a) was under construction. A portico was being built on the south and west sides using brick-shaped tufa columns and three old tufa columns. The columns on the south were salvaged from an earlier building. This was a large area, the intended use not clear. It may have been a garden previously.
 
 ### Plans
-{{< figure src="../images/fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
+{{< image src="fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
 
 ### Images
-{{< figure src="../images/fig.21.viii.6.2 12.31.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig.21.viii.6.2 12.31.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 
 #### Pleiades ID

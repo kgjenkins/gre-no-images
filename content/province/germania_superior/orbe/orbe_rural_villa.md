@@ -60,17 +60,17 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/EUR_GS_Orb_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423." title="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423. (Rights Statement)" >}}
+{{< image src="EUR_GS_Orb_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423." title="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography. Adapted from Drack and Fellmann 1988, fig. 423. (Rights Statement)" >}}
 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

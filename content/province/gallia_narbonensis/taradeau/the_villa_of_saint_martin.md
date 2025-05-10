@@ -76,7 +76,7 @@ In a fourth stage, the villa lost its residential character: the *pars urbana* w
 ### Plans
 
 
-{{< figure src="../images/the_villa_of_saint_martin.jpg" alt="Plan of The Villa of Saint Martin" title="Plan of The Villa of Saint Martin" >}}
+{{< image src="the_villa_of_saint_martin.jpg" alt="Plan of The Villa of Saint Martin" title="Plan of The Villa of Saint Martin" >}}
 
 
 

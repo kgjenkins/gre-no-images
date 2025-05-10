@@ -67,11 +67,11 @@ Besides the central peristyle, there are several other areas that were possibly 
 
 ### Plans
 
-{{< figure src="../images/HIS_LUS_LaCocosa_plan fig1.jpg" alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." title="Fig. 1: La Cocosa section.  Structure around perimeter of peristyle. Adapted from Serra Ráfols, figure 4." >}}
+{{< image src="HIS_LUS_LaCocosa_plan fig1.jpg" alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." title="Fig. 1: La Cocosa section.  Structure around perimeter of peristyle. Adapted from Serra Ráfols, figure 4." >}}
 
 ### Images
 
-{{< figure src="../images/HIS_LUS_LaCocosa_section fig2.jpg" title="Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols." >}}
+{{< image src="HIS_LUS_LaCocosa_section fig2.jpg" title="Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols." >}}
 
 <!--### Dates-->
 

@@ -61,12 +61,12 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/eur_ach_olympia_guesthouse.jpg" alt="Plan of Guest Houses 1 and 2 with their courtyard gardens." title="Fig. 1: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." >}}
+{{< image src="eur_ach_olympia_guesthouse.jpg" alt="Plan of Guest Houses 1 and 2 with their courtyard gardens." title="Fig. 1: Plan of Guest House I (A) and Guest House II (B) with their courtyard gardens (G). The garden in Guest House I was later paved over (C). Adapted from Mallwitz 1972, fig. 230." >}}
 
 <!--### Images-->
 
@@ -76,7 +76,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

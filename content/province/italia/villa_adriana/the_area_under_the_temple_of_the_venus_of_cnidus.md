@@ -47,13 +47,13 @@ Here also the presence of a garden is only denounced by the high content of lead
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/31_belvedere.jpg" alt="Plan of the Venus of Cnidus Belvedere at Hadrian's Villa" title="Fig. 31: Plan of the Venus of Cnidus Belvedere, Eugenia Salza Prina Ricotti." >}}
+{{< image src="31_belvedere.jpg" alt="Plan of the Venus of Cnidus Belvedere at Hadrian's Villa" title="Fig. 31: Plan of the Venus of Cnidus Belvedere, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/34_sustaining_wall.jpg" alt="Photograph of the sustaining wall of the Venus of Cnidus at Hadrian's Villa" title="Fig. 34: The sustaining wall of the Venus of Cnidus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="34_sustaining_wall.jpg" alt="Photograph of the sustaining wall of the Venus of Cnidus at Hadrian's Villa" title="Fig. 34: The sustaining wall of the Venus of Cnidus, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

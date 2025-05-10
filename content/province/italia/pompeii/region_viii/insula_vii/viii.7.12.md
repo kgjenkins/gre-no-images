@@ -35,7 +35,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 The rear of this shop-house had a garden (a), perhaps with rooms overhead supported by columns in the garden according to Fiorelli.
 
 ### Plans
-{{< figure src="../images/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
+{{< image src="fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

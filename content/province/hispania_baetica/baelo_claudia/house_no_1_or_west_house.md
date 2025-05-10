@@ -72,9 +72,9 @@ The entrance [Fig. 1, 2] to this house was on the west side of the colonnaded st
 
 ### Images
 
-{{< figure src="../images/HIS_BAE_Baelo_west House Fig1_CA.jpg" alt="Fig. 1: Photo of West House seen from the north. The two vats in the left foreground are just above the numeral IV on the plan.  The peristyle is in the center of the picture. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Baelo_west House Fig1_CA.jpg" alt="Fig. 1: Photo of West House seen from the north. The two vats in the left foreground are just above the numeral IV on the plan.  The peristyle is in the center of the picture. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Baelo Hs_plan_Fig2" alt="Fig. 2: Plan of the two port houses. From Sillières. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Baelo Hs_plan_Fig2" alt="Fig. 2: Plan of the two port houses. From Sillières. (Rights Statement)" >}}
 
 
 ### Dates

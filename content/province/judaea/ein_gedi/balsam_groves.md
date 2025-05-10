@@ -71,11 +71,11 @@ Agriculture
 
 ### Plans
 
-{{< figure src="../images/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
+{{< image src="Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." title="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)" >}}
 
 ### Images
 
-{{< figure src="../images/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}} -->
+{{< image src="Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." title="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." >}} -->
 
 ### Dates
 

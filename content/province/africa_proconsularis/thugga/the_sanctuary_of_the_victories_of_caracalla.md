@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
 [THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
-{{< figure src="../images/dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image src="dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -56,13 +56,13 @@ The sanctuary of the Victories of Caracalla, situated in the southwest of the fo
 
 ### Plans
 
-{{< figure src="../images/the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of the sanctuary of the Victories of Caracalla" title="Fig.1: Plan of the sanctuary of the Victories of Caracalla (From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))" >}}
+{{< image src="the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of the sanctuary of the Victories of Caracalla" title="Fig.1: Plan of the sanctuary of the Victories of Caracalla (From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))" >}}
 
 ### Images
 
-{{< figure src="../images/restitution_sanctuaire_caracalla_Page_2.jpg" alt="Cross section of the courtyard (A-A’)" title="Fig.2: Cross section of the courtyard (A-A’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" >}}
+{{< image src="restitution_sanctuaire_caracalla_Page_2.jpg" alt="Cross section of the courtyard (A-A’)" title="Fig.2: Cross section of the courtyard (A-A’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" >}}
 
-{{< figure src="../images/restitution_sanctuaire_caracalla_Page_3.jpg" alt="Cross section of the courtyard (B-B’)" title="Fig.3: Cross section of the courtyard (B-B’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" >}}
+{{< image src="restitution_sanctuaire_caracalla_Page_3.jpg" alt="Cross section of the courtyard (B-B’)" title="Fig.3: Cross section of the courtyard (B-B’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)" >}}
 ### Dates
 
 214 CE

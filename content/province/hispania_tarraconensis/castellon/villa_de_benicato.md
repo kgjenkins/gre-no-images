@@ -60,7 +60,7 @@ The villa from the middle of the 2nd century evolved around a peristyle garden w
 
 ### Plans
 
-{{< figure src="../images/his_tar_nul_v_benicato_fig1.jpg" alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" title="Fig. 1:  Plan of the Villa de Benicto.  Adapted from Gorges, Planche XXXIV." >}}
+{{< image src="his_tar_nul_v_benicato_fig1.jpg" alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" title="Fig. 1:  Plan of the Villa de Benicto.  Adapted from Gorges, Planche XXXIV." >}}
 
 
 ### Images

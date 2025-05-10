@@ -69,13 +69,13 @@ The other garden area was slightly farther south and against the east wall of th
 
 ### Plans
 
-{{< figure src="../images/HIS LUS_Conim_Cantaber_Plan_CA fig1.jpg" alt="Plan of House of the Cantaber at Conimbriga, Lusitania Province, Spain" title="Fig. 1: House of Cantaber. Adapted from Hipólito Correia." >}}
+{{< image src="HIS LUS_Conim_Cantaber_Plan_CA fig1.jpg" alt="Plan of House of the Cantaber at Conimbriga, Lusitania Province, Spain" title="Fig. 1: House of Cantaber. Adapted from Hipólito Correia." >}}
 
 ### Images
 
-{{< figure src="../images/HIS LUS_Conim_Cantaber_Photo_CA fig2.jpg" title="Fig. 2: Main peristyle." >}}
-{{< figure src="../images/HIS LUS_Conim_ Cantaber_Planters_CAfig3.jpg" title="Fig. 3: Pool with pink planters." >}}
-{{< figure src="../images/HIS LUS_Conim_Cantaber_photo_SJ fig4.jpg" title="Fig. 4: Secluded, three-column portico.  Photo S.A.J. 1969." >}}
+{{< image src="HIS LUS_Conim_Cantaber_Photo_CA fig2.jpg" title="Fig. 2: Main peristyle." >}}
+{{< image src="HIS LUS_Conim_ Cantaber_Planters_CAfig3.jpg" title="Fig. 3: Pool with pink planters." >}}
+{{< image src="HIS LUS_Conim_Cantaber_photo_SJ fig4.jpg" title="Fig. 4: Secluded, three-column portico.  Photo S.A.J. 1969." >}}
 <!--### Dates-->
 
 

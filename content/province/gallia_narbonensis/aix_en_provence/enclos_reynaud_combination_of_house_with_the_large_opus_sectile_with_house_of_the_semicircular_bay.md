@@ -69,20 +69,20 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" title="Combination of House with the large opus sectile with House of the semicircular bay" >}}<!--### Images-->
+{{< image src="enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" title="Combination of House with the large opus sectile with House of the semicircular bay" >}}<!--### Images-->
 <!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

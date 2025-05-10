@@ -66,7 +66,7 @@ Wooden steps at the rear of this house excavated in 1902 led up to a *viridarium
 
 ### Images
 
-{{< figure src="../images/fig_25_v_iv_48_1_61.jpg" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." title="Fig.25, 48.1.61: Picture of the east wall of the viridarium." >}}
+{{< image src="fig_25_v_iv_48_1_61.jpg" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." title="Fig.25, 48.1.61: Picture of the east wall of the viridarium." >}}
 
 
 <!--### Images-->

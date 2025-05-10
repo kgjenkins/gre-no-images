@@ -61,7 +61,7 @@ NEW WAY ↓↓↓↓
 -->
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa dello Scheletro" title="Plan of Casa dello Scheletro" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa dello Scheletro" title="Plan of Casa dello Scheletro" >}}
 
 
 

@@ -91,7 +91,7 @@ The theater of Tarraco is poorly preserved.  Part of the orchestra, the proscaen
 
 ### Plans
 
-{{< figure src="../images/his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." title="Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)" >}}
+{{< image src="his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." title="Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)" >}}
 
 
 ### Dates

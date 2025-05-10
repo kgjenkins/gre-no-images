@@ -72,10 +72,10 @@ Publicly funded excavation of the northeastern part of Neapolis and the forum of
 
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
+{{< image src="HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." title="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." >}}
 
 ### Images
-{{< figure src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
+{{< image src="HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." title="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." >}}
 
 
 ## Garden
@@ -96,7 +96,7 @@ This large house, some 4,000 square meters, was long and narrow. (Fig. 2) Variou
 - X. Aquilué, J. Ruíz de Arbulo, *La jardinería en la época antigua*, in Historia de los Parques y Jardines en España. Edita FCC, Madrid, 2001 p. 18-20. [(worldcat)](http://www.worldcat.org/oclc/1090911182)
 
 ### Plans
-{{< figure src="../images/HIS_TAR_Emp_villanueva_fig1.jpg" alt="Plan of R1 Casa Villanueve." title="Plan of R1 Casa Villanueve." >}}
+{{< image src="HIS_TAR_Emp_villanueva_fig1.jpg" alt="Plan of R1 Casa Villanueve." title="Plan of R1 Casa Villanueve." >}}
 
 ### Dates
 1C BC

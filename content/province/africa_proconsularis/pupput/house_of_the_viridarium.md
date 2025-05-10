@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Pupput]({{<relref ".">}}) \
 [Pupput (Pleiades)](https://pleiades.stoa.org/places/315121)
 
-{{< figure src="../images/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
+{{< image src="city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" title="Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)" >}}
 
 ### Location Description
 
@@ -67,13 +67,13 @@ House of the Viridarium with Niches (Maison du viridarium à niches)
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" title="Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" >}}
+{{< image src="house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" title="Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-{{< figure src="../images/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" title="Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" >}}
+{{< image src="photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" title="Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

@@ -68,7 +68,7 @@ In private housing at this site on the east coast no excavation has so far been 
 
 ### Plans
 
-<!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+<!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
 ### Images
 

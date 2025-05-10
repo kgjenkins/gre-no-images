@@ -83,7 +83,7 @@ House of the Aviary (Maison de la Volière)
 -->
 
 ### Plans
-{{< figure src="../images/House_of_the_Aviary_final.jpg" alt="Plan of the House of the Aviary at Karthago" title="Fig. 1: Plan of the House of the Aviary (Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." >}}
+{{< image src="House_of_the_Aviary_final.jpg" alt="Plan of the House of the Aviary at Karthago" title="Fig. 1: Plan of the House of the Aviary (Malek, A.-A., 2014, p. 17 and 2018, fig. 12.10)." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
@@ -91,7 +91,7 @@ House of the Aviary (Maison de la Volière)
 ### Images
 
 
-{{< figure src="../images/Drawing_detail_ House_of_the_Aviary.jpg" alt="Detail Drawing of the House of the Aviary at Karthago" title="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary. (Malek,A.-A., 2018, fig. 12.9B)" >}}
+{{< image src="Drawing_detail_ House_of_the_Aviary.jpg" alt="Detail Drawing of the House of the Aviary at Karthago" title="Fig. 2: Reconstruction drawing of corner of the peristyle garden of the House of the Aviary. (Malek,A.-A., 2018, fig. 12.9B)" >}}
 
 ### Dates
 the end of 2nd-4th century CE

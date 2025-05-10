@@ -59,7 +59,7 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 -->
 
 ### Plans
-{{< figure src="../images/cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg" alt="Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße. Adapted from Carroll-Spillecke 1997, fig. 7. (Rights statement)" >}}
+{{< image src="cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg" alt="Plan of the Urban house on Wolfsstrasse at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße. Adapted from Carroll-Spillecke 1997, fig. 7. (Rights statement)" >}}
 
 ### Images
 

@@ -67,7 +67,7 @@ This house located E of the House of the Dolphins, has a small sunken peristyle 
 
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)" >}}
+{{< image src="AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." title="Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)" >}}
 
 <!--### Images-->
 

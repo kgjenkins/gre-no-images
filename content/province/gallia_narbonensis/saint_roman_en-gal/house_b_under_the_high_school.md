@@ -69,13 +69,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/house_b_under_the_high_school.png" alt="Plan of House B under the High School" title="Plan of La Plaine, House B under the High School" >}}
+{{< image src="house_b_under_the_high_school.png" alt="Plan of House B under the High School" title="Plan of La Plaine, House B under the High School" >}}
 
 
 <!--### Images-->
@@ -86,7 +86,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

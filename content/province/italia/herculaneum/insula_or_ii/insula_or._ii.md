@@ -48,8 +48,8 @@ Garden (a)
 Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.
 
 ### Plans
-{{< figure src="../images/herculaneum_ii_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< figure src="../images/i_or._ii-a.jpg" alt="Herculaneum - Garden (a) south of the Great Palaestra" title="Herculaneum - Garden (a) south of the Great Palaestra" >}}
+{{< image src="herculaneum_ii_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image src="i_or._ii-a.jpg" alt="Herculaneum - Garden (a) south of the Great Palaestra" title="Herculaneum - Garden (a) south of the Great Palaestra" >}}
 
 
 

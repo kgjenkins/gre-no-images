@@ -66,7 +66,7 @@ The house appears to have been built at the end of the third or beginning of the
 
 ### Plans
 
-{{< figure src="../images/HIS LUS_Villa Hinojal.jpg" alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain" title="Fig. 1: Plan of Villa El Hinojal. Adapted from J. M. Alvarez Martinez, 1976." >}}
+{{< image src="HIS LUS_Villa Hinojal.jpg" alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain" title="Fig. 1: Plan of Villa El Hinojal. Adapted from J. M. Alvarez Martinez, 1976." >}}
 
 ### Images
 

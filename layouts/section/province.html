@@ -45,7 +45,7 @@
 		</ul>
 	{{ end -}}
 
-	{{- if .Sections -}}
+	{{- if .Pages -}}
 		<!-- List all gardens under this location -->
 		{{- $pages := slice -}}
 		{{- range sort .RegularPagesRecursive ".Params.Title" -}}

@@ -65,7 +65,7 @@ This house at [14] on the map, was discovered in 1977 in an emergency salvage ex
 
 ### Plans
 
-{{< figure src="../images/house_under_the_credit_agricole.png" alt="Plan of House under the Crédit Agricole" title="Plan of House under the Crédit Agricole" >}}
+{{< image src="house_under_the_credit_agricole.png" alt="Plan of House under the Crédit Agricole" title="Plan of House under the Crédit Agricole" >}}
 
 
 

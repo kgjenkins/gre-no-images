@@ -47,11 +47,11 @@ The southern edge of town was against a sharp drop to the sea. A terrace located
 
 
 ### Plans
-{{< figure src="../images/herculaneum_sacred.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< figure src="../images/h_sacred_area.jpg" alt="Plan of the Sacred Area (Maiuri, Herculaneum)" title="Plan of the Sacred Area (Maiuri, Herculaneum)" >}}
+{{< image src="herculaneum_sacred.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image src="h_sacred_area.jpg" alt="Plan of the Sacred Area (Maiuri, Herculaneum)" title="Plan of the Sacred Area (Maiuri, Herculaneum)" >}}
 
 ### Images
-{{< figure src="../images/herc._scared_area_south_wall_42.12.64.jpg" alt="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="herc._scared_area_south_wall_42.12.64.jpg" alt="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Sacred Area Outside the South Walls (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/432873)

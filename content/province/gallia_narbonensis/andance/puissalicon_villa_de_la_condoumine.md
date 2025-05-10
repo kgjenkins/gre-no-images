@@ -79,7 +79,7 @@ The gallery led to baths [19-26]. In a second phase, they were dismantled and th
 ### Plans
 
 
-{{< figure src="../images/puissalicon_villa_de_la_condoumine.png" alt="Plan of Puissalicon, villa de la Condoumine" title="Plan of Puissalicon, villa de la Condoumine" >}}
+{{< image src="puissalicon_villa_de_la_condoumine.png" alt="Plan of Puissalicon, villa de la Condoumine" title="Plan of Puissalicon, villa de la Condoumine" >}}
 
 
 

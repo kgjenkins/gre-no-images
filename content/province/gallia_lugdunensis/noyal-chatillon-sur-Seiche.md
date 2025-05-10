@@ -77,20 +77,20 @@ A study of pollens and sediments below the levels of the Gallo-Roman villa in a 
 
 ### Maps
 
-{{< figure src="../images/noyal1.jpg" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." title="A Map of Land Development Over Time." >}}
+{{< image src="noyal1.jpg" alt="These images are three maps that show the development of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) over time from 1 year A.D. or after J.C. to 180 A.D. or J.C." title="A Map of Land Development Over Time." >}}
 
 ### Plans
 
-{{< figure src="../images/noyal2.jpg" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." title="Plans of Land Development Over Time." >}}
+{{< image src="noyal2.jpg" alt="Two maps with developed and labeled plans of Noyal - Châtillon-sur-Seiche (Ille-et-Vilaine) from 180 A.D. or J.C. to the villa in the middle of the third century A.D. or J.C." title="Plans of Land Development Over Time." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
-{{< figure src="../images/noyal_photo.jpg" alt="A grainy photograph of an archaeological dig of the fountain bassin." title="The Fountain Bassin." >}}
+{{< image src="noyal_photo.jpg" alt="A grainy photograph of an archaeological dig of the fountain bassin." title="The Fountain Bassin." >}}
 
-{{< figure src="../images/noyal_section.jpg" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." title="Reconstructed cut of the Fountain Bassin." >}}
+{{< image src="noyal_section.jpg" alt="A section drawing of a fountain. A female figure stands in the center with water spewing out of a column. There are two extra, unadorned pedastals in the fountain drawing before getting to the fountain's edge." title="Reconstructed cut of the Fountain Bassin." >}}
 
 ### Dates
 Unspecified

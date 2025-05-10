@@ -62,10 +62,10 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../images/H_2_3.jpg" alt="Plan of Casadetta del Genio" title="Plan of Casadetta del Genio" >}}
+{{< image src="H_2_3.jpg" alt="Plan of Casadetta del Genio" title="Plan of Casadetta del Genio" >}}
 
 ### Images
-{{< figure src="../images/Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
+{{< image src="Herc. II.3   68.6.57.jpg" alt="Illustration of Casadetta del Genio" title="Illustration of Casadetta del Genio" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/432873)

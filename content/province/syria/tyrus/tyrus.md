@@ -56,11 +56,11 @@ A tomb garden (Tomb Complex 15) has been found in a cemetery complex dating to t
 -->
 
 ### Plans
-{{< figure src="../images/asia_syria_tyre_author_1.jpg" alt="Plan of tomb complex" title="Fig. 1:  Plan of Tomb Complex 15 showing garden beds, basins, water channels and post holes (Chéhab, Fig. 42)." >}}
+{{< image src="asia_syria_tyre_author_1.jpg" alt="Plan of tomb complex" title="Fig. 1:  Plan of Tomb Complex 15 showing garden beds, basins, water channels and post holes (Chéhab, Fig. 42)." >}}
 
 ### Images
 
-{{< figure src="../images/asia_syria_tyre_author_2.jpg" alt="Photograph of tomb complex after excavation showing garden, basins, and rooms" title="Fig. 2:  Photograph of Tomb Complex 15 showing the garden, basins and adjacent rooms (Chéhab, Pl. XLVIII)." >}}
+{{< image src="asia_syria_tyre_author_2.jpg" alt="Photograph of tomb complex after excavation showing garden, basins, and rooms" title="Fig. 2:  Photograph of Tomb Complex 15 showing the garden, basins and adjacent rooms (Chéhab, Pl. XLVIII)." >}}
 
 
 ### Dates

@@ -58,7 +58,7 @@ The northeastern courtyard was most likely a peristyle-garden.  There, a basin p
 
 ### Plans
 
-{{< figure src="../images/house_of_the_tizerine_cape_fig_1.jpg" alt="Plan of the House of the Tizerine Cape. Only a portion of the house is shown in the plan, due to incomplete excavation of the site. The primary portion shown is rectangular in aspect, one room thick along a generally northeast-southwest line. The three garden areas are to the south, the northwest, and the northeast of the surviving rooms, respectively. Additional rooms are shown in the southwest and northeast corners of the plan, bounding the three gardens and suggesting large footprint for the original house." title="Fig. 1: Plan of the House of the Tizerine Cape (from From Lassus 1960, plan  Stawski E.)">}}
+{{< image src="house_of_the_tizerine_cape_fig_1.jpg" alt="Plan of the House of the Tizerine Cape. Only a portion of the house is shown in the plan, due to incomplete excavation of the site. The primary portion shown is rectangular in aspect, one room thick along a generally northeast-southwest line. The three garden areas are to the south, the northwest, and the northeast of the surviving rooms, respectively. Additional rooms are shown in the southwest and northeast corners of the plan, bounding the three gardens and suggesting large footprint for the original house." title="Fig. 1: Plan of the House of the Tizerine Cape (from From Lassus 1960, plan  Stawski E.)">}}
 
 ### Images
 

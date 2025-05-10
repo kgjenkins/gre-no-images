@@ -62,29 +62,29 @@ Here there was a different way to water the plants. Due to their inclination the
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/54_plan_of_the_piazza_d'oro.jpg" alt="Plan of the Piazza d'Oro at Hadrian's Villa" title="Fig. 54: Plan of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
+{{< image src="54_plan_of_the_piazza_d'oro.jpg" alt="Plan of the Piazza d'Oro at Hadrian's Villa" title="Fig. 54: Plan of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/55_piazza_d'oro_isometric.jpg" alt="Isometric plan of the Piazza d'Oro at Hadrian's Villa" title="Fig. 55: Isometry of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
+{{< image src="55_piazza_d'oro_isometric.jpg" alt="Isometric plan of the Piazza d'Oro at Hadrian's Villa" title="Fig. 55: Isometry of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/56_piazza_d'oro_irrigation.jpg" alt="Plan of the cuts in the tufa platform and the irrigation in the Piazza d’Oro at Hadrian's Villa" title="Fig. 56: Cuts in the tufa platform and the irrigation in the Piazza d’Oro, Eugenia Salza Prina Ricotti." >}}
+{{< image src="56_piazza_d'oro_irrigation.jpg" alt="Plan of the cuts in the tufa platform and the irrigation in the Piazza d’Oro at Hadrian's Villa" title="Fig. 56: Cuts in the tufa platform and the irrigation in the Piazza d’Oro, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/59_sections_piazza_d'oro.jpg" alt="Cross-sections of the Piazza d'Oro garden at Hadrian's Villa, illustrating the irrigation by capillarity" title="Fig. 59: Irrigation by capillarity in the Piazza d’Oro garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="59_sections_piazza_d'oro.jpg" alt="Cross-sections of the Piazza d'Oro garden at Hadrian's Villa, illustrating the irrigation by capillarity" title="Fig. 59: Irrigation by capillarity in the Piazza d’Oro garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/57_the_garden.jpg" alt="Photograph of the Garden of the Piazza d'Oro at Hadrian's Villa" title="Fig. 57: The Garden of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
+{{< image src="57_the_garden.jpg" alt="Photograph of the Garden of the Piazza d'Oro at Hadrian's Villa" title="Fig. 57: The Garden of the Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/58_the_garden.jpg" alt="Photograph of the Piazza d'Oro at Hadrian's Villa" title="Fig. 58: The Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
+{{< image src="58_the_garden.jpg" alt="Photograph of the Piazza d'Oro at Hadrian's Villa" title="Fig. 58: The Piazza d'Oro, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/60_excavations_toward_west.jpg" alt="Western view of the excavations of the Piazza d'Oro garden at Hadrian's Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" title="Fig. 60: Western view of the excavations of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="60_excavations_toward_west.jpg" alt="Western view of the excavations of the Piazza d'Oro garden at Hadrian's Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" title="Fig. 60: Western view of the excavations of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/61_the_excavations_toward_east.jpg" alt="Eastern view of the excavations of the Piazza d'Oro garden at Hadrian's Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" title="Fig. 61: Eastern view of the excavations of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="61_the_excavations_toward_east.jpg" alt="Eastern view of the excavations of the Piazza d'Oro garden at Hadrian's Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" title="Fig. 61: Eastern view of the excavations of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/62_cut_for_the_sluice.jpg" alt="Photograph of the cut for the sluice at the Piazza d'Oro garden Hadrian's Villa" title="Fig. 62: The cut for the sluice of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="62_cut_for_the_sluice.jpg" alt="Photograph of the cut for the sluice at the Piazza d'Oro garden Hadrian's Villa" title="Fig. 62: The cut for the sluice of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/63_pozzetti_irrigazione.jpg" alt="Photograph of eastern irrigation canal of the Piazza d'Oro garden Hadrian's Villa, showing the many little pits excavated in its bottom" title="Fig. 63: The eastern canal of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="63_pozzetti_irrigazione.jpg" alt="Photograph of eastern irrigation canal of the Piazza d'Oro garden Hadrian's Villa, showing the many little pits excavated in its bottom" title="Fig. 63: The eastern canal of the Piazza d'Oro garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

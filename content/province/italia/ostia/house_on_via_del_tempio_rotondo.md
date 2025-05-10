@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 
@@ -76,9 +76,9 @@ This house was only partially excavated between June 1972 and January 1973 (Fig.
 
 ### Plans
 
-{{< figure src="../images/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
+{{< image src="ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" title="Fig. 1: Plan (after M. Supino; PA-OAnt, Archives)." >}}
 
-{{< figure src="../images/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984)." >}}
+{{< image src="ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" title="Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984)." >}}
 
 ### Photos
 

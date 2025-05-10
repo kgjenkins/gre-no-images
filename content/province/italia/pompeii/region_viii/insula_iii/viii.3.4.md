@@ -42,7 +42,7 @@ A. Past the tablinium of this house there was a garden (a) with a portico on the
 B. The garden (a) had an entrance to this area (b) which was planted after having been cleared of old structures.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

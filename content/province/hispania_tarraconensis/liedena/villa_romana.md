@@ -84,7 +84,7 @@ The oecus or principal reception room is the room with an apse facing the southw
 - M.ª C. Fernández Castro, Las villas romanas en Hispania, Madrid, 1986, p. 70 and 178.
 
 ### Plans
-{{< figure src="../images/lei_v_romana_fig1.jpg" alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa." title="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)" >}}
+{{< image src="lei_v_romana_fig1.jpg" alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa." title="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls.  In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)" >}}
 
 
 ### Dates

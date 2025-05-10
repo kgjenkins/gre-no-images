@@ -50,17 +50,17 @@ These parts of the villa have been relatively spared and they are among the best
 
 
 ### Plans
-{{< figure src="../images/93-sperlonga-villa.jpg" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." title="the plan of Sperlonga's Villa.">}}
+{{< image src="93-sperlonga-villa.jpg" alt="Sperlonga's Villa has board view,the peristyle garden was rounded by building, the south part had the Cryptoporch, the terrance and canal and so on ." title="the plan of Sperlonga's Villa.">}}
 
 ### Images
-{{< figure src="../images/91-sperlonga-grotto.jpg" alt="Plan. the general garden plan of Sperlonga." title="the general garden plan of Sperlonga.">}}
+{{< image src="91-sperlonga-grotto.jpg" alt="Plan. the general garden plan of Sperlonga." title="the general garden plan of Sperlonga.">}}
 
-{{< figure src="../images/92-landslide.jpg" alt="The landslide." title="The landslide.">}}
+{{< image src="92-landslide.jpg" alt="The landslide." title="The landslide.">}}
 
-{{< figure src="../images/95-cryptoporch-and-terrace.jpg" alt="Image Cryptoporch and terrace." title="Cryptoporch and terrace.">}}
+{{< image src="95-cryptoporch-and-terrace.jpg" alt="Image Cryptoporch and terrace." title="Cryptoporch and terrace.">}}
 
 
-{{< figure src="../images/97-terrace-parapet.jpg" alt="Terrace's parapet." title="Terrace's parapet.">}}
+{{< image src="97-terrace-parapet.jpg" alt="Terrace's parapet." title="Terrace's parapet.">}}
 
 
 ### Dates

@@ -28,7 +28,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUGGA (Dougga) Tunisia]({{<relref ".">}}) \
 [THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
-{{< figure src="../images/#.jpg" alt="Plan of Thugga" title="Plan of Thugga (L. Maurin, d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image src="#.jpg" alt="Plan of Thugga" title="Plan of Thugga (L. Maurin, d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -52,7 +52,7 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 
 ### Images
 
-{{< figure src="../images/omni_tibia_felicia_dougga.jpg" alt="Plan of the House Omnia Tibi Felicia" title="Fig. 1: Plan of the House Omnia Tibi Felicia (Les ruines de Dougga, Tunis, 1958, p 45.)" >}}
+{{< image src="omni_tibia_felicia_dougga.jpg" alt="Plan of the House Omnia Tibi Felicia" title="Fig. 1: Plan of the House Omnia Tibi Felicia (Les ruines de Dougga, Tunis, 1958, p 45.)" >}}
 
 ### Dates
 

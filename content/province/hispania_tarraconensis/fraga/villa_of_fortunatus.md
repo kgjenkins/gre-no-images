@@ -75,7 +75,7 @@ On the left bank of the Cinca about 5 km upstream (north) of Fraga, at the top o
 
 ### Plans
 
-{{< figure src="../images/fraga_villa_of_fortunus_ca.jpg" alt="Plan of the Villa of Fortunatus, Fraga, Huesca." title="Plan of the Villa of Fortunatus, Fraga, Huesca.  Source: Gorges, Planche XLII" >}}
+{{< image src="fraga_villa_of_fortunus_ca.jpg" alt="Plan of the Villa of Fortunatus, Fraga, Huesca." title="Plan of the Villa of Fortunatus, Fraga, Huesca.  Source: Gorges, Planche XLII" >}}
 
 
 ### Images

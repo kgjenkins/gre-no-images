@@ -75,7 +75,7 @@ Place of the Palms (South Agora)
 -->
 
 ### Plans
-{{< figure src="../images/South agora plan.jpg" alt="The South Agora plan approximately 215 by 70 metres, courtesy- Mica and Ahmet Ertegün South Agora Pool Project" title="Plan of the South Agora, also called as the Place of Palms at Aphrodisias, courtesy-Mica and Ahmet Ertegün South Agora Pool Project">}}
+{{< image src="South agora plan.jpg" alt="The South Agora plan approximately 215 by 70 metres, courtesy- Mica and Ahmet Ertegün South Agora Pool Project" title="Plan of the South Agora, also called as the Place of Palms at Aphrodisias, courtesy-Mica and Ahmet Ertegün South Agora Pool Project">}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -83,9 +83,9 @@ Place of the Palms (South Agora)
 
 ### Images
 
-{{< figure src="../images/place-of-palms-1.jpg" alt="View of the South Agora, also known as the Place of the Palms, Courtesy- R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project" title="Place of Palms, South Agora, 1st century A.D (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)" >}}
+{{< image src="place-of-palms-1.jpg" alt="View of the South Agora, also known as the Place of the Palms, Courtesy- R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project" title="Place of Palms, South Agora, 1st century A.D (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)" >}}
 
-{{< figure src="../images/place-of-palms-2.jpg" alt="South Agora looking west, having a conservation rig over pool perimeter at south-east corner of the image" title="South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner, Courtesy R.R.R. Smith et al., 2018. ">}}
+{{< image src="place-of-palms-2.jpg" alt="South Agora looking west, having a conservation rig over pool perimeter at south-east corner of the image" title="South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner, Courtesy R.R.R. Smith et al., 2018. ">}}
 
 
 ### Dates

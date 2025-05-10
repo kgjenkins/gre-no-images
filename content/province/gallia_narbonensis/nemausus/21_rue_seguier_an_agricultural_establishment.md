@@ -66,9 +66,9 @@ In the central part of the courtyard were found a series of horticultural pots, 
 
 ### Plans
 
-{{< figure src="../images/21_rue_seguier_an_agricultural_establishment_1.png" alt="Plan of 21, rue Séguier, An Agricultural Establishment" title="Fig. 1 Plan of 21, rue Séguier, An Agricultural Establishment" >}}
+{{< image src="21_rue_seguier_an_agricultural_establishment_1.png" alt="Plan of 21, rue Séguier, An Agricultural Establishment" title="Fig. 1 Plan of 21, rue Séguier, An Agricultural Establishment" >}}
 
-{{< figure src="../images/21_rue_seguier_an_agricultural_establishment_2.png" alt="Detail plan of 21, rue Séguier, An Agricultural Establishment" title="Fig. 2 Detail plan of 21, rue Séguier, An Agricultural Establishment" >}}
+{{< image src="21_rue_seguier_an_agricultural_establishment_2.png" alt="Detail plan of 21, rue Séguier, An Agricultural Establishment" title="Fig. 2 Detail plan of 21, rue Séguier, An Agricultural Establishment" >}}
 
 
 ### Dates

@@ -74,7 +74,7 @@ In a third and final phase, dated from around the end of the second century, the
 ### Plans
 
 
-{{< figure src="../images/tower_enclosure_insula_III_house_IIIA_3_phases.png" alt="Plan of Tower Enclosure, Insula III, House IIIA" title="Plan of Tower Enclosure, Insula III, House IIIA" >}}
+{{< image src="tower_enclosure_insula_III_house_IIIA_3_phases.png" alt="Plan of Tower Enclosure, Insula III, House IIIA" title="Plan of Tower Enclosure, Insula III, House IIIA" >}}
 
 
 

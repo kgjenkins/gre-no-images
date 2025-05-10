@@ -46,7 +46,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.
 
 ### Plans
-{{< figure src="../images/fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
+{{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

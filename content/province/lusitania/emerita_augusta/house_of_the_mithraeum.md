@@ -85,13 +85,13 @@ The passage formed by the north colonnade gave access to three chambers, the mid
 
 ### Plans
 
-{{< figure src="../images/his_lus_col_augusta_house_of_mithraeum_fig1.jpg" alt="Fig. 1: House of the Mithraeum." title="Fig. 1: House of the Mithraeum. Adapted from Casilla Moreno." >}}
+{{< image src="his_lus_col_augusta_house_of_mithraeum_fig1.jpg" alt="Fig. 1: House of the Mithraeum." title="Fig. 1: House of the Mithraeum. Adapted from Casilla Moreno." >}}
 
 ### Images
 
-{{< figure src="../images/his_lus_col_augusta_house_of_mithraeum_fig2.jpg" alt="Fig. 2: Central peristyle." title="Fig. 2: Central peristyle." >}}
+{{< image src="his_lus_col_augusta_house_of_mithraeum_fig2.jpg" alt="Fig. 2: Central peristyle." title="Fig. 2: Central peristyle." >}}
 
-{{< figure src="../images/his_lus_col_augusta_house_of_mithraeum_fig3.jpg" alt="Fig. 3: Southwest peristyle." title="Fig. 3: Southwest peristyle." >}}
+{{< image src="his_lus_col_augusta_house_of_mithraeum_fig3.jpg" alt="Fig. 3: Southwest peristyle." title="Fig. 3: Southwest peristyle." >}}
 
 ### Dates
 

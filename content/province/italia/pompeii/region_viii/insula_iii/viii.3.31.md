@@ -39,7 +39,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This house, excavated in 1829-1830, had a peristyle garden (a) on the south side of the property, to the right of the atrium. A portico on the north and part of the south sides had seven columns, one of which was engaged.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

@@ -48,14 +48,14 @@ A building just south of the public park has been identified as the seat of a Co
 
 ### Maps
 
-{{< figure src="../images/HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
 ### Images
 
 
-{{< figure src="../images/HIS BAE Ita Collegium plan fig1.jpg" alt="Fig. 1: Plan of the Collegium of the Excedra. (Rights Statement)" >}}
+{{< image src="HIS BAE Ita Collegium plan fig1.jpg" alt="Fig. 1: Plan of the Collegium of the Excedra. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS BAE italica collegium fig2.jpg" alt="Fig. 2: Photo of the existing site. (Rights Statement)" >}}
+{{< image src="HIS BAE italica collegium fig2.jpg" alt="Fig. 2: Photo of the existing site. (Rights Statement)" >}}
 
 
 ### Dates

@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 

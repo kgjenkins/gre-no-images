@@ -56,10 +56,10 @@ Only part of the southern gallery was excavated. The gallery was 3.15 meters wid
 It is assumed that the peristyle and its garden may have had a view over the sea. One of the rooms sharing this view was decorated with the mosaic of the Jonchée famous for its uniqueness.
 
 ### Plans
-{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig_1.jpg" alt="Plan of the House of the Scattered Branches and Flowers." title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Leveau, Ph., 1982, p.101, fig.1, Guéry, R.)">}}
+{{< image src="house_of_the_scattered_branches_and_flowers_fig_1.jpg" alt="Plan of the House of the Scattered Branches and Flowers." title="Fig. 1: Plan of the House of the Scattered Branches and Flowers (Leveau, Ph., 1982, p.101, fig.1, Guéry, R.)">}}
 
 ### Images
-{{< figure src="../images/house_of_the_scattered_branches_and_flowers_fig-2.jpg" alt="Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house." title="Fig. 2: Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house(aOrOc UMR 8546 CNRS-ENS-PSL Photothèque Stern)">}}
+{{< image src="house_of_the_scattered_branches_and_flowers_fig-2.jpg" alt="Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house." title="Fig. 2: Mosaic of the Jonchée (scattered branches) that decorated one of the room of the NO.5 house(aOrOc UMR 8546 CNRS-ENS-PSL Photothèque Stern)">}}
 ### Dates
 4th century CE
 #### Excavation Dates

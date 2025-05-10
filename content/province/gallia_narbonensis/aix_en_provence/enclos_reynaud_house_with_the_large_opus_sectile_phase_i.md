@@ -69,13 +69,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/enclos_reynaud_house_with_the_large_opus_sectile_phase_I.png" alt="Plan of the House with the large opus sectile, phase I" title="House with the large opus sectile, phase I" >}}
+{{< image src="enclos_reynaud_house_with_the_large_opus_sectile_phase_I.png" alt="Plan of the House with the large opus sectile, phase I" title="House with the large opus sectile, phase I" >}}
 
 
 <!--### Images-->
@@ -85,7 +85,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

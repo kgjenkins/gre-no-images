@@ -63,17 +63,17 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
+{{< image src="hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" title="Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1." >}}
 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

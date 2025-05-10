@@ -31,7 +31,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
-{{< figure src="../images/timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image src="timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
 ### Location Description
 
@@ -71,7 +71,7 @@ This large *domus* the result of the combining of two houses, is located at the 
 -->
 
 ### Plans
-{{< figure src="../images/house_of _sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" >}}
+{{< image src="house_of _sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" title="Fig. 1: Plan of the House of Sertius (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

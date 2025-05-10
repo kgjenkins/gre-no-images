@@ -64,12 +64,12 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/eur_ach_olympia_nero_fig1.jpg" alt="Plan of the ‘House of Nero’ with its garden courtyard and water channel" title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
+{{< image src="eur_ach_olympia_nero_fig1.jpg" alt="Plan of the ‘House of Nero’ with its garden courtyard and water channel" title="Fig. 1: Plan of the ‘House of Nero’ with its garden courtyard (G) and water channel (stippled). Adapted from Mallwitz 1972, fig. 167." >}}
 
 <!--### Images-->
 
@@ -79,7 +79,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

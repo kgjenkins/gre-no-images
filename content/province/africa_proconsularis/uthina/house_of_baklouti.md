@@ -66,7 +66,7 @@ The peristyle garden enclosed by a portico on four sides had a long basin, which
 
 
 ### Plans
-{{< figure src="../images/house_of_baklouti.jpg" alt="Fig.1: Plan of the House of Baklouti" title="Fig.1: Plan of the House of Baklouti (Baklouti, H., 1997, fig. 3)." >}}
+{{< image src="house_of_baklouti.jpg" alt="Fig.1: Plan of the House of Baklouti" title="Fig.1: Plan of the House of Baklouti (Baklouti, H., 1997, fig. 3)." >}}
 
 
 <!--### Images-->

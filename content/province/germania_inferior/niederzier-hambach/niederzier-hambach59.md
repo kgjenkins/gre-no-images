@@ -68,7 +68,7 @@ The farmyard was enclosed by a hedge (dotted lines on plan) and took up an area 
 
 ### Plans
 
-{{< figure src="../images/niederzier_hambach59_plan1_EUR_GI_Nie_RvH59_carroll.jpg" alt="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A). Plan adapted from Gaitzsch 1990, fig. on p. 238. (Rights statement)." title="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A). Plan adapted from Gaitzsch 1990, fig. on p. 238. (Rights statement)." >}}
+{{< image src="niederzier_hambach59_plan1_EUR_GI_Nie_RvH59_carroll.jpg" alt="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A). Plan adapted from Gaitzsch 1990, fig. on p. 238. (Rights statement)." title="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A). Plan adapted from Gaitzsch 1990, fig. on p. 238. (Rights statement)." >}}
 
 ### Images
 

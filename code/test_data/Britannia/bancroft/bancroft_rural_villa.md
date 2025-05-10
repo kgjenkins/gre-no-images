@@ -65,7 +65,7 @@ The villa complex that preceded the winged corridor house is also of interest in
 
 ## Plans
 
-{{< figure src="../images/Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
+{{< image src="Bancroft_fig_1.jpg" alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4." title="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.(Rights statement.)" >}}
 
 ## Images
 

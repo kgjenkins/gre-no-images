@@ -45,7 +45,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 At the time of the eruption this peristyle garden (a) was in the process of renovation. Located behind the tablinium, the white fluted columns on the east and north were still standing, however, all of the columns on the west and two of the south columns had been demolished. There was a rectangular pool 1.06 x 2.56 m. with a semi-circular extension in the back located in the south end of the garden. A low tufa puteal sat over a cistern opening between the first and second columns on the east end of the north side and a gutter encircled the outside edge. According to Jacono, Spano successfully recovered the planting pattern even though it had been excavated many years prior. The design was drawn out in Maiuri’s plan but no accounting was given of how the plan was recovered or what evidence was observed.  Jashemski observed that a fence had been mounted on the columns. Holes were bored at 0.96 and 0.44 m. above the ground, some still containing parts of the metal fasteners.
 
 ### Plans
-{{< figure src="../images/fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
+{{< image src="fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of  Region VIII, Insula V" title="Plan of  Region VIII, Insula V" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

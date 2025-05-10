@@ -66,7 +66,7 @@ Only about half of the rather deep pool has survived.  The base of a fountain is
 ### Plans
 
 
-{{< figure src="../images/house_rue_nationale.png" alt="Plan of House, rue Nationale" title="Plan of House, rue Nationale" >}}
+{{< image src="house_rue_nationale.png" alt="Plan of House, rue Nationale" title="Plan of House, rue Nationale" >}}
 
 
 

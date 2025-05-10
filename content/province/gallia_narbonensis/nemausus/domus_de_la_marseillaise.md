@@ -67,7 +67,7 @@ At the time of the excavation, the central part of the courtyard (32.5 square me
 ### Plans
 
 
-{{< figure src="../images/domus_de_La_marseillaise.jpg" alt="Plan of Domus de La Marseillaise" title="Plan of Domus de La Marseillaise" >}}
+{{< image src="domus_de_La_marseillaise.jpg" alt="Plan of Domus de La Marseillaise" title="Plan of Domus de La Marseillaise" >}}
 
 
 ### Dates

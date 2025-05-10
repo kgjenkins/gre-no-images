@@ -77,7 +77,7 @@ The *triclinium* was bordered on two sides by two apartments that each had rooms
 -->
 
 ### Plans
-{{< figure src="../images/Althuburos_House_of_the_Muses.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Fig. 1: Plan of the House of the Muses (Merlin, A., 1913, pl. V)" >}}
+{{< image src="Althuburos_House_of_the_Muses.jpg" alt="Plan of the House of the Muses at althiburos; rights statement" title="Fig. 1: Plan of the House of the Muses (Merlin, A., 1913, pl. V)" >}}
 
 ### Images
 

@@ -56,14 +56,14 @@ To the west of the central reception room or triclinium was the third garden, wh
 
 ### Maps
 
-{{< figure src="../images/HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
 ### Images
 
 
-{{< figure src="../images/XXXX.jpg" alt="Fig. 1: Photograph looking northeast over a pool in the west garden. (Rights Statement)" >}}
+{{< image src="XXXX.jpg" alt="Fig. 1: Photograph looking northeast over a pool in the west garden. (Rights Statement)" >}}
 
-{{< figure src="../images/XXXX.jpg" alt="Fig. 2: Plan of the House of Hylas. (Rights Statement)" >}}
+{{< image src="XXXX.jpg" alt="Fig. 2: Plan of the House of Hylas. (Rights Statement)" >}}
 
 
 ### Dates

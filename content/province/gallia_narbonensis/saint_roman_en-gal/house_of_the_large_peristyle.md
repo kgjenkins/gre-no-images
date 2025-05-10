@@ -70,13 +70,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/House of the Large Peristyle.png" alt="ALT_TEXT" title="house of the large peristyle" >}}
+{{< image src="House of the Large Peristyle.png" alt="ALT_TEXT" title="house of the large peristyle" >}}
 
 
 <!--### Images-->
@@ -87,7 +87,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

@@ -68,17 +68,17 @@ The third phase distinguished by Maloney and Hale covered several building campa
 
 ### Plans
 
-{{< figure src="../images/HIS LUS_Torre de Palma_plan fig1.jpg" alt="Plan of Villa de Torre de Palma at Monforte Province, Spain" title="Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277." >}}
+{{< image src="HIS LUS_Torre de Palma_plan fig1.jpg" alt="Plan of Villa de Torre de Palma at Monforte Province, Spain" title="Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277." >}}
 
-{{< figure src="../images/HIS LUS_Torre de Palma ph2 fig2.jpg" title="Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale." >}}
+{{< image src="HIS LUS_Torre de Palma ph2 fig2.jpg" title="Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale." >}}
 
-{{< figure src="../images/HIS LUS_Torre de Palma_ph3 fig3.jpg" title="Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale." >}}
+{{< image src="HIS LUS_Torre de Palma_ph3 fig3.jpg" title="Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale." >}}
 
-{{< figure src="../images/HIS LUS_Torre de Palma_ph4 fig4.jpg" title="Fig. 4: Phase 4 construction.  Adapted from Maloney and Hale." >}}
+{{< image src="HIS LUS_Torre de Palma_ph4 fig4.jpg" title="Fig. 4: Phase 4 construction.  Adapted from Maloney and Hale." >}}
 
 ### Images
 
-{{< figure src="../images/HIS LUS_Torre de Palma_photo_CA fig5.jpg" title="Fig. 5: Photo of the peristyle seen from northwest corner." >}}
+{{< image src="HIS LUS_Torre de Palma_photo_CA fig5.jpg" title="Fig. 5: Photo of the peristyle seen from northwest corner." >}}
 
 <!--### Dates-->
 

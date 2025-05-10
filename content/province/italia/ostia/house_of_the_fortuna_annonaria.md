@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 
@@ -90,13 +90,13 @@ The garden also forms the backdrop to the rooms in the east part of the house, a
 
 ### Figures
 
-{{< figure src="../images/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Figure 1: Plan (after Boersma 1985)." >}}
+{{< image src="ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" title="Figure 1: Plan (after Boersma 1985)." >}}
 
-{{< figure src="../images/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" title="Figure 2: Axonometry (from Boersma 1985)." >}}
+{{< image src="ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" title="Figure 2: Axonometry (from Boersma 1985)." >}}
 
-{{< figure src="../images/ostia_fig22.jpg" alt="The garden seen from the oecus" title="Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig22.jpg" alt="The garden seen from the oecus" title="Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig23.jpg" alt="Well head with bucrania" title="Figure 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig23.jpg" alt="Well head with bucrania" title="Figure 4: Well head with bucrania (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 

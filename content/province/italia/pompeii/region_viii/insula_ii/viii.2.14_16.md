@@ -48,8 +48,8 @@ A. The volcanic ledge that this peristyle garden (a) was built on dictated an ir
 B. Built on the volcanic ledge, only a triangular segment of this terrace garden (a) with a portico on the east and north survived. From here the view of the mountains and the Bay could be enjoyed looking over a planted area that was slightly lower than the portico. There was a large light filled room (c) between the two peristyles of this house and terraces on the two lower levels that well could have had potted plants.
 
 ### Plans
-{{< figure src="../images/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< figure src="../images/fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
+{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image src="fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

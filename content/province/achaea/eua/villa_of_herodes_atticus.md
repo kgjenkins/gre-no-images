@@ -70,7 +70,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 <!--### Plans-->
@@ -82,7 +82,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

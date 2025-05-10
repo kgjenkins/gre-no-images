@@ -55,10 +55,10 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain.  There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.
 
 ### Plans
-{{< figure src="../images/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
+{{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
 ### Images
-{{< figure src="../images/fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

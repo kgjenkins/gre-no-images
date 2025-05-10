@@ -53,15 +53,15 @@ This garden was set in the middle of a luxurious peristyle (SALZA PRINA RICOTTI 
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/51_hortus_conclusus.jpg" alt="Plan of the hortus conclusus on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 51: Plan of the hortus conclusus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="51_hortus_conclusus.jpg" alt="Plan of the hortus conclusus on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 51: Plan of the hortus conclusus, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/52_peristilio_a_est_di_palazzo.jpg" alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
+{{< image src="52_peristilio_a_est_di_palazzo.jpg" alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/53_peristilio_ad_est_di_palazzo_2.jpg" alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
+{{< image src="53_peristilio_ad_est_di_palazzo_2.jpg" alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian's Villa" title="Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

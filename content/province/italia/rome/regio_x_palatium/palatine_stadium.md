@@ -78,13 +78,13 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/palatine_stadium_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).">}}
+{{< image src="palatine_stadium_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).">}}
 <!-- -->
-{{< figure src="../images/palatine_stadium_fig2.jpg" alt="Photograph of the stadium" title="Fig. 2.	The “Stadium.” (Photo SAR).">}}
+{{< image src="palatine_stadium_fig2.jpg" alt="Photograph of the stadium" title="Fig. 2.	The “Stadium.” (Photo SAR).">}}
 <!-- -->
-{{< figure src="../images/palatine_stadium_fig3.jpg" alt="Photograph of the stadium" title="Fig. 3.	The so-called Hera Borghese. (Photo SAR).">}}
+{{< image src="palatine_stadium_fig3.jpg" alt="Photograph of the stadium" title="Fig. 3.	The so-called Hera Borghese. (Photo SAR).">}}
 <!-- -->
-{{< figure src="../images/palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" title="Fig. 4.	Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).">}}
+{{< image src="palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" title="Fig. 4.	Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).">}}
 <!-- -->
 ### Dates
 

@@ -72,7 +72,7 @@ This villa is one of the best examples in Spain of an axially planned peristyle 
 
 
 ### Plans
-{{< figure src="../images/his_tar_cue_soria_fig1.jpg" alt="Villa of Cuevas de Soria." title="Villa of Cuevas de Soria.  Source: Gorges, Planche XLIV." >}}
+{{< image src="his_tar_cue_soria_fig1.jpg" alt="Villa of Cuevas de Soria." title="Villa of Cuevas de Soria.  Source: Gorges, Planche XLIV." >}}
 
 
 

@@ -70,14 +70,14 @@ Pollen analyses have yielded some results, although the pollens were damaged and
 None Available
 
 ### Plans
-{{< figure src="../images/yvelines1.jpg" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." title="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" >}}
+{{< image src="yvelines1.jpg" alt="A plan of the gardens of Richebourg. Small black dots, representing places where horticultural pots were found are also marked on the plan." title="Plan 1:  Fig 4 - Plan of the Athenian Gardens of Richebourg" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
 
-{{< figure src="../images/yvelines2.jpg" alt="A colorful bird's eye perspective of the garden between the buildings." title="Plan 1:  Bird's Eye Perspective of the Garden" >}}
+{{< image src="yvelines2.jpg" alt="A colorful bird's eye perspective of the garden between the buildings." title="Plan 1:  Bird's Eye Perspective of the Garden" >}}
 
 ### Dates
 Unspecified

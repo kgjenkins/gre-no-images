@@ -35,7 +35,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 In one of the most beautiful spots of the Eastern Mediterranean, five km west of Jericho, the biblical “city of Palms,” (Deut. 34:3) lie the remains of a royal complex of the late Second Temple Period (the end of the second century B.C. continuing through the mid-first century A.D).  Despite their location in the desert some 200 m. below sea level (one of the lowest occupied elevations on earth) these palaces were set amidst an abundance of vegetation and enjoyed a copious supply of water brought from the surrounding hills via water channels.  The palaces are dramatically situated along Wadi Qelt where the gorge opens abruptly onto the Jordan Valley floor. (Fig. 1) They were set amidst the large palm and balsam groves for which the valley was famed.  Water channels give archaeological evidence of groves to the north of the palace, but literary evidence suggests that royal holdings from Jericho to Ein Gedi were extensive. None of the gardens have been fully excavated, but many have been examined and the presence of rich soil rather than pavement, as well as water channels and ceramic planting pots provide conclusive evidence for the many gardens discussed below.
 
-{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
+{{< image src="ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 
 
 <!-- LEAVE THIS BLANK FOR NOW -->
@@ -53,7 +53,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 The third palace built by Herod in the late first century B.C. merits special mention with regard to the integration of water, gardens and landscape. This palace was sited along a straight section of Wadi Qelt to take advantage of its season flow of water each winter.  This area was, however, lower than those on which the first and second palaces had been built, offering a more limited view of the surroundings.  This shortcoming was offset by the erection of a viewing pavilion on top of an artificial tel.  The overall building complex was rectilinear, with Wadi Qelt cutting through the center, and a bridge spanning the two halves.  On the north side lay a complex of banqueting rooms, Roman style baths, reception rooms, peristyle courtyards and colonnaded walks.   On the south lay a great sunken garden, the artificial tel and pavilion, and, off-axis, a shallow boating pool. (Fig. 2) The garden features are discussed individually below.
 
-{{< figure src="../images/ASIA_JUD_JERICHO_11.jpg" alt="Figure 2: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." title="Figure 2: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
+{{< image src="ASIA_JUD_JERICHO_11.jpg" alt="Figure 2: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." title="Figure 2: Plan of Herod’s Third Palace (K. Gleason after E. Netzer 2001a: Plan 48)." >}}
 
 ## Garden
 
@@ -86,19 +86,19 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 ### Plans
 
-{{< figure src="../images/ASIA_JUD_JERICHO_13a.jpg" alt="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." title="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." >}}
+{{< image src="ASIA_JUD_JERICHO_13a.jpg" alt="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." title="Figure 3: Plan of the Ionic Peristyle Courtyard B64 with the location of the planting pots (K. Wilczak and K. Gleason)." >}}
 
 
 
 ### Images
 
-{{< figure src="../images/ASIA_JUD_JERICHO_12.jpg" alt="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." title="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
+{{< image src="ASIA_JUD_JERICHO_12.jpg" alt="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." title="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell (K. Wilczak after Netzer 2001a: Ill. 478)." >}}
 
-{{< figure src="../images/ASIA_JUD_JERICHO_14.jpg" alt="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason).." title="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason)." >}}
+{{< image src="ASIA_JUD_JERICHO_14.jpg" alt="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason).." title="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north: (a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason)." >}}
 
-{{< figure src="../images/ASIA_JUD_JERICHO_15.jpg" alt="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." title="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." >}}
+{{< image src="ASIA_JUD_JERICHO_15.jpg" alt="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." title="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." >}}
 
-{{< figure src="../images/ASIA_JUD_JERICHO_13b.jpg" alt="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." title="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." >}}
+{{< image src="ASIA_JUD_JERICHO_13b.jpg" alt="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." title="Figure 7: Axonometric reconstruction of the Ionic Peristyle Courtyard B64 with the location of the planting pots (Yaniv Korman)." >}}
 
 ### Dates
 

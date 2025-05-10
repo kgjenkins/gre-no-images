@@ -28,7 +28,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
-{{< figure src="../images/timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image src="timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
 ### Location Description
 
@@ -66,7 +66,7 @@ House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)
 -->
 
 ### Plans
-{{< figure src="../images/house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the west of the filadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
+{{< image src="house_at _the_w _of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" title="Fig. 1: Plan of the House at the west of the filadelfes Baths. (Germain, S., 1969, fig. 10)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

@@ -60,7 +60,7 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 ### Maps
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
@@ -72,7 +72,7 @@ A sarcophagus found at Salona in 1824, transported to the museum in Split, and s
 ### Images
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

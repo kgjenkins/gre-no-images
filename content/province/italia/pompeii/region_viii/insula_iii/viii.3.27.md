@@ -41,7 +41,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 From the street, the fauces led to the entrance to the garden (a) which was enclosed on the south and west by a portico with five columns and two engaged columns, all connected by a low wall. The original excavation plan shows a water channel on the south and west edges.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

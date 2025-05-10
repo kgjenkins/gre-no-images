@@ -76,7 +76,7 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 
 ### Plans
 
-{{< figure src="../images/his_lus_col_augusta_temple_of_diana_fig1.jpg" alt="Fig. 1: Temple of Diana." title="Fig. 1: Temple of Diana. Adapted from Casillas Morena, p. 309." >}}
+{{< image src="his_lus_col_augusta_temple_of_diana_fig1.jpg" alt="Fig. 1: Temple of Diana." title="Fig. 1: Temple of Diana. Adapted from Casillas Morena, p. 309." >}}
 
 ### Dates
 

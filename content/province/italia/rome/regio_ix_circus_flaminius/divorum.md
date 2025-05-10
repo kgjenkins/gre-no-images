@@ -62,11 +62,11 @@ From the northern *exedra*, a water [channel](http://vocab.getty.edu/page/aat/30
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
+{{< image src="divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" title="Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project." >}}
 <!-- -->
-{{< figure src="../images/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer." >}}
+{{< image src="divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" title="Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer." >}}
 <!-- -->
-{{< figure src="../images/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
+{{< image src="divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" title="Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer." >}}
 <!-- -->
 ### Dates
 

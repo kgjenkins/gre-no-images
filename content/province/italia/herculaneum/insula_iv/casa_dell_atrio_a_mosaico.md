@@ -57,7 +57,7 @@ NEW WAY ↓↓↓↓
 -->
 
 ### Plans
-{{< figure src="../images/H_4_1-2.jpg" alt="Plan of Casa dell’Atrio a Mosaico" title="Plan of Casa dell’Atrio a Mosaico" >}}
+{{< image src="H_4_1-2.jpg" alt="Plan of Casa dell’Atrio a Mosaico" title="Plan of Casa dell’Atrio a Mosaico" >}}
 
 
 <!--### Images-->

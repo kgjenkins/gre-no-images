@@ -30,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 
-{{< figure src="../images/thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -54,7 +54,7 @@ The SE area was laid out around an incomplete peristyle with seven columns along
 
 ### Plans
 
-{{< figure src="../images/AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" title="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" >}}
+{{< image src="AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" title="Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)" >}}
 
 ### Dates
 

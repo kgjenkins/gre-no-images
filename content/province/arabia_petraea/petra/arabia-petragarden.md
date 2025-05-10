@@ -98,25 +98,25 @@ The Petra garden continued in use after the Roman annexation of Petra in 106 CE,
 A deep deposit of sediment above the pool floor indicates that the pool went out of use or was not well-maintained for a period of time before the collapse of the pavilion walls into the pool as a result of the earthquake of 363 CE that caused much destruction in Petra. The remnants of later walls, evidence for the reuse of the hydraulic installations, and a raised field that occupies part of the earthen terrace, testify to the continued use of the site for agricultural purposes through the post-Roman occupation of Petra and into the modern era.
 
 ### Maps
-{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
+{{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
 ### Plans
-{{< figure src="../images/2_arabia_petra_city_center.jpg" alt="Plan of Petra's city center" title="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal" >}}
+{{< image src="2_arabia_petra_city_center.jpg" alt="Plan of Petra's city center" title="Fig. 2: Plan of Petra's city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal" >}}
 
-{{< figure src="../images/3_arabia_petra_garden_plan.jpg" alt="Archaeological plan showing garden and pool complex" title="Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal." >}}
+{{< image src="3_arabia_petra_garden_plan.jpg" alt="Archaeological plan showing garden and pool complex" title="Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal." >}}
 
-{{< figure src="../images/4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" title="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." >}}
+{{< image src="4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" title="Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal." >}}
 
 ### Images
-{{< figure src="../images/5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
+{{< image src="5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" title="Fig. 5: Aerial view of the structures on the Southern Terrace in Petra's City Center. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
+{{< image src="6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" title="Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal." >}}
 
-{{< figure src="../images/7_arabia_petra_trellis.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
+{{< image src="7_arabia_petra_trellis.jpg" alt="Imagined reconstruction of the trellised pathway" title="Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason." >}}
 
-{{< figure src="../images/8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
+{{< image src="8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" title="Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal." >}}
 
-{{< figure src="../images/9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
+{{< image src="9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." title="Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal." >}}
 
 ### Tables
 Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)

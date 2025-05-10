@@ -88,7 +88,7 @@ During the third stage dated to the beginning of the second half of the fourth c
 -->
 
 ### Plans
-{{< figure src="../images/Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
+{{< image src="Askleipeia_Building1.jpg" alt="Plan of the Asclepieia Building at althiburos; rights statement" title="Fig. 1: Plan of the Asclepieia Building (Rights statement)" >}}
 
 ### Images
 

@@ -53,7 +53,7 @@ Excavations of a 1400 square meter site in 1989 at 45 rue de la Harpe partially 
 None Available
 
 ### Plans
-{{< figure src="../images/rue_de_la_harpe.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
+{{< image src="rue_de_la_harpe.jpg" alt="Reconstructed axonometric plan of the Domus of the Rue de la Harpe. It shows rooms and bits of the garden space." title="Reconstruction of the four house spaces that make up House on the Rue de la Harpe." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

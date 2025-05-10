@@ -67,7 +67,7 @@ The sanctuary occupies various terraces and dominates the city below. The plan o
 ### Images
 
 
-{{< figure src="../images/HIS_BAE_Munigua_Sanctuary axon_CA.jpg" alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Munigua_Sanctuary axon_CA.jpg" alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)" >}}
 
 
 

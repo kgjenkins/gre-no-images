@@ -80,7 +80,7 @@ Phase III, from around the end of the first century, carried the ideas of Phase 
 
 
 
-NEW WAY ↓↓{{< figure src="../images/house_of_vestibule_with_columns_phase_1.png" alt="Plang of House of Vestibule with Columns " title="plan of House of Vestibule with Columns" >}}
+NEW WAY ↓↓{{< image src="house_of_vestibule_with_columns_phase_1.png" alt="Plang of House of Vestibule with Columns " title="plan of House of Vestibule with Columns" >}}
 
 
 

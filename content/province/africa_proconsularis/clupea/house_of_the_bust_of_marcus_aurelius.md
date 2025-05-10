@@ -72,9 +72,9 @@ Built over an older establishment, the house presents two main phases.  The main
 -->
 
 ### Plans
-{{< figure src="../images/houses_of_the_bust_of_Marcus_Aurelius.jpg" alt="Plan of the House of Marcus Aurelius; rights statement" title="Fig. 1: Plan of the House of Marcus Aurelius (Lassère, J.-M., Slim, H., 2010)" >}}
+{{< image src="houses_of_the_bust_of_Marcus_Aurelius.jpg" alt="Plan of the House of Marcus Aurelius; rights statement" title="Fig. 1: Plan of the House of Marcus Aurelius (Lassère, J.-M., Slim, H., 2010)" >}}
 
-<!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+<!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
 ### Images
 

@@ -61,19 +61,19 @@ Coming back to the small cave, this grotto is surely what Aelius Spartianus call
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/67_inferi_plutonium.jpg" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" title="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="67_inferi_plutonium.jpg" alt="Plan showing the comparison between the small Plutinium grotto at Eleusis and the small inferi grotto at Villa Adriana" title="Fig. 67: Comparison between Eleusis and Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/68_inferi.jpg" alt="Plan of the Valley and Nymphaeum of the Inferi at Hadrian's Villa" title="Fig. 68: Plan of the Valley and Nymphaeum of the Inferi, Eugenia Salza Prina Ricotti." >}}
+{{< image src="68_inferi.jpg" alt="Plan of the Valley and Nymphaeum of the Inferi at Hadrian's Villa" title="Fig. 68: Plan of the Valley and Nymphaeum of the Inferi, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/69_inferi_nymphaeum.jpg" alt="Isometric plan of the Inferi Nymphaeum at Hadrian's Villa" title="Fig. 69: Isometry of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="69_inferi_nymphaeum.jpg" alt="Isometric plan of the Inferi Nymphaeum at Hadrian's Villa" title="Fig. 69: Isometry of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/70_small_grotto.jpg" alt="Photograph of the small grotto of the Inferi Nymphaeum at Villa Adriana" title="Fig. 70: The small grotto of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="70_small_grotto.jpg" alt="Photograph of the small grotto of the Inferi Nymphaeum at Villa Adriana" title="Fig. 70: The small grotto of the Inferi Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/71_inferi_by_penna.jpg" alt="Drawing of the Inferi Nymphaeum at Villa Adriana, by A. Penna" title="Fig. 71: Early nineteenth-century drawing of the Inferi Nymphaeum, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
+{{< image src="71_inferi_by_penna.jpg" alt="Drawing of the Inferi Nymphaeum at Villa Adriana, by A. Penna" title="Fig. 71: Early nineteenth-century drawing of the Inferi Nymphaeum, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

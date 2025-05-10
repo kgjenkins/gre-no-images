@@ -54,7 +54,7 @@ A large reception room of 73 square meters in the northwest corner was heated by
 None Available
 
 ### Plans
-{{< figure src="../images/domus_place_des_epars.jpg" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." title="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." >}}
+{{< image src="domus_place_des_epars.jpg" alt="Image from CAG showing a plan of Domus of the Place des Epars, two photos of the archaeological excavations, and a photo of the decoration of a Corinthian column." title="LUG_Fig. 1: Chartres, Domus of the Place des Epars, from CAG." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

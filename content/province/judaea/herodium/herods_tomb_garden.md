@@ -72,13 +72,13 @@ In 2005, Netzer’s team found the long-sought tomb of Herod, positioned on a te
 
 ### Plans
 
-{{< figure src="../images/ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
+{{< image src="ASIA_JUD_HERODIUM _1.jpg" alt="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)." title="Fig. 1:Plan of the complex at Herodium showing the Fortress Palace with its small peristyle garden (A), the Tomb Garden (B) and the Lower Palace with its central pool and cultivated grounds (C) (Yaniv Korman after Netzer)" >}}
 
 <!--### Images
 
-{{< figure src="../images/ASIA_JUD_HERODIUM _2.jpg" alt="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)." title="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)" >}}
+{{< image src="ASIA_JUD_HERODIUM _2.jpg" alt="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)." title="Fig. 2: A reconstruction drawing of the mausoleum garden at its later period, around 20 AD (Yaniv Korman)" >}}
 
-{{< figure src="../images/ASIA_JUD_HERODIUM _3.jpg" alt="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)." title="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)" >}}-->
+{{< image src="ASIA_JUD_HERODIUM _3.jpg" alt="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)." title="Fig. 3: A reconstruction drawing of the mausoleum garden at its early period, around 15 BC (Yaniv Korman)" >}}-->
 
 ### Dates
 

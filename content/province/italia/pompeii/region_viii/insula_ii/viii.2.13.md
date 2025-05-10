@@ -46,8 +46,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 The room (b) to the east had a good view into this garden (a) which was located to the rear of the tablinium. A column supported portico bordered the garden on the east and south.
 
 ### Plans
-{{< figure src="../images/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< figure src="../images/fig._4_region_viii_insula_ii_13.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
+{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image src="fig._4_region_viii_insula_ii_13.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

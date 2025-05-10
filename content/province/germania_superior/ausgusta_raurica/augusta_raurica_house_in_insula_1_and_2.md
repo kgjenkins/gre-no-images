@@ -70,7 +70,7 @@ The northern part of the house facing the street included an open terrace which 
 
 ### Plans
 
-{{< figure src="../images/EUR_GS_AUG RAU_Hi1+2_carroll.jpg" alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt." title="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)" >}}
+{{< image src="EUR_GS_AUG RAU_Hi1+2_carroll.jpg" alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt." title="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)" >}}
 
 ### Images
 

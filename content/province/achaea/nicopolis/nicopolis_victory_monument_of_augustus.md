@@ -75,16 +75,16 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" title="Fig. 1: State plan of the monument.  Courtesy of K. L. Zachos." >}}
+{{< image src="eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" title="Fig. 1: State plan of the monument.  Courtesy of K. L. Zachos." >}}
 
 ### Images
 
-{{< figure src="../images/eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" title="Fig. 2: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
+{{< image src="eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" title="Fig. 2: Clay planting pots. Photo courtesy of K. L. Zachos." >}}
 
 ### Dates
 

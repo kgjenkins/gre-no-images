@@ -45,8 +45,8 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 A colonnaded portico stood at the edge of the terrace (a) on the street level of this house. Below it was another terrace enclosed by a low wall. Sogliano and Mau disagree as to whether the wall contained a space for plants as only a part on the east remained.  This was plastered and painted with a Nile scene, the surviving sections showing a crocodile pursued by a pigmy with a shield and lance and a pigmy woman with a basket and a hippopotamus nearby.
 
 ### Plans
-{{< figure src="../images/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< figure src="../images/fig._4_region_viii_insula_ii_34.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
+{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image src="fig._4_region_viii_insula_ii_34.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" title="Plan of the Pompeii Region VIII, Insula II, 29-39" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

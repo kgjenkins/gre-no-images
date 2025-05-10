@@ -36,7 +36,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-{{< figure src="../images/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image src="cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." title="Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -76,14 +76,14 @@ The large block of buildings called the "House of Bacchus", (about 7000 m2) has 
 
 ### Plans
 
-{{< figure src="../images/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." title="Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)">}}
+{{< image src="house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." title="Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)">}}
 
 ### Images
-{{< figure src="../images/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" title="Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))">}}
+{{< image src="house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" title="Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))">}}
 
-{{< figure src="../images/pool_and_fish_pool.jpg" alt="The pool and fish pool." title="Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)">}}
+{{< image src="pool_and_fish_pool.jpg" alt="The pool and fish pool." title="Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)">}}
 
-{{< figure src="../images/fish_pool.jpg" alt="The fish pool." title="Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)">}}
+{{< image src="fish_pool.jpg" alt="The fish pool." title="Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)">}}
 
 ### Dates
 

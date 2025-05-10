@@ -77,15 +77,15 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/house_under_the_pasteur_parking_lot_phase1.png" alt="Fig.1 Plan of the House under the Pasteur parking lot, Phase 1" title="House under the Pasteur parking lot_phase1" >}}
+{{< image src="house_under_the_pasteur_parking_lot_phase1.png" alt="Fig.1 Plan of the House under the Pasteur parking lot, Phase 1" title="House under the Pasteur parking lot_phase1" >}}
 
-{{< figure src="../images/house_under_the_pasteur_parking_lot_phase2.png" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" title="House under the Pasteur parking lot_phase2" >}}
+{{< image src="house_under_the_pasteur_parking_lot_phase2.png" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" title="House under the Pasteur parking lot_phase2" >}}
 
 <!--### Images-->
 <!--
@@ -94,7 +94,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

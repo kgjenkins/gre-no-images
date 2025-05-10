@@ -52,12 +52,12 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 A large aedicula shrine was built against the rear wall of this long garden (a) directly across from the north side of the atrium, which was entirely open to this view. The shrine stood on a podium 2.00 x 2.15 m.; 0.80 m. high with four steps in front and a marble herm on either side. Two little brick columns supported a roof over a marble statuette of Diana with a marble thymiaterion before it. A broken marble candelabrum was found at the foot of the steps when this site was excavated in 1839. Jashemski reports that the head and right arm of the statuette were found first and later the rest of the statuette was uncovered in good condition, however, she was unable to find any record of the statuette in the Museo Nazionale and speculated that the Princess of Saxony, who was present at the excavation, may have been given possession of the statuette. Another aedicula shrine with an altar was located in the northwest corner of the garden.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 ### Images
-{{< figure src="../images/fig._6._viii.iii.14_8.21.71.jpg" alt="Fig. 6, 8.21.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 6, 8.21.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< figure src="../images/fig._7._viii.iii.14_8.23.71.jpg" alt="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< figure src="../images/fig._8._viii.iii.14_12.30.59.jpg" alt="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig._6._viii.iii.14_8.21.71.jpg" alt="Fig. 6, 8.21.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 6, 8.21.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig._7._viii.iii.14_8.23.71.jpg" alt="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 7, 8.23.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig._8._viii.iii.14_12.30.59.jpg" alt="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 8, 12.30.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

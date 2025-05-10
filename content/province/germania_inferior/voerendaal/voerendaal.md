@@ -65,7 +65,7 @@ In front of the house to the south was a large area (17 x 37 m.), enclosed by a 
 
 ### Plans
 
-{{< figure src="../images/voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" alt="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement)." title="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement).">}}
+{{< image src="voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" alt="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement)." title="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement).">}}
 
 ### Images
 

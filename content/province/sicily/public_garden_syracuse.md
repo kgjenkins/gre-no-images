@@ -68,13 +68,13 @@ In the Roman period, the clearest evidence for the presence of a formal garden i
 
 ### Plans
 
-<!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+<!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
 ### Images
 
-{{< figure src="../images/figure2.jpg" alt="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" title="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" >}}
+{{< image src="figure2.jpg" alt="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" title="Fig. 2  Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" >}}
 
-{{< figure src="../images/figure3.png" alt="Fig. 3  Syracuse, general view of the piazza as it appears today" title="Fig. 3  Syracuse, general view of the piazza as it appears today" >}}
+{{< image src="figure3.png" alt="Fig. 3  Syracuse, general view of the piazza as it appears today" title="Fig. 3  Syracuse, general view of the piazza as it appears today" >}}
 
 ### Dates
 

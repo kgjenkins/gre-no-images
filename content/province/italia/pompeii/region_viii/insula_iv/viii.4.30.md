@@ -43,7 +43,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This tiny house with the small atrium and adjacent rooms had formerly been a porticoed garden, part of house 15 according to Fiorelli.
 
 ### Plans
-{{< figure src="../images/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
+{{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
 
 
 #### Pleiades ID

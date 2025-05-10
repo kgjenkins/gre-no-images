@@ -67,7 +67,7 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 ### Plans
 
 
-{{< figure src="../images/edifice_of_the_platform.png" alt="Plan of Edifice of the Platform" title="Edifice of the platform" >}}
+{{< image src="edifice_of_the_platform.png" alt="Plan of Edifice of the Platform" title="Edifice of the platform" >}}
 
 
 ### Dates

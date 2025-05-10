@@ -72,7 +72,7 @@ Two lararia  (32 B, XXXV) open off of porticos XI and XIII respectively.
 <!--### Maps-->
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." title="Fig. 1: House of the Dolphins (CMT, plans 5-6)" >}}
+{{< image src="AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." title="Fig. 1: House of the Dolphins (CMT, plans 5-6)" >}}
 
 <!--### Images-->
 

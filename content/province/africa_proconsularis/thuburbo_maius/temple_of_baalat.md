@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 
-{{< figure src="../images/thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -55,7 +55,7 @@ Only the central passage (III) way leading to the temple (IV) was paved. The res
 
 ### Plans
 
-{{< figure src="../images/Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" >}}
+{{< image src="Temple of Baalat.jpg" alt="Plan of the Temple of Baalat " title="Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)" >}}
 
 ### Dates
 unspecified

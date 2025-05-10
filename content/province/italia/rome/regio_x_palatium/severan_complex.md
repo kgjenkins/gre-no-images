@@ -64,7 +64,7 @@ RELATED PHASES ON THE PALATINE:
 <!-- -->
 ### Figures
 
-{{< figure src="../images/severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image src="severan_complex_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 <!-- -->
 ###Dates
 

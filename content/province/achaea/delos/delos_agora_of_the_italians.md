@@ -63,14 +63,14 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 -->
 
 ### Plans
-{{< figure src="../images/truemper1.png" alt="Plan of the agora" title="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper." >}}
+{{< image src="truemper1.png" alt="Plan of the agora" title="Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper." >}}
 
-{{< figure src="../images/truemper2.png" alt="Plan of the agora with surrounding buildings" title="Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." >}}
+{{< image src="truemper2.png" alt="Plan of the agora with surrounding buildings" title="Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2." >}}
 
 ### Images
-{{< figure src="../images/truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" title="Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper." >}}
+{{< image src="truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" title="Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper." >}}
 
-{{< figure src="../images/truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" title="Fig. 4:  Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< image src="truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" title="Fig. 4:  Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper." >}}
 
 ### Dates
 2nd-1st c. BCE

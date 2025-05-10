@@ -54,7 +54,7 @@ The excavation of this site was begun in 1873-1874 and is still incomplete. A si
 
 
 ### Plans
-{{< figure src="../images/herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image src="herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/432873)

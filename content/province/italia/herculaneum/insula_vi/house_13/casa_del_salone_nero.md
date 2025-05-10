@@ -50,8 +50,8 @@ Casa del Salone Nero
 Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a portico which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the tablinum. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).
 
 ### Plans
-{{< figure src="../images/herculaneum_vi_13.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< figure src="../images/h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Casa del Salone Nero" title="Herculaneum VI.11-19,25-26-Casa del Salone Nero" >}}
+{{< image src="herculaneum_vi_13.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image src="h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Casa del Salone Nero" title="Herculaneum VI.11-19,25-26-Casa del Salone Nero" >}}
 
 
 

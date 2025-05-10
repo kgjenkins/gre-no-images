@@ -32,7 +32,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
 
-{{< figure src="../images/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image src="dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -58,7 +58,7 @@ The anonymous sanctuary, called *Dar Lachheb* (184-187 CE), located about fifty 
 
 ### Plans
 
-{{< figure src="../images/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" title="Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)" >}}
+{{< image src="the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" title="Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)" >}}
 
 ### Dates
 184-187 CE

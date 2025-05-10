@@ -57,7 +57,7 @@ In the southwestern corner, a small room protrudes into the gallery and opens in
 
 ### Plans
 
-{{< figure src="../images/house_of_iustiniani_and_sabini_fig_1.jpg" alt="Plan of the House of Iustiniani and Sabini. The house has an overall rectangular aspect, with the roughly square peristyle garden occupying the center. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Iustiniani and Sabini (Leveau, Ph., 1982, pp.137,fig.21, Stawski E.)">}}
+{{< image src="house_of_iustiniani_and_sabini_fig_1.jpg" alt="Plan of the House of Iustiniani and Sabini. The house has an overall rectangular aspect, with the roughly square peristyle garden occupying the center. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Iustiniani and Sabini (Leveau, Ph., 1982, pp.137,fig.21, Stawski E.)">}}
 
 ### Images
 

@@ -62,7 +62,7 @@ This house was excavated in 1900 and a small garden (a) was found to the east of
 
 ### Plans
 
-<!--{{< figure src="../images/Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
+<!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
 
 <!--### Images-->

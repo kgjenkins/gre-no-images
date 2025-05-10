@@ -47,10 +47,10 @@ The so-called **perfumery** was equipped with a Rhodian peristyle (e), an open *
 -->
 
 ### Plans
-{{< figure src="../images/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
+{{< image src="delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery'" title="Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII." >}}
 
 ### Images
-{{< figure src="../images/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
+{{< image src="delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." title="Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper." >}}
 
 ### Dates
 1st c. BCE

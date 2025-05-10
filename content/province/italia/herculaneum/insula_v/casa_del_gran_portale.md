@@ -46,7 +46,7 @@ none
 Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of beingin a garden.A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 

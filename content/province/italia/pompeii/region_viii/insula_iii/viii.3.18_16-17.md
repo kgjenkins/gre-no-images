@@ -43,7 +43,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 When this house was excavated in 1826, Fiorelli determined that after the earthquake it had been divided into two separated residences. The southeast corner was the location of a garden (a) that had a portico on three sides with columns connected by a low wall and pilasters on the south wall.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 
 #### Pleiades ID

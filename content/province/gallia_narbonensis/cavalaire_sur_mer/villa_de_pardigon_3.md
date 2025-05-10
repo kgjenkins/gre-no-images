@@ -71,7 +71,7 @@ In a final stage, at the beginning of the third century, the garden was transfor
 ### Plans
 
 
-{{< figure src="../images/villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" title="Plan of Villa de Pardigon 3" >}}
+{{< image src="villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" title="Plan of Villa de Pardigon 3" >}}
 
 
 

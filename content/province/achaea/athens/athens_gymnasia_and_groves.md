@@ -78,17 +78,17 @@ Ancient literary references to the plane, elm, poplar, and olive trees in the Ac
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" title="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." >}}
+{{< image src="gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" title="Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59." >}}
 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

@@ -80,9 +80,9 @@ At the heart of the garden, the rectangular pool [47] of the first condition was
 ### Plans
 
 
-{{< figure src="../images/suburban_villa_de_la_brunette_1.png" alt="Fig. 1 Plan of Suburban Villa de la Brunette" title="Fig. 1 Plan of Suburban Villa de la Brunette" >}}
+{{< image src="suburban_villa_de_la_brunette_1.png" alt="Fig. 1 Plan of Suburban Villa de la Brunette" title="Fig. 1 Plan of Suburban Villa de la Brunette" >}}
 
-{{< figure src="../images/suburban_villa_de_la_brunette_2.png" alt="Fig. 2 Plan of Suburban Villa de la Brunette" title="Fig. 2 Plan of Suburban Villa de la Brunette" >}}
+{{< image src="suburban_villa_de_la_brunette_2.png" alt="Fig. 2 Plan of Suburban Villa de la Brunette" title="Fig. 2 Plan of Suburban Villa de la Brunette" >}}
 
 
 ### Dates

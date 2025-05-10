@@ -71,13 +71,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/house_with_the_painted_portico.png" alt="Plan of House with the Painted Portico" title="Plan of house with the painted portico" >}}
+{{< image src="house_with_the_painted_portico.png" alt="Plan of House with the Painted Portico" title="Plan of house with the painted portico" >}}
 
 
 

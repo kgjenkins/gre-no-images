@@ -34,7 +34,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 
-{{< figure src="../images/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -64,7 +64,7 @@ The *Trifolium* sector, was laid out around a peristyle garden (I-V) enclosed on
 
 ### Plans
 
-{{< figure src="../images/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" title="Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)" >}}
+{{< image src="AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" title="Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)" >}}
 
 ### Dates
 4th century CE

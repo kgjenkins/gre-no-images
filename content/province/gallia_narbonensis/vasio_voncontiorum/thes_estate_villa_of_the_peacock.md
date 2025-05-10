@@ -69,11 +69,11 @@ The façade of the back of the building opened to north by a portico [4], 3.45 m
 
 ### Plans
 
-{{< figure src="../images/thes_estate_villa_of_the_peacock_plan.png" alt="Plan of Villa of The Peacock" title="Plan of Villa of The Peacock" >}}
+{{< image src="thes_estate_villa_of_the_peacock_plan.png" alt="Plan of Villa of The Peacock" title="Plan of Villa of The Peacock" >}}
 
 ### Images
 
-{{< figure src="../images/thes_estate_villa_of_the_peacock_axon.png" alt="Axon of Villa of The Peacock" title="Axon of Villa of The Peacock" >}}
+{{< image src="thes_estate_villa_of_the_peacock_axon.png" alt="Axon of Villa of The Peacock" title="Axon of Villa of The Peacock" >}}
 
 
 ### Dates

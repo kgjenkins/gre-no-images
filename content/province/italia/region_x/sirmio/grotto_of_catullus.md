@@ -117,15 +117,15 @@ NEW WAY ↓↓↓↓
 ### Plans
 {< figure src="../images/sirmio-2.jpg" alt="Fig. 2: Plan of House of Grotto of Catullus." title="Fig. 2: Plan of House of Grotto of Catullus" >}}
 
-{{< figure src="../images/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." title="Fig. 3: Plan of the residential rooms" >}}
+{{< image src="sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." title="Fig. 3: Plan of the residential rooms" >}}
 
-{{< figure src="../images/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." title="Fig. 5: Aerial view of vast olive grove" >}}
+{{< image src="sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." title="Fig. 5: Aerial view of vast olive grove" >}}
 
-{{< figure src="../images/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." title="Fig. 7: Aerial view of courtyard-viridarium" >}}
+{{< image src="sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." title="Fig. 7: Aerial view of courtyard-viridarium" >}}
 
-{{< figure src="../images/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." title="Fig. 11: statue of a Dioscuros" >}}
+{{< image src="sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." title="Fig. 11: statue of a Dioscuros" >}}
 
-{{< figure src="../images/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." title="Fig. 12: Figure of  Plant fossils" >}}
+{{< image src="sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." title="Fig. 12: Figure of  Plant fossils" >}}
 
 ### Dates
 

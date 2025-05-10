@@ -51,7 +51,7 @@ The peristyle garden had four porticoes supported by 14 columns and enclosed by 
 
 ### Plans
 
-{{< figure src="../images/villa_of_the_frescoes_fig_1.png" alt="Plan of the Villa of the Frescoes. This large house had a rectangular aspect, with the shorter side of the rectangle on the northern and southern sides. The central peristyle has the same aspect as the house and is centered in the floor plan. Twenty-six rooms of various sizes surround the peristyle garden, and in the majority of cases each room extends from the garden to the exterior wall, with two separate occasions where the space was divided into two smaller rooms instead. To the north of the house, the ground slopes down to the seaside, which has a ragged edge, changing between about five and ten meters from the northern wall of the house." title="Fig. 1: Plan of the Villa of the Frescoes (Rights Statement)">}}
+{{< image src="villa_of_the_frescoes_fig_1.png" alt="Plan of the Villa of the Frescoes. This large house had a rectangular aspect, with the shorter side of the rectangle on the northern and southern sides. The central peristyle has the same aspect as the house and is centered in the floor plan. Twenty-six rooms of various sizes surround the peristyle garden, and in the majority of cases each room extends from the garden to the exterior wall, with two separate occasions where the space was divided into two smaller rooms instead. To the north of the house, the ground slopes down to the seaside, which has a ragged edge, changing between about five and ten meters from the northern wall of the house." title="Fig. 1: Plan of the Villa of the Frescoes (Rights Statement)">}}
 
 ### Images
 

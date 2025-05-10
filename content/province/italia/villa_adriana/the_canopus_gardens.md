@@ -64,23 +64,23 @@ Then excavations in the valley showed the existence of two long flower beds that
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/2_the_canopus_plan.jpg" alt="Plan of the Canopus at Hadrian's Villa" title="Fig. 2: The Canopus plan, Eugenia Salza Prina Ricotti." >}}
+{{< image src="2_the_canopus_plan.jpg" alt="Plan of the Canopus at Hadrian's Villa" title="Fig. 2: The Canopus plan, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/3_canopus_autocad.jpg" alt="Autocad rendering of the Canopus at Hadrian's Villa" title="Fig. 3: Autocad rendering of the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="3_canopus_autocad.jpg" alt="Autocad rendering of the Canopus at Hadrian's Villa" title="Fig. 3: Autocad rendering of the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian's Villa" title="Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian's Villa" title="Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian's Villa" title="Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian's Villa" title="Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/6_central_gallery.jpg" alt="Photograph of the central gallery at the Canopus at Hadrian's Villa" title="Fig. 6: The central gallery at the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="6_central_gallery.jpg" alt="Photograph of the central gallery at the Canopus at Hadrian's Villa" title="Fig. 6: The central gallery at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/7_lateral_pavilion.jpg" alt="Photograph of the lateral pavilion at the Canopus at Hadrian's Villa" title="Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="7_lateral_pavilion.jpg" alt="Photograph of the lateral pavilion at the Canopus at Hadrian's Villa" title="Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian's Villa" title="Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti." >}}
+{{< image src="8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian's Villa" title="Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

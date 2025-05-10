@@ -51,7 +51,7 @@ Casa dell’Atrio Corontio
 A shallow cruciform-shaped *impluvium* was the central feature in the rectangular *atrium* of this house excavated in 1933-1934. The *atrium* gave the impression of a *peristyle* garden by way of the fountain centered in the *impluvium*, the plantings on either side and three tuffa columns on either side, fluted white stucco on the top and painted red at the base. These were connected by a low wall with plantings on the top creating a lush green atmosphere to the total effect. This arrangement was the result of the aqueduct supplying an abundance of water and reducing the demand on the cistern, which was found in the northeast corner of the garden, and the ancient well incorporated into the low wall. This house was noted by Maiuri as an elegant example of the transformation of the *impluvium* basin into a fountain and *viridarium*.
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 

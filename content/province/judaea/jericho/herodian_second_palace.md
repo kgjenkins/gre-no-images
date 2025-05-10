@@ -35,7 +35,7 @@ The geography of Judaea comprises a wide variety of biomes, from richly watered 
 
 In one of the most beautiful spots of the Eastern Mediterranean, five km west of Jericho, the biblical “city of Palms,” (Deut. 34:3) lie the remains of a royal complex of the late Second Temple Period (the end of the second century B.C. continuing through the mid-first century A.D).  Despite their location in the desert some 200 m. below sea level (one of the lowest occupied elevations on earth) these palaces were set amidst an abundance of vegetation and enjoyed a copious supply of water brought from the surrounding hills via water channels.  The palaces are dramatically situated along Wadi Qelt where the gorge opens abruptly onto the Jordan Valley floor. (Fig. 1) They were set amidst the large palm and balsam groves for which the valley was famed.  Water channels give archaeological evidence of groves to the north of the palace, but literary evidence suggests that royal holdings from Jericho to Ein Gedi were extensive. None of the gardens have been fully excavated, but many have been examined and the presence of rich soil rather than pavement, as well as water channels and ceramic planting pots provide conclusive evidence for the many gardens discussed below.
 
-{{< figure src="../images/ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
+{{< image src="ASIA_JUD_JERICHO_1.jpg" alt="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho." title="Figure 1:  Plan of the Hasmonean and Herodian Winter Palace Complex, Jericho (Gleason after Netzer)" >}}
 
 <!-- LEAVE THIS BLANK FOR NOW -->
 
@@ -76,15 +76,15 @@ The  low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming 
 
 ### Plans
 
-{{< figure src="../images/ASIA_JUD_JERICHO_8a.jpg" alt="Figure 2: Gardens of Herod’s Second Palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." title="Figure 2: Gardens of Herod’s second palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." >}}
+{{< image src="ASIA_JUD_JERICHO_8a.jpg" alt="Figure 2: Gardens of Herod’s Second Palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." title="Figure 2: Gardens of Herod’s second palace. Light gray shading indicates gardens, dark gray shading indicates pools (Gleason after Netzer 2001a: Plan 47)." >}}
 
 ### Images
 
-{{< figure src="../images/ASIA_JUD_JERICHO_9.jpg" alt="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." title="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." >}}
+{{< image src="ASIA_JUD_JERICHO_9.jpg" alt="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." title="Figure 3: Planting pots such as this are known from around the Greek and Roman world, although this one is particularly elegant in shape. The ancient authors describe how such pots were used for the propagation of a variety of trees, shrubs, and vines. (K. Gleason)." >}}
 
-{{< figure src="../images/fig_10.jpg" alt="Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." title="Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." >}}
+{{< image src="fig_10.jpg" alt="Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." title="Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer)." >}}
 
-{{< figure src="../images/ASIA_JUD_JERICHO_8b.jpg" alt="Figure 5: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." title="Figure 5: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." >}}
+{{< image src="ASIA_JUD_JERICHO_8b.jpg" alt="Figure 5: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." title="Figure 5: Axonometric reconstruction of Herod’s second palace (Yaniv Korman)." >}}
 
 
 ### Dates

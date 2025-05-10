@@ -53,7 +53,7 @@ The large domus that belonged to the rich Pompeian family during the second cent
 
 ### Plans
 <!--Plan View Image Missing-->
-<!-- {{< figure src="../images/IMAGEMISSING" alt="Plan of the Gordian Palace" title="Fig. 1: Plan of the Gordian Palace (Rights Statement)">}} -->
+<!-- {{< image src="IMAGEMISSING" alt="Plan of the Gordian Palace" title="Fig. 1: Plan of the Gordian Palace (Rights Statement)">}} -->
 
 ### Images
 

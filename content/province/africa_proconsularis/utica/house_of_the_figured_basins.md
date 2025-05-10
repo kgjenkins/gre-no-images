@@ -68,7 +68,7 @@ The house was located in the *insula* III. The rectangular courtyard, in the SW 
 
 
 ### Plans
-{{< figure src="../images/AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basin." title="Fig. 1: Plan view of the House of the Figured Basin (CMT, plan 22). " >}}
+{{< image src="AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basin." title="Fig. 1: Plan view of the House of the Figured Basin (CMT, plan 22). " >}}
 
 <!--### Images-->
 

@@ -79,7 +79,7 @@ House of the Nymphs (Maison des Nymphes)
 -->
 
 ### Plans
-{{< figure src="../images/afr_nea_hn_amalekfig2.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" >}}
+{{< image src="afr_nea_hn_amalekfig2.jpg" alt="Plan of the House of the Nymphs at Neapolis; rights statement" title="Fig.1: Plan of the House of the Nymphs. (Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -87,11 +87,11 @@ House of the Nymphs (Maison des Nymphes)
 
 ### Images
 
-{{< figure src="../images/afr_nea_hn_amalekphotofig2.jpg" alt="Photographic view of the gardenat Neapolis; rights statement" title="Fig.2: Photographic view of the garden. (?)" >}}
+{{< image src="afr_nea_hn_amalekphotofig2.jpg" alt="Photographic view of the gardenat Neapolis; rights statement" title="Fig.2: Photographic view of the garden. (?)" >}}
 
-{{< figure src="../images/Detail_of_the_pool_with_inscription.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.3: View of the basin of the garden peristyle of the House of the Nymphs. (Malek, A.-A., 2018, fig. 12.11A)" >}}
+{{< image src="Detail_of_the_pool_with_inscription.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.3: View of the basin of the garden peristyle of the House of the Nymphs. (Malek, A.-A., 2018, fig. 12.11A)" >}}
 
-{{< figure src="../images/detail_of_the_basin.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.4: Detail of the basin with the inscription Nymfarum Domus. (Malek, A.-A., 2018, fig. 12.11B)" >}}
+{{< image src="detail_of_the_basin.jpg" alt="Detail of the pool with inscription; rights statement" title="Fig.4: Detail of the basin with the inscription Nymfarum Domus. (Malek, A.-A., 2018, fig. 12.11B)" >}}
 
 ### Dates
 Unspecified

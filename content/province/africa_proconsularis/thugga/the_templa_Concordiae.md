@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUGGA (Dougga) Tunisia (Pleiades)](https://pleiades.stoa.org/places/315223)
 
 
-{{< figure src="../images/dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
+{{< image src="dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" title="Plan of Thugga (Maurin, L.,  d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)" >}}
 
 ### Location Description
 
@@ -58,7 +58,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 ### Plans
 
-{{< figure src="../images/sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" title="Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)" >}}
+{{< image src="sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" title="Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)" >}}
 
 ### Dates
 

@@ -67,7 +67,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
@@ -75,7 +75,7 @@ NEW WAY ↓↓↓↓
 
 
 
-{{< figure src="../images/house_of_sucellus.png" alt="Plan of House of Sucellus" title="Plan of House of Sucellus" >}}
+{{< image src="house_of_sucellus.png" alt="Plan of House of Sucellus" title="Plan of House of Sucellus" >}}
 
 
 

@@ -74,17 +74,17 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../../images/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../../images/region-i-insula-ix.png" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
 
 ### Images
 
-{{< figure src="../images/Fig_54_I.ix.13_43.19.68.jpg" alt="Fig. 3: 43.19.68, S.A. Jashemski." title="Fig. 3: 43.19.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_54_I.ix.13_43.19.68.jpg" alt="Fig. 3: 43.19.68, S.A. Jashemski." title="Fig. 3: 43.19.68, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_55_I.ix.13_35.13.66.jpg" alt="Fig. 4: 35.13.66, S.A. Jashemski." title="Fig. 4: 35.13.66, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_55_I.ix.13_35.13.66.jpg" alt="Fig. 4: 35.13.66, S.A. Jashemski." title="Fig. 4: 35.13.66, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_56_I.ix.13_39.17.68.jpg" alt="Fig. 5: 39.17.68, S.A. Jashemski." title="Fig. 5: 39.17.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_56_I.ix.13_39.17.68.jpg" alt="Fig. 5: 39.17.68, S.A. Jashemski." title="Fig. 5: 39.17.68, S.A. Jashemski (Rights Statement)." >}}
 
 ### Dates
 

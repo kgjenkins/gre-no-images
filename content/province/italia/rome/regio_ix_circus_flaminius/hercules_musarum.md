@@ -71,13 +71,13 @@ The *collegium poetarum* formally gathered near the complex, and so perhaps the 
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" title=" Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan." >}}
+{{< image src="hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" title=" Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan." >}}
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" title=" Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan." >}}
+{{< image src="hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" title=" Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan." >}}
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" title="Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997)." >}}
+{{< image src="hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" title="Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997)." >}}
 <!-- -->
-{{< figure src="../images/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" title="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114)." >}}
+{{< image src="hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" title="Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114)." >}}
 <!-- -->
 ### Dates
 

@@ -32,7 +32,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
 
-{{< figure src="../images/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image src="cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -61,12 +61,12 @@ On the side of the corridor leading from the Severan Forum, there was a garden, 
 
 ### Plans
 
-{{< figure src="../images/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Hylas (Blanchard-Lemée, M., 1975, fig. 77)">}}
+{{< image src="house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." title="Fig. 1: Plan of the House of Hylas (Blanchard-Lemée, M., 1975, fig. 77)">}}
 
 
 ### Images
 
-{{< figure src="../images/house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." title="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M.,  AOrOc)">}}
+{{< image src="house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." title="Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M.,  AOrOc)">}}
 
 ### Dates
 

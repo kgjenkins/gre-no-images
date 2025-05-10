@@ -52,7 +52,7 @@ The house was originally constructed of adobe on a floor and gutter of granite m
 LUG 1. 1. House with Pilasters. On the rectangle surrounding the word "Garden?" in the upper left corner is the "House with Pilasters." Source, Maison 1996, p.134.
 
 ### Plans
-{{< figure src="../images/house_with_pilasters.jpg" alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." title="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\" Source, Maison 1996, p.134." >}}
+{{< image src="house_with_pilasters.jpg" alt="This is a plan of the House of the Pilasters. The top of the image shows a section running through the house and atriums. The bottom plan depicts where the house stood amongst a cluster of excavated building bases." title="LUG 1. 1. House with Pilasters. On the rectangle surrounding the word \"Garden?\" in the upper left corner is the \"House with Pilasters.\" Source, Maison 1996, p.134." >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

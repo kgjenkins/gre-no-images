@@ -74,19 +74,19 @@ On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated 
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/12_so_called_stadium.jpg" alt="Plan of the Stadium-garden at Hadrian's Villa" title="Fig. 12: Plan of the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="12_so_called_stadium.jpg" alt="Plan of the Stadium-garden at Hadrian's Villa" title="Fig. 12: Plan of the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/13_stadium_coenatio.jpg" alt="Isometric plan of the Stadium-garden at Hadrian's Villa" title="Fig. 13: Isometry of the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="13_stadium_coenatio.jpg" alt="Isometric plan of the Stadium-garden at Hadrian's Villa" title="Fig. 13: Isometry of the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/16_great_nymphaeum.jpg" alt="Plan of the Great Nymphaeum in the Stadium-garden at Hadrian's Villa" title="Fig. 16: Plan of the Great Nymphaeum in the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="16_great_nymphaeum.jpg" alt="Plan of the Great Nymphaeum in the Stadium-garden at Hadrian's Villa" title="Fig. 16: Plan of the Great Nymphaeum in the Stadium-garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/14_northern_garden.jpg" alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="14_northern_garden.jpg" alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/15_southern_garden.jpg" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="15_southern_garden.jpg" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian's Villa" title="Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

@@ -77,7 +77,7 @@ Across the front of the house on the side by the sea ran a *portico* [1] in a no
 
 
 ### Plans
-{{< figure src="../images/his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" title="Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)" >}}
+{{< image src="his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" title="Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

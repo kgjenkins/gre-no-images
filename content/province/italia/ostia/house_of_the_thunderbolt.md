@@ -50,7 +50,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 
@@ -83,9 +83,9 @@ The house is one of the most interesting examples of the transition from the atr
 
 ### Figures
 
-{{< figure src="../images/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" title="Figure 1: Plan (after Calza 1953)." >}}
+{{< image src="ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" title="Figure 1: Plan (after Calza 1953)." >}}
 
-{{< figure src="../images/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" title="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" title="Figure 2: Garden, 1941 (PA-OAnt, Photo Archive)." >}}
 
 {{< figure src="../images_b/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" title="Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive)." >}}
 

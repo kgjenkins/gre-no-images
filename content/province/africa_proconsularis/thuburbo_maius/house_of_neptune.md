@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 
-{{< figure src="../images/thuburbo_house_of_neptune.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_house_of_neptune.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -55,7 +55,7 @@ The house was laid out around a peristyle garden (IV-VIII), with four porticos s
 
 ### Plans
 
-{{< figure src="../images/AFR_Thub_Hn_Wjashemski (1)1.jpg" alt="Plan of the House of Neptune" title="Fig.1: Plan of the House of Neptune (CMT, Thuburbo  Majus, V.  II,  fasc.1, plan 20-30)" >}}
+{{< image src="AFR_Thub_Hn_Wjashemski (1)1.jpg" alt="Plan of the House of Neptune" title="Fig.1: Plan of the House of Neptune (CMT, Thuburbo  Majus, V.  II,  fasc.1, plan 20-30)" >}}
 
 ### Dates
 

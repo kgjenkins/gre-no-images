@@ -54,7 +54,7 @@ A. Of all the houses that overlooked the Bay on the south edge of the city, this
 B. and C. On either side of the *pergola* was a small garden (d)and (e) with an elegant room on the far side with a window to look out to the garden and a second window looking to the sea. The statuettes of Eros may have originally been placed in these rooms, swept away by the mud flow from the eruption.
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 

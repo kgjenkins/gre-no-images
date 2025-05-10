@@ -35,7 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
 
-{{< figure src="../images/cuicul_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image src="cuicul_small_baths.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -64,14 +64,14 @@ The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (P
 
 ### Plans
 
-{{< figure src="../images/plan_of_small_baths.jpg" alt="Plan of the Small Baths" title="Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)">}}
+{{< image src="plan_of_small_baths.jpg" alt="Plan of the Small Baths" title="Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)">}}
 
 ### Images
-{{< figure src="../images/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" title="Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)">}}
+{{< image src="house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" title="Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)">}}
 
-{{< figure src="../images/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" title="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)">}}
+{{< image src="small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" title="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)">}}
 
-{{< figure src="../images/venus_djemila.jpg" alt="Venus" title="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)">}}
+{{< image src="venus_djemila.jpg" alt="Venus" title="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)">}}
 ### Dates
 
 Early 3rd century CE

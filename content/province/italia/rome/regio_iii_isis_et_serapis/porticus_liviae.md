@@ -73,11 +73,11 @@ Excavations in 1984 identified pre- and post-Augustan phases, but provided no in
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109." >}}
+{{< image src="porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" title="Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109." >}}
 <!-- -->
-{{< figure src="../images/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." >}}
+{{< image src="porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" title="Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres." >}}
 <!-- -->
-<!--{{< figure src="../images/.jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}-->
+<!--{{< image src=".jpg" alt="Entrance to the Porticus Liviae" title="Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres." >}}-->
 <!-- -->
 ### Dates
 

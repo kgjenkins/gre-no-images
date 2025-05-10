@@ -47,7 +47,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 
@@ -71,15 +71,15 @@ A sculptural group with a fishing scene, which could be interpreted as a fountai
 
 ### Figures
 
-{{< figure src="../images/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan (after Ricciardi, Scrinari 1996)." >}}
+{{< image src="ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" title="Figure 1: Plan (after Ricciardi, Scrinari 1996)." >}}
 
-{{< figure src="../images/ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Figure 2: Fountain (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig11.jpg" alt="Plan of the Garden Houses" title="Figure 2: Fountain (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig12_better.jpg" alt="Plan of the Garden Houses" title="Figure 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
+{{< image src="ostia_fig12_better.jpg" alt="Plan of the Garden Houses" title="Figure 3: Section and reconstruction of fountain (from Civiltà dell' acqua)." >}}
 
-{{< figure src="../images/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" title="Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" title="Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive)." >}}
 
 ### Dates
 

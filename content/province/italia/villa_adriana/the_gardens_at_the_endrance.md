@@ -57,15 +57,15 @@ c – The third garden of the Great Entrance Hall occupies its extreme western p
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/9_great_hall_plan.jpg" alt="Plan of the Great Hall at Hadrian's Villa" title="Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti." >}}
+{{< image src="9_great_hall_plan.jpg" alt="Plan of the Great Hall at Hadrian's Villa" title="Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/10_isometric_east_garden.jpg" alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
+{{< image src="10_isometric_east_garden.jpg" alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/11_east_garden.jpg" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
+{{< image src="11_east_garden.jpg" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian's Villa" title="Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

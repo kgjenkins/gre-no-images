@@ -64,11 +64,11 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 ### Plans
 
-{{< figure src="../images/PAN_AQU_House 1_M Carroll.jpg" alt="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47." title="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.)" >}}
+{{< image src="PAN_AQU_House 1_M Carroll.jpg" alt="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47." title="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.)" >}}
 
 ### Images
 
-{{< figure src="../images/PAN_AQU.jpg" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." title="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.)" >}}
+{{< image src="PAN_AQU.jpg" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." title="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.)" >}}
 
 ### Dates
 

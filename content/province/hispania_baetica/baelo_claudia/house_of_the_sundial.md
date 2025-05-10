@@ -70,11 +70,11 @@ Located across the colonnaded street from West house was the House of the Sundia
 
 ### Images
 
-{{< figure src="../images/HIS_BAE_Baelo map Hs_Fig. 1_CA.jpg" alt="Map of Baelo Claudia. Adapted from Sillières. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Baelo map Hs_Fig. 1_CA.jpg" alt="Map of Baelo Claudia. Adapted from Sillières. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Baelo Hs_plan_Fig2" alt="Fig. 2: Plan of the two port houses. From Sillières. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Baelo Hs_plan_Fig2" alt="Fig. 2: Plan of the two port houses. From Sillières. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Baelo Hs_two houses_Fig3.jpg" alt="Photo of the two port houses, seen looking west. The peristyle of the House of the Sundial is in the left foreground. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Baelo Hs_two houses_Fig3.jpg" alt="Photo of the two port houses, seen looking west. The peristyle of the House of the Sundial is in the left foreground. (Rights Statement)" >}}
 
 
 

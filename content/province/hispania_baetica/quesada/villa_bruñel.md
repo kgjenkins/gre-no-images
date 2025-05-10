@@ -85,17 +85,17 @@ Sotomayor did not think that the gran patio was a garden, and proposed that it m
 ### Images
 
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_lcoation map_CA fig1.jpg" alt="Fig. 1: Location map of Villa Brunel. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_lcoation map_CA fig1.jpg" alt="Fig. 1: Location map of Villa Brunel. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_all phases CA fig2.jpg" alt="Fig. 2: Plan of Villa Brunel showing all phases. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_all phases CA fig2.jpg" alt="Fig. 2: Plan of Villa Brunel showing all phases. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_Phase2 plan_CA fig3.jpg" alt="Fig. 3: Plan of Villa Brunel showing phase 2. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_Phase2 plan_CA fig3.jpg" alt="Fig. 3: Plan of Villa Brunel showing phase 2. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_plan_phase3_CAfig4.jpg" alt="Fig. 4: Plan of Villa Brunel showing phase 3. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_plan_phase3_CAfig4.jpg" alt="Fig. 4: Plan of Villa Brunel showing phase 3. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_fig5_CA.jpg" alt="Fig. 5: Photo of Villa Brunel looking south across the garden. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_fig5_CA.jpg" alt="Fig. 5: Photo of Villa Brunel looking south across the garden. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Quesdad_Vb_photo CA fig 6.jpg" alt="Fig. 6: Photo of Villa Brunel looking west across the garden. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Quesdad_Vb_photo CA fig 6.jpg" alt="Fig. 6: Photo of Villa Brunel looking west across the garden. (Rights Statement)" >}}
 
 
 ### Dates

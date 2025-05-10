@@ -75,9 +75,9 @@ House of the Salsamenta (Usine de salaison)
 -->
 
 ### Plans
-{{< figure src="../images/Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
+{{< image src="Salsamenta_house_Nabeul_phase_11.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 1; rights statement" title="Fig. 1: Plan of the House of the Salsamenta Phase 1. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 6)" >}}
 
-{{< figure src="../images/Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
+{{< image src="Salsamenta_house_phase_21.jpg" alt="Plan of the House of the Salsamenta at Neapolis Phase 2; rights statement" title="Fig. 2: Plan of the House of the Salsamenta Phase 2. (“L’usine de salaison de Néapolis (Nabeul). Premiers résultats des fouilles 1995-1998”, *Africa* XVII, 1999, pp. 159-161, fig. 7)" >}}
 
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
@@ -85,14 +85,14 @@ House of the Salsamenta (Usine de salaison)
 
 ### Images
 <!--
-{{< figure src="../images/afr_nea_hs_amalek_fig2.jpg" alt="Rendering of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 3: Rendering of the House of the Salsamenta. (Rights statement)" >}}
+{{< image src="afr_nea_hs_amalek_fig2.jpg" alt="Rendering of the House of the Salsamenta at Neapolis; rights statement" title="Fig. 3: Rendering of the House of the Salsamenta. (Rights statement)" >}}
 -->
 
-{{< figure src="../images/afr_nea_hs_amalek_fig3.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 3: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< image src="afr_nea_hs_amalek_fig3.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 3: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
-{{< figure src="../images/afr_nea_hs_amalek_fig4.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 4: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< image src="afr_nea_hs_amalek_fig4.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 4: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
-{{< figure src="../images/afr_nea_hs_amalek_fig5.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 5: Photos of the House of the Salsamenta site. (Rights statement)" >}}
+{{< image src="afr_nea_hs_amalek_fig5.jpg" alt="Photos of the House of the Salsamenta site at Neapolis; rights statement" title="Fig. 5: Photos of the House of the Salsamenta site. (Rights statement)" >}}
 
 
 ### Dates

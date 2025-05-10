@@ -86,13 +86,13 @@ An equally important second nucleus of this house consisted of a complex of room
 
 ### Plans
 
-{{< figure src="../images/his_lus_col_augusta_ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." title="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.  Adapted from the tourist guide issued by the Mérida Consorzio." >}}
+{{< image src="his_lus_col_augusta_ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." title="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left.  Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.  Adapted from the tourist guide issued by the Mérida Consorzio." >}}
 
-{{< figure src="../images/his_lus_col_augusta_ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." title="Fig. 2: Plan of the House of the Amphitheater.  Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." >}}
+{{< image src="his_lus_col_augusta_ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." title="Fig. 2: Plan of the House of the Amphitheater.  Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena." >}}
 
 ### Images
 
-{{< figure src="../images/his_lus_col_augusta_ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." title="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
+{{< image src="his_lus_col_augusta_ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." title="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." >}}
 
 ### Dates
 

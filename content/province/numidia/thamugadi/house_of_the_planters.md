@@ -31,7 +31,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Thamugadi]({{<relref ".">}}) \
 [Thamugadi (Pleiades)](https://pleiades.stoa.org/places/334636)
 
-{{< figure src="../images/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
+{{< image src="timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." title="Fig. 1: Plan of Thamugadi (Courtois, C., 1951)">}}
 
 ### Location Description
 
@@ -72,15 +72,15 @@ House of the Planters (Maison aux jardinières)
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" >}}
+{{< image src="house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l'Empire romain, p. 88-92, Plan fig.40" title="Fig. 1: Plan of the House of the Planters (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Images
-{{< figure src="../images/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" title="Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)" >}}
+{{< image src="house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" title="Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)" >}}
 
-<!--{{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
+<!--{{< image src="#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
 -->
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}

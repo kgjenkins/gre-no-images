@@ -49,11 +49,11 @@ B. The front of this house has an L-shaped terrace (b) which provided a passagew
 
 
 ### Plans
-{{< figure src="../images/h_orientalis_1_1_3_b.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< figure src="../images/herculaneum_i.1_b_c.jpg" alt="Herculaneum - insula orientalis I. 1-3" title="Herculaneum - insula orientalis I. 1-3" >}}
+{{< image src="h_orientalis_1_1_3_b.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+{{< image src="herculaneum_i.1_b_c.jpg" alt="Herculaneum - insula orientalis I. 1-3" title="Herculaneum - insula orientalis I. 1-3" >}}
 
 ### Images
-{{< figure src="../images/Herc. I.1   17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="Herc. I.1   17.11.78.jpg" alt="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Herculaneum - insula orientalis I. 1-1 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/432873)

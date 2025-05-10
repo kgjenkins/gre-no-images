@@ -57,16 +57,16 @@ NEW WAY ↓↓↓↓
 -->
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
-{{< figure src="../images/H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
 
 
 ### Images
 
-{{< figure src="../images/Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
-{{< figure src="../images/Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/432873)

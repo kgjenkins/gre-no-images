@@ -69,7 +69,7 @@ House of Dionysos
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Hd_Amalek1.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (Ben Abed-Ben Khader, A., 1999, plan 5)" >}}
+{{< image src="AFR_Car_Hd_Amalek1.jpg" alt="Plan of the House of Dionysos at Karthago; rights statement" title="Fig. 1: Plan of the House of Dionysos. (Ben Abed-Ben Khader, A., 1999, plan 5)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

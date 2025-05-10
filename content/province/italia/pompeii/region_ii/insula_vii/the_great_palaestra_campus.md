@@ -44,7 +44,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the [palaestra](http://vocab.getty.edu/page/aat/300007301) on the south, west and north. A large swimming pool (34.55 m x 22.25 m) was located in the center. Casts made of tree cavities planted eight meters apart in two rows around the north, west and south sides of the enclosed area indicated that these were plane trees, just under one hundred years old.
 
 <!--### Plans
-{{< figure src="../../../images/fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
+{{< image src="../../fig._61,_plan_of_region_ii,_insula_vii.png" alt="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" title="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" >}}-->
 
 #### Pleiades ID
 [456321707](https://pleiades.stoa.org/places/456321707)

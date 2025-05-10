@@ -70,7 +70,7 @@ Another possible garden(X) was adjacent to the reception room of the northern ai
 -->
 
 ### Plans
-{{< figure src="../images/House_the_Triumph_of_Neptune2.jpg" alt="Plan of  the House of the Triumph of Neptune; rights statement" title="Plan of  the House of the Triumph of Neptune (Gozlan, S., Bourgeois, A., 1992, plan II)" >}}
+{{< image src="House_the_Triumph_of_Neptune2.jpg" alt="Plan of  the House of the Triumph of Neptune; rights statement" title="Plan of  the House of the Triumph of Neptune (Gozlan, S., Bourgeois, A., 1992, plan II)" >}}
 
 ### Images
 

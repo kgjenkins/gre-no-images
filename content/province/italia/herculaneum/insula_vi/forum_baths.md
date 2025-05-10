@@ -47,7 +47,7 @@ Forum Baths
 During 1873-1875 the courtyard (a) of the *palaestra* was excavated. A section of the northeast *portico* was not excavated until 1930. The courtyard measured 15.75 x 25.25 m. and was bounded by the *portico* on the west, north and east sides. Engaged columns stood along the south. This area was likely planted after the *palestra* was built. Although the original excavators labeled this as a garden, no detailed observations were recorded to confirm this supposition.
 
 ### Plans
-{{< figure src="../images/H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
+{{< image src="H_3_3-17.jpg" alt="Plan of Casa A Graticcio" title="Plan of Casa A Graticcio" >}}
 
 
 

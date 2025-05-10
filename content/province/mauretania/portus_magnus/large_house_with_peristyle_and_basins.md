@@ -52,7 +52,7 @@ A corridor (see Fig. 1, label M) was bordered by two small gardens (labels N and
 
 ### Plans
 
-{{< figure src="../images/large_house_with_peristyle_and_basins_fig_1.png" alt="Plan of Large House with peristyle and basins in Portus Magnus. The principle entry to the house is along the north wall, centered on the symmetrical floor plan. A rectangular entry room (longer than wide) gives a view of small gardens to each side, framing the primary hallway linking the northern half of the house to the large, central peristyle garden. Groups of rooms frame the east and west sides of this garden, with a long hallway extending along the southern edge of the house, linking additional rooms to the east and west not shown in the plan. A small room extends from this southern wall, directly opposite the northern entrance." title="Fig. 1: Plan of Large House with peristyle and basins in Portus Magnus (Rights Statement)">}}
+{{< image src="large_house_with_peristyle_and_basins_fig_1.png" alt="Plan of Large House with peristyle and basins in Portus Magnus. The principle entry to the house is along the north wall, centered on the symmetrical floor plan. A rectangular entry room (longer than wide) gives a view of small gardens to each side, framing the primary hallway linking the northern half of the house to the large, central peristyle garden. Groups of rooms frame the east and west sides of this garden, with a long hallway extending along the southern edge of the house, linking additional rooms to the east and west not shown in the plan. A small room extends from this southern wall, directly opposite the northern entrance." title="Fig. 1: Plan of Large House with peristyle and basins in Portus Magnus (Rights Statement)">}}
 
 ### Images
 

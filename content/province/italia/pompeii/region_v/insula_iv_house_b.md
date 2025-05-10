@@ -63,7 +63,7 @@ V.iv.b.
 When the excavation work reached the northeast corner of this house in 1901, a small garden (a) with a proportionately small *portico* supported by two masonry columns was found. The major part of the garden was occupied by the masonry *triclinium* (*l. medius*, 3.00 m.; *l. imus* and. *summus* 2.69 m.) with a round table (0.65 m. dia.) and a *lectus imus* that had a *fulcrum*. The masonry couch had three large holes that may have received the posts for the pergola, and a marble leopard’s head fountain was found in the first room to the right of the entrance. The large window in the *triclinium* offered a fine view of the garden.
 ### Plans
 
-<!--{{< figure src="../images/Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
+<!--{{< image src="Euro_GaAq_Montreal_Villa de Séviac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." title="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." >}}
 -->
 
 <!--### Images-->

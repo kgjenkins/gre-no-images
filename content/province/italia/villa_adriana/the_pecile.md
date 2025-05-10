@@ -56,15 +56,15 @@ The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only 
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/20_pecile_isometry.jpg" alt="Isometric plan of the Pecile Garden at Hadrian's Villa" title="Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti." >}}
+{{< image src="20_pecile_isometry.jpg" alt="Isometric plan of the Pecile Garden at Hadrian's Villa" title="Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/21_pecile_pond.jpg" alt="Photograph of the pond of the Pecile Garden at Hadrian's Villa" title="Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="21_pecile_pond.jpg" alt="Photograph of the pond of the Pecile Garden at Hadrian's Villa" title="Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/22_pecile_wall.jpg" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian's Villa" title="Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
+{{< image src="22_pecile_wall.jpg" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian's Villa" title="Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

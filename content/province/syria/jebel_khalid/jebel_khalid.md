@@ -66,15 +66,15 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_1.jpg" alt="Map showing location of Jebel Khalid within the borders of Syria" title="Fig. 1: Location map of Jebel Khalid">}}
+{{< image src="asia_syria_jebkhl_gclark_1.jpg" alt="Map showing location of Jebel Khalid within the borders of Syria" title="Fig. 1: Location map of Jebel Khalid">}}
 
 ### Plans
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
-{{< figure src="../images/asia_syria_jebkhl_gclark_2.png" alt="Overall plan of the site with contour lines and architectural remains" title="Fig. 2: Overall plan of the site">}}
+{{< image src="asia_syria_jebkhl_gclark_2.png" alt="Overall plan of the site with contour lines and architectural remains" title="Fig. 2: Overall plan of the site">}}
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_3.jpg" alt="Ground plan of the Acropolis palace" title="Fig. 3: Ground plan of the Acropolis palace">}}
+{{< image src="asia_syria_jebkhl_gclark_3.jpg" alt="Ground plan of the Acropolis palace" title="Fig. 3: Ground plan of the Acropolis palace">}}
 
 ### Images
 
@@ -82,15 +82,15 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_4.png" alt="Aerial view of Jebel Khalid" title="Fig. 4: Aerial view of Jebel Khalid" >}}
+{{< image src="asia_syria_jebkhl_gclark_4.png" alt="Aerial view of Jebel Khalid" title="Fig. 4: Aerial view of Jebel Khalid" >}}
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_5.png" alt="Lion-headed water-spout" title="Fig. 5: Example of lion-headed water-spout" >}}
+{{< image src="asia_syria_jebkhl_gclark_5.png" alt="Lion-headed water-spout" title="Fig. 5: Example of lion-headed water-spout" >}}
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_6.jpg" alt="Possible stand for a garden pot" title="Fig. 6: Possible stand for a garden pot" >}}
+{{< image src="asia_syria_jebkhl_gclark_6.jpg" alt="Possible stand for a garden pot" title="Fig. 6: Possible stand for a garden pot" >}}
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_7.jpg" alt="Detail of stylobate" title="Fig. 7: Detail of stylobate" >}}
+{{< image src="asia_syria_jebkhl_gclark_7.jpg" alt="Detail of stylobate" title="Fig. 7: Detail of stylobate" >}}
 
-{{< figure src="../images/asia_syria_jebkhl_gclark_8.jpg" alt="Excavated garden bed" title="Fig. 8:  Excavated garden bed" >}}
+{{< image src="asia_syria_jebkhl_gclark_8.jpg" alt="Excavated garden bed" title="Fig. 8:  Excavated garden bed" >}}
 
 ### Dates
 3rd century BCE

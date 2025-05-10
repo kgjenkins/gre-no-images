@@ -76,15 +76,15 @@ Foundations of garden architecture, water channels and garden soils of the late 
 
 ### Plans
 
-{{< figure src="../images/a_j_c_k_1.jpg" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" title="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
+{{< image src="a_j_c_k_1.jpg" alt="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" title="Fig. 1: Plan of the Promontory Palace (J.H. Williams and A. Iamim): a) first phase (c. 22-15 BC) ; b) second phase (c. 15-4 BC)" >}}
 
 ### Images
 
-{{< figure src="../images/A_J_C_K_2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
+{{< image src="A_J_C_K_2.jpg" alt="Fig. 2: Photograph of cuttings around pool for planters (K. Gleason)." title="Fig. 2:Photograph of cuttings around pool for planters (K. Gleason." >}}
 
-{{< figure src="../images/ASIA-JUD-CAESAREA-KGLEASON-3.jpg" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." title="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." >}}
+{{< image src="ASIA-JUD-CAESAREA-KGLEASON-3.jpg" alt="Fig. 3: Photograph of Hamra soil in courtyard (K. Gleason)." title="Fig. 3:Photograph of Hamra soil in courtyard (K. Gleason)." >}}
 
-{{< figure src="../images/a_j_c_k_4.jpg" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." title="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" >}}
+{{< image src="a_j_c_k_4.jpg" alt="Fig. 4: Reconstruction drawing of the Promontory upper garden (Y. Korman)." title="Fig. 4 Reconstruction drawing of the Promontory upper garden (Y. Korman)" >}}
 
 ### Dates
 

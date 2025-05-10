@@ -72,7 +72,7 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 ### Plans
 
 
-{{< figure src="../images/edifice_on_st.antoine’s_mound.png" alt="Plan of Edifice on St. Antoine's mound" title="Edifice on St. Antoine’s Mound" >}}
+{{< image src="edifice_on_st.antoine’s_mound.png" alt="Plan of Edifice on St. Antoine's mound" title="Edifice on St. Antoine’s Mound" >}}
 
 
 ### Dates

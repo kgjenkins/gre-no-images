@@ -67,7 +67,7 @@ House of the Bassilica (Maison de la Bassilica)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Car_Hb_Amalek1.jpg" alt="Plan of the House of the Bassilica at Karthago; Gauckler, P., 1904, pp. 16-17" title="Fig. 1: Plan of the House of the Bassilica. (Gauckler, P., 1904, pp. 16-17)" >}}
+{{< image src="AFR_Car_Hb_Amalek1.jpg" alt="Plan of the House of the Bassilica at Karthago; Gauckler, P., 1904, pp. 16-17" title="Fig. 1: Plan of the House of the Bassilica. (Gauckler, P., 1904, pp. 16-17)" >}}
 
 <!-- the north arrow in the figure appears to be incorrect -- based on the satellite imagery, the arrow seems to point west, not north -- Keith -->
 

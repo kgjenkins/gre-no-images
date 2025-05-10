@@ -61,7 +61,7 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 ### Maps
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
@@ -73,7 +73,7 @@ A rock cut inscription at Salonae marks the spot where some time in the late sec
 ### Images
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

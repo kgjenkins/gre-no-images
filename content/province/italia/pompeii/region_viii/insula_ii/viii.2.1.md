@@ -48,11 +48,11 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This house was excavated in 1799 and to the rear of the tablinium there was a portico which enclosed an area surrounded by a gutter. Openings were cut in the floor where the twelve supporting columns stood to allow light into the rooms below in the volcanic ledge. Mazois and Fiorelli labeled this area a hanging garden because of this configuration. A grand view of the Bay of Naples and the mountains could be enjoyed from the terraces on two levels in this house, and potted plants and shrubs may have been placed there.
 
 ### Plans
-{{< figure src="../images/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< figure src="../images/fig._4_region_viii_insula_ii_1.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
+{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image src="fig._4_region_viii_insula_ii_1.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 ### Images
-{{< figure src="../images/fig.3.viii.ii_10.2.59.jpg" alt="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="fig.3.viii.ii_10.2.59.jpg" alt="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 3, 10.2.59, View of insula ii from below (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

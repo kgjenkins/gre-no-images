@@ -69,15 +69,15 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" title="Fig 1. House with the large peristyle" >}}
+{{< image src="aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" title="Fig 1. House with the large peristyle" >}}
 
-{{< figure src="../images/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" title="Fig 2. House with the large peristyle" >}}
+{{< image src="aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" title="Fig 2. House with the large peristyle" >}}
 
 
 
@@ -89,7 +89,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

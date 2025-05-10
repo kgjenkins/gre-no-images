@@ -70,9 +70,9 @@ This rich country villa on the left bank of the [Guadalete (Pleiades)](https://p
 
 ### Images
 
-{{< figure src="../images/HIS_BAE_Villa El Santiscal_plan_CA fig1.jpg" alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Villa El Santiscal_plan_CA fig1.jpg" alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Villa el Santiscal_photo_CA fig2.jpg" alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Villa el Santiscal_photo_CA fig2.jpg" alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)" >}}
 
 
 ### Dates

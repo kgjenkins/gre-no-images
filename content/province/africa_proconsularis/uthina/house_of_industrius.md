@@ -62,12 +62,12 @@ Located to the Southeast of the amphitheater, this house was laid out around a p
 
 
 ### Plans
-{{< figure src="../images/#" alt="Fig.1: Plan of the House of industrius" title="Fig.1: Plan of the House of industrius (right statement)." >}}
+{{< image src="#" alt="Fig.1: Plan of the House of industrius" title="Fig.1: Plan of the House of industrius (right statement)." >}}
 
 
 <!--### Images-->
 
-<!--{{< figure src="../images/AFR_Uth_Ind_Malek.jpg" alt="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}-->
+<!--{{< image src="AFR_Uth_Ind_Malek.jpg" alt="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}-->
 
 ### Dates
 

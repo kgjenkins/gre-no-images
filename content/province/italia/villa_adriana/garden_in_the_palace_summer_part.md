@@ -45,13 +45,13 @@ Quite certainly there was a garden here, but we don't have any elements to help 
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/36_summer_residence.jpg" alt="Plan of the Summer Residence at Hadrian's Villa" title="Fig. 36: Plan of the Summer Residence, Eugenia Salza Prina Ricotti." >}}
+{{< image src="36_summer_residence.jpg" alt="Plan of the Summer Residence at Hadrian's Villa" title="Fig. 36: Plan of the Summer Residence, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/37_stibadio_di_palazzo.jpg" alt="Photograph of the Stibadium used for open-air dining in the Summer Residence at Hadrian's Villa" title="Fig. 37: The Stibadium used in summer for open-air dining, Eugenia Salza Prina Ricotti." >}}
+{{< image src="37_stibadio_di_palazzo.jpg" alt="Photograph of the Stibadium used for open-air dining in the Summer Residence at Hadrian's Villa" title="Fig. 37: The Stibadium used in summer for open-air dining, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

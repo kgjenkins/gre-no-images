@@ -59,7 +59,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ### Maps
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
@@ -71,7 +71,7 @@ An inscription reported among those of Salona records an epitaph set up by Iulia
 ### Images
 
 <!-- 
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

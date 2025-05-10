@@ -60,7 +60,7 @@ Not Available
 
 ### Images
 
-{{< figure src="../images/mask_house.jpg" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." title="perspective drawing of porticoes" >}}
+{{< image src="mask_house.jpg" alt="Drawing of the courtyard in perspective. Some of the key features include a view of the porticoes with smiling masks hanging between the columns. There is a fountain bassin in the center." title="perspective drawing of porticoes" >}}
 
 ### Dates
 Unspecified

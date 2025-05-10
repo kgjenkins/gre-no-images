@@ -29,7 +29,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [Hadrumetum (Sousse)]({{<relref ".">}}) \
 [Hadrumetum (Pleiades)](https://pleiades.stoa.org/places/324716)
 
-{{< figure src="../images/hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
+{{< image src="hadrumetum_city_plan.jpg" alt="Plan of Hadrumetum; rights statement" title="Fig. 1: Plan of Hadrumetum (Ghaddhab, R., 2016, P.182)" >}}
 
 ### Location Description
 Hadrumetum is located on the bay of Hammamet at the edge of the fertile region of Sahel from which it drew its wealth.  Choosing the side of Rome against Carthage during the Punic war, Hadrumetum was rewarded with the status of free town. Taking the side of Pompey, the city was heavily fined by Caesar after his victory at Thapsus. Nevertheless, the opulence of its houses adorned with luxurious mosaics testifies that the city experienced great economic development after its elevation to the status of colony, under Trajan.
@@ -62,12 +62,12 @@ This very damaged house was laid out around a peristyle garden. A semi-circular 
 
 
 <!--### Maps
-{{< figure src="../images/map_of_hadrementum.jpg" alt="Map of Hadrementum at hadrumetum; rights statement" title="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae. (Rights statement)" >}}-->
+{{< image src="map_of_hadrementum.jpg" alt="Map of Hadrementum at hadrumetum; rights statement" title="Map: Map of Hadrementum. 1. House of Sorothus, 2. House of the arsenal and House of Vergil, 3. House of the masks, 4. House of the ostriches, 5. Balzan house, 6. House of the satyrs and of the Bacchae, 7. House at the catacomb of the Good Shepherd. (North is at the top; there is no scale.) Adapted from Amplissimae. (Rights statement)" >}}-->
 
 ### Plans
 
 
-{{< figure src="../images/Bouse_of_Sorothus1.jpg" alt="Diagram plan of the House of Sorothus; rights statement" title="Fig. 1: Diagram plan of the House of Sorothus (from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" >}}
+{{< image src="Bouse_of_Sorothus1.jpg" alt="Diagram plan of the House of Sorothus; rights statement" title="Fig. 1: Diagram plan of the House of Sorothus (from Laporte, J.-P., Lavagne, H., 2006, fig.4, and Hannezo, G., 1896, p.819)" >}}
 
 ### Images
 

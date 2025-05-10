@@ -60,12 +60,12 @@ B. This vineyard section of the property was excavated in 1984 by Dr. De Caro. A
 
 
 <!--### Plans
-{{< figure src="../../../images/fig._75,_plan_of_region_ii,_insula_ix.png" alt="Fig. 75, Plan of Region II, insula ix" title="Fig. 75, Plan of Region II, insula ix" >}}
+{{< image src="../../fig._75,_plan_of_region_ii,_insula_ix.png" alt="Fig. 75, Plan of Region II, insula ix" title="Fig. 75, Plan of Region II, insula ix" >}}
 
 ### Images
-{{< figure src="../../../images/fig._78,_ii.ix.6_12.8.71.jpg" alt="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< figure src="../../../images/fig._79,_ii.ix.6_12.17.71.jpg" alt="Fig. 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
-{{< figure src="../../../images/fig._80,_ii.ix.6_12.25.71.jpg" alt="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="../../fig._78,_ii.ix.6_12.8.71.jpg" alt="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="../../fig._79,_ii.ix.6_12.17.71.jpg" alt="Fig. 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image src="../../fig._80,_ii.ix.6_12.25.71.jpg" alt="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
 -->
 
 #### Pleiades ID

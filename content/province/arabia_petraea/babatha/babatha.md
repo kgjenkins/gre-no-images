@@ -44,10 +44,10 @@ One scroll in the Babatha Archive, [(P. Yadin 3)](https://www.deadseascrolls.org
 Some years later, Shim'on ben Menahem transferred ownership of the property to his daughter, Babatha. When she registered the land with the Roman census in Deceber 127 CE [(P. Yadin 16)](https://papyri.info/ddbdp/p.babatha;;16), it is described as divided into two adjacent orchards and given the name "Algiphiamma" (Aramaic for "by the seashore").
 
 ### Maps
-{{< figure src="../images/1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
+{{< image src="1_arabia_petraea_map.jpg" alt="Map of Petra location" caption="Fig 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on [Andrein, with the assistance of EraNavigator](https://commons.wikimedia.org/w/index.php?curid=26047529)" >}}
 
 ### Plans
-{{< figure src="../images/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha's orchard" caption="Fig 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" >}}
+{{< image src="2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha's orchard" caption="Fig 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)" >}}
 
 ### Images
 <!-- {{< figure src="IMG_URL" alt="ALT_TEXT" caption="CAPTION" >}} -->

@@ -58,7 +58,7 @@ The western dwelling was organized around a narrow peristyle garden, 8.5 by 16.5
 
 ### Plans
 
-{{< figure src="../images/house_of_the_harvesting_and_house_of_the_tennis_club_fig_1.jpg" alt="Plan of the House of the Harvesting and the House of the Tennis Club." title="Fig. 1: Plan of the House of the Harvesting and the House of the Tennis Club (Leveau, Ph., 1982, p.126, fig.12, Daunic, J.)">}}
+{{< image src="house_of_the_harvesting_and_house_of_the_tennis_club_fig_1.jpg" alt="Plan of the House of the Harvesting and the House of the Tennis Club." title="Fig. 1: Plan of the House of the Harvesting and the House of the Tennis Club (Leveau, Ph., 1982, p.126, fig.12, Daunic, J.)">}}
 
 ### Images
 

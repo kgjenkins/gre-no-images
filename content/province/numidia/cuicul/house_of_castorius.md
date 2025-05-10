@@ -35,7 +35,7 @@ The frontier between Numidia and Mauretania fluctuated during early the African 
 [Cuicul]({{<relref ".">}}) \
 [Cuicul (Pleiades)](https://pleiades.stoa.org/places/305068)
 
-{{< figure src="../images/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
+{{< image src="cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." title="Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)">}}
 
 ### Location Description
 
@@ -70,12 +70,12 @@ The  L shaped space between the fish pool and the columns was probably planted.
 
 ### Plans
 
-{{< figure src="../images/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." title="Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)">}}
+{{< image src="house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." title="Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)">}}
 
 ### Images
-{{< figure src="../images/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
+{{< image src="house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." title="Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)">}}
 
-{{< figure src="../images/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
+{{< image src="house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." title="Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)">}}
 
 ### Dates
 5th century

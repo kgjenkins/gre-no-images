@@ -70,7 +70,7 @@ The light well (XXVII, 8.45 x 2.75 m) to the W of the *oecus* was also planted.
 
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." title="Fig. 1: Plan of the House of the Peacock. (CMT, plans 3-4)" >}}
+{{< image src="AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." title="Fig. 1: Plan of the House of the Peacock. (CMT, plans 3-4)" >}}
 
 <!--### Images-->
 ### Dates

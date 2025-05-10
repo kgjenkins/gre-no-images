@@ -90,13 +90,13 @@ RELATED PHASES ON THE PALATINE:
 
 ### Figures
 
-{{< figure src="../images/domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image src="domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_tiberiana_fig2.jpg" alt="Aerial view of the Palatine" title="Fig. 2. Aerial views of the Domus Tiberiana on the Palatine. Palatine Museum (Photo SAR)." >}}
+{{< image src="domus_tiberiana_fig2.jpg" alt="Aerial view of the Palatine" title="Fig. 2. Aerial views of the Domus Tiberiana on the Palatine. Palatine Museum (Photo SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_tiberiana_fig3.jpg" alt="Herms of the Palatine" title="Fig. 3. Herms from the Palatine. Palatine Museum (Photo SAR)." >}}
+{{< image src="domus_tiberiana_fig3.jpg" alt="Herms of the Palatine" title="Fig. 3. Herms from the Palatine. Palatine Museum (Photo SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_tiberiana_fig4.jpg" alt="Basin of the Domus Tiberiana" title="Fig. 4. Oval pool in the southeast corner of the gardens (Photo Moscioni 246A)." >}}
+{{< image src="domus_tiberiana_fig4.jpg" alt="Basin of the Domus Tiberiana" title="Fig. 4. Oval pool in the southeast corner of the gardens (Photo Moscioni 246A)." >}}
 <!-- -->
 ### Dates
 

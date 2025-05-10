@@ -79,19 +79,19 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
 ### Figures
 <!-- -->
-{{< figure src="../images/flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
+{{< image src="flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
+{{< image src="flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" title="Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+{{< image src="flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" title="Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
+{{< image src="flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" title="Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend & N. André, AMU-CNRS, IRAA)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Fig. 5. Marble base of a fountain with circular imprint of basin." >}}
+{{< image src="flavianpalace_fig5.jpg" alt="Marble Fountain Base" title="Fig. 5. Marble base of a fountain with circular imprint of basin." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
+{{< image src="flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" title="Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ)." >}}
 <!-- -->
-{{< figure src="../images/flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title=" Fig. 7. Detail of the marble canal along the outer edge of the portico." >}}
+{{< image src="flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" title=" Fig. 7. Detail of the marble canal along the outer edge of the portico." >}}
 <!-- -->
 ### Dates
 <!-- -->

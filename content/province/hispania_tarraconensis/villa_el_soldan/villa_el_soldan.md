@@ -91,7 +91,7 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 ### Plans
 
-{{< figure src="../images/his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1:  Plan of Villa El Soldán." title="Fig. 1:  Plan of Villa El Soldán.   Source: Gorges, Planche XXXVI" >}}
+{{< image src="his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1:  Plan of Villa El Soldán." title="Fig. 1:  Plan of Villa El Soldán.   Source: Gorges, Planche XXXVI" >}}
 
 
 ### Dates

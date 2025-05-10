@@ -37,7 +37,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 Behind this shop and the rooms beyond that there was a garden (a).
 
 ### Plans
-{{< figure src="../images/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
+{{< image src="fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" title="Fig.23, Plan of Region VIII, Insula VII" >}}
 
 
 #### Pleiades ID

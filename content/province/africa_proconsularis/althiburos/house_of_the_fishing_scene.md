@@ -68,7 +68,7 @@ The house stands on the other side of the Wadi Oum El Abid, on the left bank, 12
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Fig.1: Plan of the House of the Fishing Scene (Merlin, A., 1913, pl. III)" >}}
+{{< image src="house_of_the_fishing_scene1.jpg" alt="Plan of the House of the Fishing Scene at althiburos; rights statement" title="Fig.1: Plan of the House of the Fishing Scene (Merlin, A., 1913, pl. III)" >}}
 
 ### Images
 

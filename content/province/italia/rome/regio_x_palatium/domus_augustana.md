@@ -77,15 +77,15 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
  <!-- -->
 
 ### Figures
-{{< figure src="../images/domus_augustana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image src="domus_augustana_fig1.jpg" alt="Plan of the Palatine" title="Fig. 1. Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_augustana_fig2.jpg" alt="Plan of the Palatine" title="Fig. 2. Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
+{{< image src="domus_augustana_fig2.jpg" alt="Plan of the Palatine" title="Fig. 2. Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_augustana_fig3.jpg" alt="View of the Domus Augustana lower peristyle" title="Fig. 9	Domus Augustana. Lower peristyle. (Photo SAR)." >}}
+{{< image src="domus_augustana_fig3.jpg" alt="View of the Domus Augustana lower peristyle" title="Fig. 9	Domus Augustana. Lower peristyle. (Photo SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_augustana_fig4.jpg" alt="View of the Domus Augustana upper peristyle" title="Fig. 10	Domus Augustana. Upper peristyle. (Photo SAR)." >}}
+{{< image src="domus_augustana_fig4.jpg" alt="View of the Domus Augustana upper peristyle" title="Fig. 10	Domus Augustana. Upper peristyle. (Photo SAR)." >}}
 <!-- -->
-{{< figure src="../images/domus_augustana_fig5.jpg" alt="Reconstruction of the upper peristyle of the Domus Augustana" title="Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction. (G. de Angelis D’Ossat, 1932)." >}}
+{{< image src="domus_augustana_fig5.jpg" alt="Reconstruction of the upper peristyle of the Domus Augustana" title="Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction. (G. de Angelis D’Ossat, 1932)." >}}
 <!-- -->
 ### Dates
 

@@ -51,25 +51,25 @@ We can have an idea how it looked at the beginning of the XIX century in a drawi
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/38_nymphaeum_plan.jpg" alt="Plan of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 38: Plan of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="38_nymphaeum_plan.jpg" alt="Plan of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 38: Plan of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/39_palace_nymphaeum_front.jpg" alt="Cross-section of the front of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 39: Cross-section of the front of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="39_palace_nymphaeum_front.jpg" alt="Cross-section of the front of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 39: Cross-section of the front of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/40_cross_section_s-s1.jpg" alt="Cross-section of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 40: Cross-section of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="40_cross_section_s-s1.jpg" alt="Cross-section of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 40: Cross-section of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/41_nymphaeum_perspective.jpg" alt="Perspective plan of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 41: Perspective of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="41_nymphaeum_perspective.jpg" alt="Perspective plan of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 41: Perspective of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/42_nymphaeum_by_penna.jpg" alt="Drawing of the Palace Nymphaeum at Hadrian's Villa, as it appeared in the early nineteenth century, by A. Penna" title="Fig. 42: Drawing of the Palace Nymphaeum in the early nineteenth century, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
+{{< image src="42_nymphaeum_by_penna.jpg" alt="Drawing of the Palace Nymphaeum at Hadrian's Villa, as it appeared in the early nineteenth century, by A. Penna" title="Fig. 42: Drawing of the Palace Nymphaeum in the early nineteenth century, by A. Penna, courtesy of Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/43_modern_situation.jpg" alt="Photograph of the Palace Nymphaeum at Hadrian's Villa, in its modern state" title="Fig. 43: The modern situation of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="43_modern_situation.jpg" alt="Photograph of the Palace Nymphaeum at Hadrian's Villa, in its modern state" title="Fig. 43: The modern situation of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/44_the_probe.jpg" alt="Photograph of the probe along the emicycle of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 44: The probe along the emicycle of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="44_the_probe.jpg" alt="Photograph of the probe along the emicycle of the Palace Nymphaeum at Hadrian's Villa" title="Fig. 44: The probe along the emicycle of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/45_the_immission_canal.jpg" alt="Photograph of a canal unearthed by the probe at the Palace Nymphaeum at Hadrian's Villa" title="Fig. 45: The imission canal of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="45_the_immission_canal.jpg" alt="Photograph of a canal unearthed by the probe at the Palace Nymphaeum at Hadrian's Villa" title="Fig. 45: The imission canal of the Palace Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

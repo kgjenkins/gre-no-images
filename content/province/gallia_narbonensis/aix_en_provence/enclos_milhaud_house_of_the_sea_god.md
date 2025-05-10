@@ -62,13 +62,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/enclos_milhaud_house_of_the_sea_god.png" alt="Plan of House of the Sea god" title="Enclos Milhaud, House of the Sea god" >}}
+{{< image src="enclos_milhaud_house_of_the_sea_god.png" alt="Plan of House of the Sea god" title="Enclos Milhaud, House of the Sea god" >}}
 
 
 <!--### Images-->
@@ -78,7 +78,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

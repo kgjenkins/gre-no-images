@@ -66,7 +66,7 @@ House of Venus (Maison de Venus)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" title="Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" >}}
+{{< image src="AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" title="Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)" >}}
 
 
 

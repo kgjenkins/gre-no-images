@@ -60,17 +60,17 @@ In the middle of the insula was a large peristyle courtyard which may have been 
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/EUR_GS_AugRau_Hi16_carroll.jpg" alt="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." title="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." >}}
+{{< image src="EUR_GS_AugRau_Hi16_carroll.jpg" alt="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." title="Fig. 1: Plan of the house with a possible peristyle garden (G) in Insula 16. Adapted from McKay 1986, fig. 186." >}}
 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

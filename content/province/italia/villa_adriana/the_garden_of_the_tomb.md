@@ -48,9 +48,9 @@ We always find open spaces around the more important tombs and we know that they
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/64_tomba_romolo.jpg" alt="Plan of the Tomb of Romulus in Massentius' villa at Hadrian's Villa" title="Fig. 64: The Tomb of Romulus in Massentius' villa, Eugenia Salza Prina Ricotti." >}}
+{{< image src="64_tomba_romolo.jpg" alt="Plan of the Tomb of Romulus in Massentius' villa at Hadrian's Villa" title="Fig. 64: The Tomb of Romulus in Massentius' villa, Eugenia Salza Prina Ricotti." >}}
 
 ### Dates
 

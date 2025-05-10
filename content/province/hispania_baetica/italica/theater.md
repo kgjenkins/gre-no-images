@@ -52,12 +52,12 @@ The Italica Theater makes use of the side of a hill to support most of its *grad
 
 ### Maps
 
-{{< figure src="../images/HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
 ### Images
 
 
-{{< figure src="../images/HIS_BAE_Italica_theater_plan_Notebook.jpg" alt="Fig. 1: Plan of the Theater, from Italica MMCC, page 43. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_theater_plan_Notebook.jpg" alt="Fig. 1: Plan of the Theater, from Italica MMCC, page 43. (Rights Statement)" >}}
 
 
 

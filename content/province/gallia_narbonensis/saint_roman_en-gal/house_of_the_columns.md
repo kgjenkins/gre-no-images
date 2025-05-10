@@ -77,17 +77,17 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/house_of_the_columns_phase1.png" alt="Plan of House of the columns_phase1" title="Fig. 1 Plan of House of the columns_phase1" >}}
+{{< image src="house_of_the_columns_phase1.png" alt="Plan of House of the columns_phase1" title="Fig. 1 Plan of House of the columns_phase1" >}}
 
-{{< figure src="../images/house_of_the_columns_phase2.png" alt="Plan of House of the columns_phase2" title="Fig. 2 Plan of House of the columns_phase2" >}}
+{{< image src="house_of_the_columns_phase2.png" alt="Plan of House of the columns_phase2" title="Fig. 2 Plan of House of the columns_phase2" >}}
 
-{{< figure src="../images/house_of_the_columns_phase3.png" alt="Plan of House of the columns_phase3" title="Fig. 3 Plan of House of the columns_phase2" >}}
+{{< image src="house_of_the_columns_phase3.png" alt="Plan of House of the columns_phase3" title="Fig. 3 Plan of House of the columns_phase2" >}}
 
 
 ### Dates

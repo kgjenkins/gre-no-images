@@ -92,11 +92,11 @@ Monumental baths about 88 meters long and 40 meters wide were built in Flavian t
 
 ### Plans
 
-{{< figure src="../images/his_tar_seg_bath_fig1.jpg" alt="Fig. 1: Segobriga: Plan of the Flavian baths." title="Fig. 1: Segobriga: Plan of the Flavian baths.  From Spanisharts website." >}}
+{{< image src="his_tar_seg_bath_fig1.jpg" alt="Fig. 1: Segobriga: Plan of the Flavian baths." title="Fig. 1: Segobriga: Plan of the Flavian baths.  From Spanisharts website." >}}
 
 ### Images
 
-{{< figure src="../images/his_tar_seg_bath_fig2.jpg" alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths." title="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths.  Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website." >}}
+{{< image src="his_tar_seg_bath_fig2.jpg" alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths." title="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths.  Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website." >}}
 
 ### Dates
 

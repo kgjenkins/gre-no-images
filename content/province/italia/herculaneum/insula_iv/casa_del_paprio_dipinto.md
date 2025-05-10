@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../images/H_4_3-9.jpg" alt="Plan of Casa del Paprio Dipinto" title="Plan of Casa del Paprio Dipinto" >}}
+{{< image src="H_4_3-9.jpg" alt="Plan of Casa del Paprio Dipinto" title="Plan of Casa del Paprio Dipinto" >}}
 
 
 <!--### Images-->

@@ -53,22 +53,22 @@ To the left of the entering guest was the reception room with an interesting mos
 
 ### Maps
 
-{{< figure src="../images/HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_city plan_CA.jpg" alt="Fig. 1: Map of Italica. (Rights Statement)" >}}
 
 ### Images
 
 
-{{< figure src="../images/HIS_BAE_Italica_Hob_CA fig1.jpg" alt="Fig. 1: Photograph looking over the garden to the northeast. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_Hob_CA fig1.jpg" alt="Fig. 1: Photograph looking over the garden to the northeast. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS BAE italica Hob fig2.jpg" alt="Fig. 2: Photograph of the small garden to the left and rear of the large peristyle garden. (Rights Statement)" >}}
+{{< image src="HIS BAE italica Hob fig2.jpg" alt="Fig. 2: Photograph of the small garden to the left and rear of the large peristyle garden. (Rights Statement)" >}}
 
-{{< figure src="../images/his-bae-italica-hob-fig3.jpg" alt="Fig. 3: Photograph of the small garden to the right and rear of the large peristyle garden. (Rights Statement)" >}}
+{{< image src="his-bae-italica-hob-fig3.jpg" alt="Fig. 3: Photograph of the small garden to the right and rear of the large peristyle garden. (Rights Statement)" >}}
 
-{{< figure src="../images/his-bae-italica-hob-fig4.jpg" alt="Fig. 4: Photograph of the small fountain garden. (Rights Statement)" >}}
+{{< image src="his-bae-italica-hob-fig4.jpg" alt="Fig. 4: Photograph of the small fountain garden. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Italica_Hob_Notebook fig5.jpg" alt="Fig. 5: Plan of the House of the Birds and other drawings. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica_Hob_Notebook fig5.jpg" alt="Fig. 5: Plan of the House of the Birds and other drawings. (Rights Statement)" >}}
 
-{{< figure src="../images/HIS_BAE_Italica Hob_CA fig6.jpg" alt="Fig. 6: Plan of the House of the Birds. (Rights Statement)" >}}
+{{< image src="HIS_BAE_Italica Hob_CA fig6.jpg" alt="Fig. 6: Plan of the House of the Birds. (Rights Statement)" >}}
 
 
 ### Dates

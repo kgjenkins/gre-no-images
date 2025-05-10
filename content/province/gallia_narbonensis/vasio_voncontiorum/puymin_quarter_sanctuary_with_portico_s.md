@@ -72,7 +72,7 @@ In the center of the court was a monumental pool 9.5 meters wide and 1.6 meters 
 ### Plans
 
 
-{{< figure src="../images/puymin_quarter_sanctuary_with_portico’s_formerly_called_pompey’s_portico.png" alt="Plan of Sanctuary with Portico's" title="Plan of Sanctuary with Portico's" >}}
+{{< image src="puymin_quarter_sanctuary_with_portico’s_formerly_called_pompey’s_portico.png" alt="Plan of Sanctuary with Portico's" title="Plan of Sanctuary with Portico's" >}}
 
 
 

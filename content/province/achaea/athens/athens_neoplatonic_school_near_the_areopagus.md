@@ -46,7 +46,7 @@ Several houses with peristyle courtyards were built north of the Areopagus in th
 One of these buildings, the so-called House C or Omega House, had two peristyle courtyards, of which the eastern and smallest was paved (Fig. 1).  The house was assured of a constant supply of water, as it tapped into a spring higher up on the hill.  The nymphaeum and semi-circular collecting basin on the southeast corner of the house were fed by this, the overflow being directed through a pipe to a well on the west side of the central, rectangular peristyle courtyard.  The water taken from this well may have been used to water a garden, possibly one in the unpaved courtyard in which the well was situated (G on plan).  A collection of marble statues, portrait busts, and reliefs from the 4th century B.C. to the 3rd century A.D. was discarded in this and other wells of the house in the first half of the 6th century, possibly at the same time Justinian ordered that pagan schools should be closed down.  The house was destroyed in 582/3 after a period of Christian use.
 
 ### Plans
-{{< figure src="../images/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
+{{< image src="omegahouse.jpg" alt="plan of a house with a possible garden peristyle" title="Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170." >}}
 
 ### Dates
 second half of the 4th century CE to the late 6th century CE

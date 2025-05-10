@@ -69,11 +69,11 @@ The sumptuous fourth-century villa has, not surprisingly, a large and most elabo
 
 ### Plans
 
-<!--{{< figure src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
+<!--{{< image src="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" title="Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)" >}}-->
 
 ### Images
 
-{{< figure src="../images/figure12.png" alt="Fig. 12 Piazza Armerina, plan of late Roman villa" title="Fig. 12 Piazza Armerina, plan of late Roman villa" >}}
+{{< image src="figure12.png" alt="Fig. 12 Piazza Armerina, plan of late Roman villa" title="Fig. 12 Piazza Armerina, plan of late Roman villa" >}}
 
 
 ### Dates

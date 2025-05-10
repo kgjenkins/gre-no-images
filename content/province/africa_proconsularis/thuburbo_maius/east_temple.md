@@ -30,7 +30,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 [THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)](https://pleiades.stoa.org/places/315220)
 
 
-{{< figure src="../images/thuburbo_east_temple.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_east_temple.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -55,7 +55,7 @@ A strip of soil bordered most of the long sides of the temple and the mosaic pav
 
 ### Plans
 
-{{< figure src="../images/East_temple_Plan.jpg" alt="Plan of the East Temple" title="Fig. 1: Plan of the East Temple (CMT, V.  II,  fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)" >}}
+{{< image src="East_temple_Plan.jpg" alt="Plan of the East Temple" title="Fig. 1: Plan of the East Temple (CMT, V.  II,  fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)" >}}
 
 ### Dates
 Unspecified

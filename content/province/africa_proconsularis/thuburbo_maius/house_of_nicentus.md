@@ -31,7 +31,7 @@ The history of Roman Africa begins in 146 BC with the destruction of Carthage an
 
 
 
-{{< figure src="../images/thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
+{{< image src="thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" title="Plan of Thuburbo Maius (CMT, Thuburbo Majus)" >}}
 
 ### Location Description
 
@@ -58,7 +58,7 @@ It was laid out around a peristyle garden (VI-X) of 12 columns (Plan view, Fig. 
 
 ### Plans
 
-{{< figure src="../images/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" title="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II,  fasc.1, plan 10-11)" >}}
+{{< image src="AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" title="Fig. 1: Plan of the House of Nicentus ( CMT, V.  II,  fasc.1, plan 10-11)" >}}
 
 ### Dates
 

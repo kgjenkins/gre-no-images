@@ -49,7 +49,7 @@ Ostia in ancient times, however, must have been a good deal greener and richer i
 
 ### Location Plan
 
-{{< figure src="../images/ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
+{{< image src="ostia_fig1.jpg" alt="General Plan of Ostia Antica" title="Ostia Antica, General Plan." >}}
 
 ## Garden
 
@@ -78,11 +78,11 @@ The [*viridarium*](https://en.wiktionary.org/wiki/viridarium) is the main source
 
 ### Figures
 
-{{< figure src="../images/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" title="Figure 1: Plan (after Becatti 1961)." >}}
+{{< image src="ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" title="Figure 1: Plan (after Becatti 1961)." >}}
 
-{{< figure src="../images/ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Figure 2: Nymphaeum (PA-OAnt, Photo Archive)." >}}
+{{< image src="ostia_fig4.jpg" alt="Photo of Nymphaeum" title="Figure 2: Nymphaeum (PA-OAnt, Photo Archive)." >}}
 
-{{< figure src="../images/ostia_fig5_better.jpg" alt="Axonometry" title="Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
+{{< image src="ostia_fig5_better.jpg" alt="Axonometry" title="Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 
 {{< figure src="../images_b/ostia_fig4b.jpg" alt="Section" title="Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives)." >}}
 

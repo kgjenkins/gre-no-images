@@ -64,7 +64,7 @@ Possibly belonging to this same house, the east part of the *domus* may have bee
 -->
 
 ### Plans
-{{< figure src="../images/house_of_the_small_persityle1.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Lassère, J.-M., Slim, H., 2010)" >}}
+{{< image src="house_of_the_small_persityle1.jpg" alt="Plan of the House of the Small Peristyle; rights statement" title="Fig. 1: Plan of the House of the Small Peristyle (Lassère, J.-M., Slim, H., 2010)" >}}
 
 ### Images
 <!--

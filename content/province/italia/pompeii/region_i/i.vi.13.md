@@ -60,19 +60,19 @@ NEW WAY ↓↓↓↓
 
 <!--### Plans
 
-{{< figure src="../../../images/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../../images/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." title="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement)." >}}
 
 ### Images
 
-{{< figure src="../images/Fig_20_I.vi.13_5.6.59.jpg" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." title="Fig. 3: I.vi. 5.6.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_20_I.vi.13_5.6.59.jpg" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." title="Fig. 3: I.vi. 5.6.59, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_21_I.vi.13_5.7.59.jpg" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." title="Fig. 4: I.vi. 5.7.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_21_I.vi.13_5.7.59.jpg" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." title="Fig. 4: I.vi. 5.7.59, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_22_I.vi.13_34.29.64.jpg" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." title="Fig. 5: I.vi. 34.29.64, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_22_I.vi.13_34.29.64.jpg" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." title="Fig. 5: I.vi. 34.29.64, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_23_I.vi.13_34.6.64.jpg" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." title="Fig. 6: I.vi. 35.6.64, S.A.Jashemski (Rights Statement)." >}}
+{{< image src="Fig_23_I.vi.13_34.6.64.jpg" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." title="Fig. 6: I.vi. 35.6.64, S.A.Jashemski (Rights Statement)." >}}
 
 ### Images-->
 

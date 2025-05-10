@@ -49,13 +49,13 @@ However the garden did not occupy the entire plateau. A substantial concentratio
 
 ### Plans
 
-{{< figure src="../images/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
 
-{{< figure src="../images/28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian's Villa" title="Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti." >}}
+{{< image src="28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian's Villa" title="Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti." >}}
 
 ### Images
 
-{{< figure src="../images/29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" title="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." >}}
+{{< image src="29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian's Villa" title="Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti." >}}
 
 
 ### Dates

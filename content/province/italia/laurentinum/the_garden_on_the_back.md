@@ -56,9 +56,9 @@ This description we just reported was the one that Pliny gave us. From what we s
 
 
 ### Plans
-{{< figure src="../images/102 - Pliny times.jpg" alt="102 - The Lauretinum as it was in Pliny’s times" title="102 - Pliny times">}}
-{{< figure src="../images/103 - Severian Laurentinum.jpg" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." title="1103 - Laurentinum in Severian times">}}
-{{< figure src="../images/104 - Excav, Laurentinum.jpg" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" title="104 - Excavations and survey of  the Cryptoporch and the Severian changes">}}
+{{< image src="102 - Pliny times.jpg" alt="102 - The Lauretinum as it was in Pliny’s times" title="102 - Pliny times">}}
+{{< image src="103 - Severian Laurentinum.jpg" alt="103 - Laurentinum in Severian times. Map of the excavations and surface remains." title="1103 - Laurentinum in Severian times">}}
+{{< image src="104 - Excav, Laurentinum.jpg" alt="104 - Excavations and survey of  the Cryptoporch and the Severian changes" title="104 - Excavations and survey of  the Cryptoporch and the Severian changes">}}
 
 ### Dates
 Unspecified

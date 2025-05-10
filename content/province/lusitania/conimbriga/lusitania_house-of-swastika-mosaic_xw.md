@@ -60,11 +60,11 @@ Far more modest than the House of Cantaber but following the same general ideas 
 
 ### Plans
 
-{{< figure src="../images/HIS LUS_Conim_Swastika_Plan_CA fig1.jpg" alt="Plan view of House of the Swastika Mosaic at Conimbriga, Lusitania Province, Spain." title="Fig. 1: House of Swastika Mosaic." >}}
+{{< image src="HIS LUS_Conim_Swastika_Plan_CA fig1.jpg" alt="Plan view of House of the Swastika Mosaic at Conimbriga, Lusitania Province, Spain." title="Fig. 1: House of Swastika Mosaic." >}}
 
 ### Images
 
-{{< figure src="../images/HIS LUS_Conim_Swastika_Photo_CA fig2.jpg"  title="Fig. 2: Looking west over swastika mosaic to garden." >}}
+{{< image src="HIS LUS_Conim_Swastika_Photo_CA fig2.jpg"  title="Fig. 2: Looking west over swastika mosaic to garden." >}}
 
 <!--### Dates-->
 

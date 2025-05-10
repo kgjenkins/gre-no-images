@@ -42,7 +42,7 @@ An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius i
 This small house had a roofed passageway supported by one column that bordered the garden (a) on the south and east. A low masonry wall enclosed the garden on these same sides and the north wall had a small arched niche with an aedicula façade.
 
 ### Plans
-{{< figure src="../images/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

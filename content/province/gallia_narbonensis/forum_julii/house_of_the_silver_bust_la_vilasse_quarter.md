@@ -88,7 +88,7 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 ### Plans
 
 
-{{< figure src="../images/house_of_the_silver_bust_la_vilasse_quarter.png" alt="Plan of House of the Silver Bust" title="Plan of House of the Silver Bust" >}}
+{{< image src="house_of_the_silver_bust_la_vilasse_quarter.png" alt="Plan of House of the Silver Bust" title="Plan of House of the Silver Bust" >}}
 
 
 

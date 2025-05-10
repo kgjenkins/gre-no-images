@@ -65,7 +65,7 @@ The house is dated to the 5th-6th century AD on the base of the style of its mos
 -->
 
 ### Plans
-{{< figure src="../images/House_of_the_Two_hunts_Kelibia1.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Fig. 1: Plan of the House of the Two Hunts (Ennaifer, M., 1994, pl. 94-106)" >}}
+{{< image src="House_of_the_Two_hunts_Kelibia1.jpg" alt="Plan of the House of the Two Hunts at Clupea; rights statement" title="Fig. 1: Plan of the House of the Two Hunts (Ennaifer, M., 1994, pl. 94-106)" >}}
 
 ### Images
 <!--

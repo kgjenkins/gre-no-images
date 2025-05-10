@@ -64,7 +64,7 @@ House of the Seasons (La maison des Saisons)
 -->
 
 ### Plans
-{{< figure src="../images/AFR_Suf_hs_amalek1.jpg" alt="Plan of the House of the Seasons at Sufetula; rights statement" title="Fig. 1: Plan of the House of the Seasons. (Duval, N. and Hallier, G., 1972, fig. 11)" >}}
+{{< image src="AFR_Suf_hs_amalek1.jpg" alt="Plan of the House of the Seasons at Sufetula; rights statement" title="Fig. 1: Plan of the House of the Seasons. (Duval, N. and Hallier, G., 1972, fig. 11)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

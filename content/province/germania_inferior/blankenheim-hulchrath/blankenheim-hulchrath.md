@@ -54,7 +54,7 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 -->
 
 ### Plans
-{{< figure src="../images/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it. Adapted from Horn 1987, fig. 306. (Rights statement)" >}}
+{{< image src="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="plan of villa rustica at Blackenheim-Hülchrath; rights statement" title="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it. Adapted from Horn 1987, fig. 306. (Rights statement)" >}}
 <!--
 {{< figure src="IMG_URL" alt="ALT_TEXT" title="CAPTION" >}}
 -->

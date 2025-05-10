@@ -61,11 +61,11 @@ This country estate in modern Kent possessed a large ornamental pool (P in Fig. 
 
 ### Plans
 
-{{< figure src="../images/eccles1.png" alt="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." title="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." >}}
+{{< image src="eccles1.png" alt="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." title="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25." >}}
 
 ### Images
 
-{{< figure src="../images/Eccles_Fig_2.jpg" alt="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." title="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." >}}
+{{< image src="Eccles_Fig_2.jpg" alt="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." title="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2." >}}
 
 ### Dates
 

@@ -73,17 +73,17 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-{{< figure src="../../../images/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
 
 {{< figure src="../../images/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." title="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement)." >}}
 
 ### Images
 
-{{< figure src="../images/Fig_38_I.vii.7_13.18.59.jpg" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." title="Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_38_I.vii.7_13.18.59.jpg" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." title="Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_39_I.vii.7_22.12.68.jpg" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." title="Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement)." >}}
+{{< image src="Fig_39_I.vii.7_22.12.68.jpg" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." title="Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement)." >}}
 
-{{< figure src="../images/Fig_40_I.vii.7_22.22.68.jpg" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." title="Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement)." >}}-->
+{{< image src="Fig_40_I.vii.7_22.22.68.jpg" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." title="Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement)." >}}-->
 
 ### Dates
 Excavated 1912 and 1924.

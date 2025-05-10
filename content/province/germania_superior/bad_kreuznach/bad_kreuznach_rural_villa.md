@@ -69,17 +69,17 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 <!--### Maps-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Plans
 
-{{< figure src="../images/EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." title="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)" >}}
+{{< image src="EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." title="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)" >}}
 
 <!--### Images-->
 
 <!--
-{{< figure src="../images/image_name.ext" alt="alt_text" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="alt_text" title="CAPTION" >}}
 -->
 
 ### Dates

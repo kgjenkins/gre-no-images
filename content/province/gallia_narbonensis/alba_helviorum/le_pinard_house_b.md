@@ -67,7 +67,7 @@ On entering from the east-west street, after passing through two incidental room
 ### Plans
 
 
-{{< figure src="../images/le_pinard_house_B.png" alt="Plan of Le Pinard, House B" title="Plan of Le Pinard, House B" >}}
+{{< image src="le_pinard_house_B.png" alt="Plan of Le Pinard, House B" title="Plan of Le Pinard, House B" >}}
 
 
 

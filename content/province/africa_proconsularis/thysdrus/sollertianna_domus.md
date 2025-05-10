@@ -70,7 +70,7 @@ A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonna
 <!--### Maps-->
 
 ### Plans
-{{< figure src="../images/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)" >}}
+{{< image src="AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." title="Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)" >}}
 
 <!--### Images-->
 ### Dates

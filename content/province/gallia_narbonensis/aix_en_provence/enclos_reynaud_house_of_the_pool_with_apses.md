@@ -65,13 +65,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Plans
 
 
-{{< figure src="../images/enclos_reynaud_house_of_the_pool_with_apses.png" alt="Plan of the House of the Pool with Apses" title="Enclos Reynaud,House of the pool with apses" >}}
+{{< image src="enclos_reynaud_house_of_the_pool_with_apses.png" alt="Plan of the House of the Pool with Apses" title="Enclos Reynaud,House of the pool with apses" >}}
 
 
 <!--### Images-->
@@ -81,7 +81,7 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-{{< figure src="../images/image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
+{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
 -->
 
 ### Dates

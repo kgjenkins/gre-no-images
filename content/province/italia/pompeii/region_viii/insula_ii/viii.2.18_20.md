@@ -46,8 +46,8 @@ A. The Sarno Bath is included in this block of irregular shaped houses, reached 
 B. The irregular shapes of the buildings created this triangular light well. Two large windows allowed light into the passageway from the street at entrance 20, which also received light from a third window before the passageway ended at the peristyle. The light well had a tufa gutter that drained to the east into a cistern that was accessed in the kitchen. There were likely some plantings in the light well, as well as on the four porticoed terraces to the rear, including the upper level terrace that did not survive.  
 
 ### Plans
-{{< figure src="../images/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
-{{< figure src="../images/fig._4_region_viii_insula_ii_18_20_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
+{{< image src="fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" title="Plan of the Pompeii Region VIII, Insula II" >}}
+{{< image src="fig._4_region_viii_insula_ii_18_20_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" title="Plan of the Pompeii Region VIII, Insula II, 1-20" >}}
 
 #### Pleiades ID
 [432873](https://pleiades.stoa.org/places/538911200)

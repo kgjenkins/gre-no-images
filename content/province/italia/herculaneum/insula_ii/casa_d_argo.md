@@ -74,7 +74,7 @@ NEW WAY ↓↓↓↓
 ### Plans
 
 
-{{< figure src="../images/H_2_2.jpg" alt="Plan of Casa D’Argo" title="Plan of Casa D’Argo" >}}
+{{< image src="H_2_2.jpg" alt="Plan of Casa D’Argo" title="Plan of Casa D’Argo" >}}
 
 ### Dates
 
