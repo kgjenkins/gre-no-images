@@ -59,7 +59,7 @@ if (q) {
   })
 
   // Only return results that contain ALL query terms
-  qall = '+' + q.split(' ').join(' +')
+  qall = '+' + q.replace(/\W+/g, ' ').trim().split(' ').join(' +')
 
   try {
     // Perform the search
