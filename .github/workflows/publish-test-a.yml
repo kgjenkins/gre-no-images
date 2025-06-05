@@ -1,4 +1,4 @@
-name: publish to test-a website repo
+name: publish to test-a
 
 on:
   workflow_dispatch:
