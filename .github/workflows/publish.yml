@@ -26,7 +26,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_ROMAN_GARDENS }}
           external_repository: roman-gardens/roman-gardens.github.io
           publish_branch: main
           publish_dir: ./docs
