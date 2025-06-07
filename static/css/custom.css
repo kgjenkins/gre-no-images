@@ -157,14 +157,19 @@ h3 {
 nav.breadcrumbs {
   font-weight: bold;
   font-size: 130%;
-  padding: 0 0.5em;
   margin-bottom: 0.5em;
-  background: #262;
-  color: #fff;
+  xbackground: #262;
+  xcolor: #fff;
+  color: #262;
 }
 
 nav.breadcrumbs a {
-  color: #fff;
+  xcolor: #fff;
+  color: #282;
+}
+
+ul {
+  margin-bottom: 1em;
 }
 
 ul.sublocations {
@@ -215,7 +220,7 @@ article.list__item {
 }
 
 .smallcrumbs {
-	color: #262;
+	color: #282;
   font-size: 90%;
   margin: 0;
   line-height: 1.0;
@@ -258,4 +263,8 @@ article.list__item {
 
 .province h2 {
   margin: 0;
+}
+
+.linkedid {
+  display: block;
 }
