@@ -1,5 +1,5 @@
 // custom code for displaying garden search results from Lunr
-function displayResults (results, store) {
+function displayResults (qterms, results, store) {
   const searchResultsSummary = document.getElementById('search-results-summary')
   const searchResultsList = document.getElementById('search-results-list')
   if (results.length) {
@@ -17,10 +17,21 @@ function displayResults (results, store) {
       resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a>' +
        (item.draft? ' (DRAFT)' : '') + '</h3>'
 
-      // garden description snippet
-      let description = item.content.replace(/^.*Garden Description /s, '').substring(0, 179)
-      description = description.replace(/ \w+$/, ' ...')
-      resultList += description
+      // find text around first instance of first query term
+      let q1 = qterms[0]
+      let re = new RegExp(`^.*?(.{1,140})(${q1})(.{1,140}).*?$`, 'is')
+      // extract and highlight first term
+      let snippet = item.content.replace(re, '$1<em>$2</em>$3')
+      // highlight any other terms found within the snippet
+      if (qterms.length > 1) {
+        for (let i = 1 ; i < qterms.length; i++) {
+          let qi = qterms[i]
+          let re2 = new RegExp(`(${qi})`, 'i')
+          snippet = snippet.replace(re2, '<em>$1</em>')
+        }
+      }
+      snippet = '...' + snippet.replace(/^\w+|\w+$/g, '') + '...'
+      resultList += snippet
 
       resultList += '</article>'
     }
@@ -59,13 +70,14 @@ if (q) {
   })
 
   // Only return results that contain ALL query terms
-  qall = '+' + q.replace(/\W+/g, ' ').trim().split(' ').join(' +')
+  let qterms = q.replace(/\W+/g, ' ').trim().split(' ')
+  let qall = '+' + qterms.join(' +')
 
   try {
     // Perform the search
     const results = idx.search(qall)
     // Update the list with results
-    displayResults(results, window.store)
+    displayResults(qterms, results, window.store)
   }
   catch {
     const searchResultsSummary = document.getElementById('search-results-summary')

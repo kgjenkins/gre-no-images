@@ -191,6 +191,11 @@ article.list__item {
   border: 0;
 }
 
+article.list__item em {
+  font-weight: bold;
+  background: #ffc;
+}
+
 .list__header {
   margin: 0;
 }
