@@ -4,7 +4,9 @@
 	{{- partial "breadcrumbs.html" . -}}
 
 	<!-- Province article -->
-    <div class='province'>{{ .Content }}</div>
+	{{- if .Content -}}
+		<div class='province'>{{ .Content }}</div>
+	{{- end -}}
 
 	<!-- List sublocations -->
 	{{- partial "sublocations.html" . -}}

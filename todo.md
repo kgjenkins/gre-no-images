@@ -117,6 +117,12 @@
 - [ ] move province description to browse page for the province
 - [x] "garden entries" have been published
 - [x] remove numbers like 563 from Herculaneum entry titles
+- [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
+
+# Province pages
+- [ ] review which sections should be retained in province pages (and also for gardens...)
+- [ ] move content from garden entries to the province _index.md
+- [ ] generate new "gre_id" and "alias" values
 
 # Images
 - [x] rename 37 JPG files to jpg

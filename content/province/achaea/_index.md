@@ -10,37 +10,22 @@ editor: Jane Millar
 draft: false
 ---
 
-## Province
-
-Achaea
-
-### Province Description
-
 Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
 
 The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
-
-
-## Location
-
-[Achaea (Pleiades)](https://pleiades.stoa.org/places/570028)
 
 
 ### Dates
 
 146 BCE to 7th century CE
 
+#### Linked IDs
+
+{{< id src="pleiades" id="570028" title="Achaea/Achaia (region)" >}}
+{{< id src="tgn" id="7030332" title="Achaea (province)" >}}
+
 <!--#### Periodo ID-->
-
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[570028](https://pleiades.stoa.org/places/570028)
-
-#### TGN ID
-
-[7030332](http://vocab.getty.edu/page/tgn/7030332)
 
 ### Contributor
 
