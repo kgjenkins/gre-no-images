@@ -35,8 +35,11 @@ body.test-drafts {
 }
 
 div.test-header {
-  text-align: center;
   font-size: 150%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-left: 0.5em;
 }
 
 div.container {
@@ -167,7 +170,6 @@ nav.breadcrumbs a {
 ul.sublocations {
   margin: 0 0 0.5em;
   padding: 0 3em 0.5em;
-  border-bottom: 1px solid #888;
 }
 
 ul.sublocations li {
@@ -238,4 +240,22 @@ article.list__item {
   font-weight: bold;
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
+}
+
+.debug {
+  background: #f8f;
+  padding: 1em;
+  font-weight: bold;
+}
+
+.province {
+  float: right;
+  width: 65%;
+  background: #fff;
+  padding: 0.5em;
+  border: 2px solid #ccc;
+}
+
+.province h2 {
+  margin: 0;
 }

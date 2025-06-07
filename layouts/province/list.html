@@ -1,0 +1,42 @@
+{{- define "main" -}}
+<!-- Display list of gardens under the current location -->
+<main class="main list" role="main">
+	{{- partial "breadcrumbs.html" . -}}
+
+	<!-- Province article -->
+    <div class='province'>{{ .Content }}</div>
+
+	<!-- List sublocations -->
+	{{- partial "sublocations.html" . -}}
+
+	{{- if .Pages -}}
+		<!-- List all gardens under this location -->
+		{{- $pages := slice -}}
+		{{- range sort .RegularPagesRecursive ".Params.Title" -}}
+			{{- if ne ( path.Base .Path ) "index.md" -}}
+				{{- $pages = $pages | append . -}}
+			{{- end -}}
+		{{- end -}}
+		{{- $count := len $pages -}}
+		<br style="clear:both">
+		
+		<!-- get the current place name -->
+		{{- $thisplace := "" -}}
+		{{- $thisplace = delimit (last 1 (split (.Path) "/") ) "" -}}
+		{{- $thisplace = replaceRE "_" " " $thisplace | title -}}
+		
+		<div class='count'>
+			{{ $count }} garden
+			{{ if ne $count 1 }} entries {{ else }} entry{{ end }}
+			{{- if ne $thisplace "Province" }}
+				in {{ partial "romancase" $thisplace }}
+			{{ end -}}
+			{{ if ne $count 1 }} have {{ else }} has {{ end }}
+			been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:
+		</div>
+		{{- range $pages -}}
+			{{- .Render "summary" -}}
+		{{- end -}}
+	{{- end -}}
+</main>
+{{- end -}}

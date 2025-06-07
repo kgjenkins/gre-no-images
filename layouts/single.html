@@ -1,10 +1,17 @@
 {{ define "main" }}
 <main class="main" role="main">
 	<article class="post{{ if .Params.draft }} draft{{ end }}">
+		{{ if .Params.draft }}
+			<div class="draft">DRAFT</div>
+		{{ end }}
 		<header class="post__header">
+			{{- partial "breadcrumbs.html" . -}}
 			<h1 class="post__title">{{ .Title }}</h1>
-			{{- with .Params.lead }}
-			<p class="post__lead">{{ . }}</p>
+			{{- if .Params.gre_id }}
+				{{ $url := print .Site.BaseURL "id/" .Params.gre_id "/" }}
+				<div class='permalink'>
+					Permalink: <a href="{{ $url }}">{{ $url }}</a>
+				</div>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
 			<div class="post__meta meta">{{ . }}</div>
@@ -26,7 +33,4 @@
 		{{- end }}
 	</article>
 </main>
-{{ partial "authorbox.html" . }}
-{{ partial "pager.html" . }}
-{{ partial "comments.html" . }}
 {{ end }}

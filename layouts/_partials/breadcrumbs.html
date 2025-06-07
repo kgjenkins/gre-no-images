@@ -1,25 +1,27 @@
 <!-- Display the navigational breadcrumbs at the top of each
-	garden and section webpage -->
-{{ $path := .Path }}
-{{ $path := strings.TrimPrefix "/" $path }}
-{{ $dirs := split $path "/" }}
-{{ $levels := len $dirs }}
-{{ if eq .Kind "page" }}
-	{{ $dirs = first (sub $levels 1) $dirs }}
-{{ end }}
-{{ $place := "" }}
+	province or garden webpage -->
+{{- if or (eq .Type "province") (eq .Type "garden") -}}
+	{{ $path := .Path }}
+	{{ $path := strings.TrimPrefix "/" $path }}
+	{{ $dirs := split $path "/" }}
+	{{ $levels := len $dirs }}
+	{{ if eq .Kind "page" }}
+		{{ $dirs = first (sub $levels 1) $dirs }}
+	{{ end }}
+	{{ $place := "" }}
 
-<!-- display path hierarchy, with each level linked -->
-<nav class="breadcrumbs">
-	{{- range $i, $dir := $dirs -}}
-		<!-- print slash except for at beginning -->
-		{{- if ne 0 $i }} / {{- end -}}
-		
-		<!-- print "All Gardens" at start of breadcrumbs -->
-		{{- $place = replaceRE "province" "all gardens" $dir -}}
+	<!-- display path hierarchy, with each level linked -->
+	<nav class="breadcrumbs">
+		{{- range $i, $dir := $dirs -}}
+			<!-- print slash except for at beginning -->
+			{{- if ne 0 $i }} / {{- end -}}
 
-		<!-- capitalize and link -->
-		{{- $link := strings.Repeat (sub $levels $i 1) "../" }}
-		<a href="{{ $link }}">{{- partial "romancase" $place }}</a>
-	{{- end }}
-</nav>
+			<!-- print "All Gardens" at start of breadcrumbs -->
+			{{- $place = replaceRE "province" "all gardens" $dir -}}
+
+			<!-- capitalize and link -->
+			{{- $link := strings.Repeat (sub $levels $i 1) "../" }}
+			<a href="{{ $link }}">{{- partial "romancase" $place }}</a>
+		{{- end }}
+	</nav>
+{{- end -}}
