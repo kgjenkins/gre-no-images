@@ -18,7 +18,7 @@ function displayResults (results, store) {
        (item.draft? ' (DRAFT)' : '') + '</h3>'
 
       // garden description snippet
-      let description = item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179)
+      let description = item.content.replace(/^.*Garden Description /s, '').substring(0, 179)
       description = description.replace(/ \w+$/, ' ...')
       resultList += description
 
