@@ -5,7 +5,10 @@
 
 	<!-- Province article -->
 	{{- if .Content -}}
-		<div class='province'>{{ .Content }}</div>
+		<div class='province'>
+			<h2>{{ .Title }}</h2>
+			{{ .Content }}
+		</div>
 	{{- end -}}
 
 	<!-- List sublocations -->
