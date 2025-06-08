@@ -3,7 +3,7 @@ function displayResults (qterms, results, store) {
   const searchResultsSummary = document.getElementById('search-results-summary')
   const searchResultsList = document.getElementById('search-results-list')
   if (results.length) {
-    searchResultsSummary.innerHTML = results.length + ' results found for <b>' + q + '</b>:'
+    searchResultsSummary.innerHTML = results.length + ' result' + (results.length == 1 ? '' : 's') + ' found for <em>' + q + '</em>:'
     let resultList = ''
     // Iterate and build result list elements
     for (const n in results) {
