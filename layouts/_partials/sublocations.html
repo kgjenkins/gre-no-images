@@ -25,18 +25,20 @@
 
 <!-- List sublocations, if any -->
 {{- if index $dirs 0 -}}
-    {{- if eq $thisplace "Province" }}
-        Provinces:
-    {{- else }}
-        Sublocations of {{ partial "romancase" $thisplace }}:
-    {{ end -}}
-    <ul class='sublocations'>
-        {{ range $i, $v := sort $dirs -}}
-            {{- with strings.TrimPrefix $path . -}}
-                <!-- repair roman numerals containing x -->
-                {{- $link := replaceRE "xxx" "" . -}}
-                <li><a href="{{- $link | lower -}}/">{{- partial "romancase" $link -}}</a></li>
-            {{ end -}}
-        {{- end }}
-    </ul>
+    <div class='sublocations'>
+        {{- if eq $thisplace "Province" }}
+            Provinces:
+        {{- else }}
+            Sublocations of {{ partial "romancase" $thisplace }}:
+        {{ end -}}
+        <ul>
+            {{ range $i, $v := sort $dirs -}}
+                {{- with strings.TrimPrefix $path . -}}
+                    <!-- repair roman numerals containing x -->
+                    {{- $link := replaceRE "xxx" "" . -}}
+                    <li><a href="{{- $link | lower -}}/">{{- partial "romancase" $link -}}</a></li>
+                {{ end -}}
+            {{- end }}
+        </ul>
+    </div>
 {{ end -}}

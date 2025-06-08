@@ -158,31 +158,47 @@ nav.breadcrumbs {
   font-weight: bold;
   font-size: 130%;
   margin-bottom: 0.5em;
-  xbackground: #262;
-  xcolor: #fff;
   color: #262;
 }
 
 nav.breadcrumbs a {
-  xcolor: #fff;
   color: #282;
 }
 
-ul {
-  margin-bottom: 1em;
-}
-
-ul.sublocations {
-  margin: 0 0 0.5em;
-  padding: 0 3em 0.5em;
-}
-
-ul.sublocations li {
+.sublocations {
+  float: right;
+  padding: 0.5em;
+  margin: 0 0 1em 1em;
+  background: #eee;
+  border:1px solid #000;
   font-weight: bold;
 }
 
+.sublocations ul {
+  margin: 0 0 0 2em;
+}
+
+.province {
+  background: #fff;
+}
+
+.province h2 {
+  margin: 0;
+}
+
+.province ul {
+  margin: 0 0 1em 2em;
+}
+
+.content ul {
+  list-style-type: disc;
+}
+
+
 .count {
   margin: 1em 0;
+  font-size: 110%;
+  font-weight: bold;
 }
 
 article.list__item {
@@ -213,6 +229,14 @@ article.list__item em {
   box-shadow: 1px 2px 3px #888888;
   height:12px ! important;
   width: 12px ! important;
+}
+
+#search-results-summary {
+  font-size: 110%;
+}
+
+#search-results-summary em {
+  font-weight: bold;
 }
 
 #search-results-list {
@@ -258,18 +282,10 @@ article.list__item em {
   font-weight: bold;
 }
 
-.province {
-  float: right;
-  width: 65%;
-  background: #fff;
-  padding: 0.5em;
-  border: 2px solid #ccc;
-}
-
-.province h2 {
-  margin: 0;
-}
-
 .linkedid {
   display: block;
+}
+
+.clearfix::after {
+  clear: none;
 }

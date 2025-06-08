@@ -3,16 +3,16 @@
 <main class="main list" role="main">
 	{{- partial "breadcrumbs.html" . -}}
 
+	<!-- List sublocations -->
+	{{- partial "sublocations.html" . -}}
+
 	<!-- Province article -->
 	{{- if .Content -}}
 		<div class='province'>
-			<h2>{{ .Title }}</h2>
+			<h1 class="post__title">{{ .Title }}</h1>
 			{{ .Content }}
 		</div>
 	{{- end -}}
-
-	<!-- List sublocations -->
-	{{- partial "sublocations.html" . -}}
 
 	{{- if .Pages -}}
 		<!-- List all gardens under this location -->
@@ -23,7 +23,6 @@
 			{{- end -}}
 		{{- end -}}
 		{{- $count := len $pages -}}
-		<br style="clear:both">
 		
 		<!-- get the current place name -->
 		{{- $thisplace := "" -}}
