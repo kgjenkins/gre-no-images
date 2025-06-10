@@ -6,7 +6,9 @@
 
 {{- define "main" -}}
 <main class="main list" role="main">
-	{{- partial "breadcrumbs.html" . -}}
+	{{- if gt (len .Ancestors) 1 -}}
+		{{- partial "breadcrumbs.html" . -}}
+	{{- end -}}
 	{{- partial "sublocations.html" . -}}
 	{{- $thisplace := partial "this-place.html" .Path -}}
 
