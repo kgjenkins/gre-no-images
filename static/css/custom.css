@@ -180,6 +180,10 @@ nav.breadcrumbs a {
   font-weight: bold;
 }
 
+.sublocations .count {
+  font-family: "Palatino", serif;
+}
+
 .province {
   border-bottom: 3px solid #c22d30;
   padding-bottom: 1em;
@@ -194,7 +198,7 @@ nav.breadcrumbs a {
 }
 
 
-.count {
+.summary {
   margin: 1em 0;
   font-size: 110%;
   font-weight: bold;
