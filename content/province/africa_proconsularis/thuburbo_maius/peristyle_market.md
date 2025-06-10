@@ -5,7 +5,7 @@ type: "garden"
 title: "Peristyle Market (Marché)"
 date:
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina F. Jashemski
+author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: true
 

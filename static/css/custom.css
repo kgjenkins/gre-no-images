@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .widget-map {
-
+  background: #fff;
 }
 
 .widget-search__field {
@@ -262,8 +262,9 @@ article.list__item em {
   color: #000;
 }
 
-.permalink {
-  margin: 0.5em 0;
+.metadata {
+  margin: 0.5em 2em;
+  font-size: 90%;
 }
 
 .draft {

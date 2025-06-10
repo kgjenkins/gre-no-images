@@ -6,16 +6,9 @@
 		{{ end }}
 		<header class="post__header">
 			{{- partial "breadcrumbs.html" . -}}
+
 			<h1 class="post__title">{{ .Title }}</h1>
-			{{- if .Params.gre_id }}
-				{{ $url := print .Site.BaseURL "id/" .Params.gre_id "/" }}
-				<div class='permalink'>
-					Permalink: <a href="{{ $url }}">{{ $url }}</a>
-				</div>
-			{{- end }}
-			{{ with partial "post_meta.html" . -}}
-			<div class="post__meta meta">{{ . }}</div>
-			{{- end }}
+			{{- partial "metadata.html" . -}}
 		</header>
 		{{- if .Params.thumbnail }}
 		<figure class="post__thumbnail">

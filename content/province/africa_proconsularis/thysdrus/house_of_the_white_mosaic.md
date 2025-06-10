@@ -5,7 +5,7 @@ type: "garden"
 title: "House of the White Mosaic (Maison des mosaïques blanches)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290828, 10.705481 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
 

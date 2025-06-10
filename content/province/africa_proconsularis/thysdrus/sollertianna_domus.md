@@ -5,7 +5,7 @@ type: "garden"
 title: "Sollertianna Domus"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.289921, 10.704940 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
 

@@ -5,7 +5,7 @@ type: "garden"
 title: "House of the Two Fountains (Maison aux deux Fontaines)"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
 draft: true
 

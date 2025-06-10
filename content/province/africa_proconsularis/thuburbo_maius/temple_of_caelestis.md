@@ -5,7 +5,7 @@ type: "garden"
 title: "Temple of Caelestis (Temple de Caelestis) "
 date:
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina F. Jashemski
+author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: false
 

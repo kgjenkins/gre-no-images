@@ -5,7 +5,7 @@ type: "garden"
 title: "House of the Peacock (Maison du Paon)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290182, 10.704849 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
 

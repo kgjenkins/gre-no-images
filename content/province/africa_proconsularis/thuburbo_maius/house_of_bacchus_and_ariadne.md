@@ -5,7 +5,7 @@ type: "garden"
 title: "House of Bacchus and Ariadne (Maison de Bacchus et Ariane)"
 date:
 latlon: [ 36.400355, 9.903990 ]
-author: Wilhelmina F. Jashemski
+author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: false
 
