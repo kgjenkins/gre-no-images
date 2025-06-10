@@ -1,6 +1,7 @@
 ---
 gre_id: "8c6ccd67f1"
 aliases: [/id/8c6ccd67f1]
+type: "garden"
 title: "House of the Columns"
 date: 2020-10-05T23:06:02-24:00
 latlon: [ 42.439512, 3.176623 ]

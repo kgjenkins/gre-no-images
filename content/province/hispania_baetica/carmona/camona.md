@@ -1,6 +1,7 @@
 ---
 gre_id: "1ed466c4a5"
 aliases: [/id/1ed466c4a5]
+type: "garden"
 title: "Carmona, near Seville (Hispalis) BAETICA"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]
@@ -102,4 +103,4 @@ unspecified
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 gre_id: "1046237f8f"
 aliases: [/id/1046237f8f]
+type: "garden"
 title: "The House aux Fleurons (boulevard de la Paix)"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.254613, 4.040522 ]

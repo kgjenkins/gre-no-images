@@ -1,6 +1,7 @@
 ---
 gre_id: "2602fe8dc1"
 aliases: [/id/2602fe8dc1]
+type: "garden"
 title: "Fontao Villa"
 date: 2020-11-02
 latlon: [ 0, 0 ]

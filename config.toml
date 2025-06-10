@@ -11,6 +11,9 @@ buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
+# This prevents diacritics in URLs (as for links to people pages)
+removePathAccents = true
+
 # This forces the "title" function to capitalize EVERY word
 # The default setting "ap" does not capitalize "via"...
 titleCaseStyle = "go"
@@ -42,7 +45,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 	[[menu.main]]
 		name = "People"
-		pageRef = "/contributors/"
+		pageRef = "/people/"
 		weight = 40
 
 	[[menu.main]]

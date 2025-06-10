@@ -1,6 +1,7 @@
 ---
 gre_id: "603e67549e"
 aliases: [/id/603e67549e]
+type: "garden"
 title: "Garden of Epicurus"
 date: 2020-07-20T11:34:30-04:00
 latlon: [ 37.972633, 23.722746 ]

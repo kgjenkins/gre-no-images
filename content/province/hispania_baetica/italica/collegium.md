@@ -1,6 +1,7 @@
 ---
 gre_id: "88c343cdb1"
 aliases: [/id/88c343cdb1]
+type: "garden"
 title: "Collegium"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]
@@ -84,4 +85,4 @@ unspecified
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

@@ -1,10 +1,11 @@
 ---
 gre_id: "e0e0054f68"
 aliases: [/id/e0e0054f68]
+type: "garden"
 title: "House of Neptune (Maison de Neptune)"
 date: 2020-11-09
 latlon: [ 36.400355, 9.903990 ]
-author: Wilhelmina F. Jashemski
+author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: false
 

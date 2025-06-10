@@ -1,7 +1,7 @@
 ---
 gre_id: "017460df86"
 aliases: [/id/017460df86]
-article-type: "province"
+type: "garden"
 title: "I.3.24 House of Capella"
 date: 2021-03-18T11:58:50Z
 latlon: [ 40.750870, 14.493866 ]

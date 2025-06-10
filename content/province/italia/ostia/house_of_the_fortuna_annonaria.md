@@ -1,6 +1,7 @@
 ---
 gre_id: "066a96c866"
 aliases: [/id/066a96c866]
+type: "garden"
 title: "House of the Fortuna Annonaria"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.75413924799149, 12.290541242057353 ]

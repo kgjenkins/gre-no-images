@@ -1,6 +1,7 @@
 ---
 gre_id: "f6a82bdba9"
 aliases: [/id/f6a82bdba9]
+type: "garden"
 title: "Neoplatonic School Near the Areopagus"
 date: 2020-07-20T11:39:30-04:00
 latlon: [ 37.972372, 23.723371 ]
@@ -67,4 +68,4 @@ second half of the 4th century CE to the late 6th century CE
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

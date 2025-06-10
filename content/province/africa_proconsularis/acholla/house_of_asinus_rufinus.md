@@ -1,6 +1,7 @@
 ---
 gre_id: "e8b3c44463"
 aliases: [/id/e8b3c44463]
+type: "garden"
 title: "House of Asinius Rufinus (Maison d'Asinius Rufinus)"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 35.079643, 11.020606 ]

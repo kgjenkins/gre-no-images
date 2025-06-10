@@ -1,34 +1,14 @@
 ---
-gre_id: "ac3df48e02"
+gre_id: ac3df48e02
 aliases: [/id/ac3df48e02]
-title: "Temple Grove"
+type: garden
+title: Temple Grove
 date: 2020-07-16T09:45:49-04:00
 latlon: [ 37.739227, 23.518981 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
-
-categories:
- - "Achaea"
-
-tags:
-  - "olive trees (Olea europaea)"
-  - "sacred groves"
 ---
-
-## Province
-
-[Achaea]({{<relref "..">}})
-
-### Province Description
-
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of [Athens]({{<relref "../athens">}}) in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
-
-## Location
-
-[Aegina]({{<relref ".">}}) \
-[Aegina (Perseus)](https://pleiades.stoa.org/places/579844)
 
 ## Garden
 
@@ -75,20 +55,16 @@ pre-464 BCE to 2nd century CE
 
 <!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 
-#### Pleiades ID
+#### Linked IDs
 
-[579844](https://pleiades.stoa.org/places/579844)
-
-#### TGN ID
-
-[7011087](http://vocab.getty.edu/page/tgn/7011087)
+{{< id src="pleiades" id="579844" title="Aegina (island)" >}}
+{{< id src="tgn" id="7011087" title="Aegina (inhabited place)" >}}
 
 ### Contributor
 
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
+[Maureen Carroll](#) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
 
 ### Publication date
-
 
 21 Apr 2021
 

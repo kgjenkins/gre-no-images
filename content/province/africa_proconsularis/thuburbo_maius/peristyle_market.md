@@ -1,10 +1,11 @@
 ---
 gre_id: "88a590cc40"
 aliases: [/id/88a590cc40]
+type: "garden"
 title: "Peristyle Market (Marché)"
 date:
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina F. Jashemski
+author: Wilhelmina Jashemski
 editor: Nicholas Gill
 draft: true
 

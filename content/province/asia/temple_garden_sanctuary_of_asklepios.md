@@ -1,6 +1,7 @@
 ---
 gre_id: "c0650573df"
 aliases: [/id/c0650573df]
+type: "garden"
 title: "Temple Garden, Sanctuary of Asklepios"
 date: 2020-09-29T18:00:32-05:00
 latlon: [ 0, 0 ]

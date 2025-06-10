@@ -1,7 +1,7 @@
 ---
 gre_id: "e8b20fff6b"
 aliases: [/id/e8b20fff6b]
-article-type: "province"
+type: "garden"
 title: "II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater"
 date: 2021-03-09T08:45:49Z
 latlon: [ 40.7511, 14.49449]

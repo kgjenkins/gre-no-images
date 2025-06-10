@@ -1,6 +1,7 @@
 ---
 gre_id: "ca821d6045"
 aliases: [/id/ca821d6045]
+type: "garden"
 title: "VIII.3.31. Case di Pan"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

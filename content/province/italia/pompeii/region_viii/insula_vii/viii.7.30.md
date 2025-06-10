@@ -1,6 +1,7 @@
 ---
 gre_id: "59bccb9d15"
 aliases: [/id/59bccb9d15]
+type: "garden"
 title: "VIII.7.30. The Triangular Forum"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

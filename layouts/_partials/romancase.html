@@ -12,5 +12,4 @@
     {{- $s = replaceRE . (upper .) $s -}}
 {{- end -}}
 
-<!-- print the result -->
-{{- $s -}}
+{{- return $s -}}

@@ -1,6 +1,7 @@
 ---
 gre_id: "1a0671dab2"
 aliases: [/id/1a0671dab2]
+type: "garden"
 title: "The so-called Inferi Nymphaeum (Fig. 1, n. 23)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.938089, 12.779561 ]

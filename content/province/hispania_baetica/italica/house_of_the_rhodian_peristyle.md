@@ -1,6 +1,7 @@
 ---
 gre_id: "c73d6e2c2f"
 aliases: [/id/c73d6e2c2f]
+type: "garden"
 title: "House of the Rhodian Peristyle"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]
@@ -87,4 +88,4 @@ unspecified
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

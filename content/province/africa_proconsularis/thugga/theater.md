@@ -1,10 +1,11 @@
 ---
 gre_id: "43d2397bce"
 aliases: [/id/43d2397bce]
+type: "garden"
 title: "Theater (Theâtre)"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
 draft: false
 

@@ -1,0 +1,16 @@
+{{/* 
+
+	Ensure that the input is a list (slice)
+	If the input is a string, convert it into a single-item list
+
+*/}}
+{{- $isarray := isset . 0 -}}
+{{- $list := slice -}}
+{{- if $isarray -}}
+	{{- $list = . -}}
+{{- else if strings.Contains . ", " -}}
+    {{- $list = split . ", " }}
+{{- else -}}
+	{{- $list = $list | append . -}}
+{{- end -}}
+{{- return $list -}}

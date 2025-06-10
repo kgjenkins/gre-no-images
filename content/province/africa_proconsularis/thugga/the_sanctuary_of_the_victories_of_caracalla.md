@@ -1,10 +1,11 @@
 ---
 gre_id: "530e6055cb"
 aliases: [/id/530e6055cb]
+type: "garden"
 title: "The sanctuary of the Victories of Caracalla"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Xue Xia
 draft: false
 

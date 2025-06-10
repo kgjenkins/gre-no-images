@@ -1,6 +1,7 @@
 ---
 gre_id: "5df14b027f"
 aliases: [/id/5df14b027f]
+type: "garden"
 title: "House on rue de la Fraternité"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 50.292741, 2.778580 ]

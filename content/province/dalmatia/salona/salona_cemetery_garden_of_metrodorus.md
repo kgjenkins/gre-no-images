@@ -1,6 +1,7 @@
 ---
 gre_id: "9a6787448d"
 aliases: [/id/9a6787448d]
+type: "garden"
 title: "Cemetery Garden of Metrodorus"
 date: 2020-07-15T10:10:26-04:00
 latlon: [ 43.539561, 16.483426 ]

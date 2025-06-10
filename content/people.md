@@ -1,7 +1,6 @@
 ---
 title: "People"
 date: 2021-04-20T13:49:40-04:00
-author: David Ratzan
 draft: false
 ---
 The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years.  We have a group of **editors**, who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors**.
@@ -13,17 +12,17 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - Corresponding editors are noted in **bold**.
 
 ## Editors
-- *Wilhelmina Jashemski*\* , University of Maryland
-- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Executive Editor: <klg16@cornell.edu>
+- *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
+- [Kathryn Gleason](kathryn-gleason), Cornell University, Executive Editor
 - Kim J. Hartswick, CUNY Graduate Center
-- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL
-- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Digital Editor
+- [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL
+- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Digital Editor
 
 
 ## Website publication designers & technical advisors
 
-- [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Production Coordinator
-- [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, GIS mapping and website development
+- [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Production Coordinator
+- [Keith Jenkins](keith-jenkins), Cornell University, GIS mapping and website development
 
 ### Website and Data Structure Design
 - Christian Casey, ISAW/NYU
@@ -31,7 +30,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - Sebastian Heath, ISAW/NYU
 
 ### Mapping
-- [Keith Jenkins](https://guides.library.cornell.edu/prf.php?account_id=9255), Cornell University, GIS mapping
+- [Keith Jenkins](keith-jenkins), Cornell University, GIS mapping
 - [Gabriel McKee](https://isaw.nyu.edu/people/staff/gabriel-mckee), ISAW/NYU, Pleiades liaison
 
 

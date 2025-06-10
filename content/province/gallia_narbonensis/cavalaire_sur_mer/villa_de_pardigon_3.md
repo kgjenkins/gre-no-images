@@ -1,6 +1,7 @@
 ---
 gre_id: "b6cf9711e6"
 aliases: [/id/b6cf9711e6]
+type: "garden"
 title: "Villa de Pardigon 3"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]

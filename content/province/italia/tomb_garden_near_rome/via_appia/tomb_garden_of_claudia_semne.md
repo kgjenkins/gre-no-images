@@ -1,6 +1,7 @@
 ---
 gre_id: "99addb7aff"
 aliases: [/id/99addb7aff]
+type: "garden"
 title: "Tomb Garden of Claudia Semne"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]

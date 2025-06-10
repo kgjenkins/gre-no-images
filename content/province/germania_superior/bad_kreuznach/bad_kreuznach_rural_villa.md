@@ -1,6 +1,7 @@
 ---
 gre_id: "37a576450d"
 aliases: [/id/37a576450d]
+type: "garden"
 title: "Rural Villa in Bad Kreuznach"
 date: 2020-07-15T12:39:40-04:00
 latlon: [ 49.214670, 8.015747 ]

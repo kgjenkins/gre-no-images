@@ -1,6 +1,7 @@
 ---
 gre_id: "80f99c3405"
 aliases: [/id/80f99c3405]
+type: "garden"
 title: "Villa"
 date: 2020-10-12T20:00:00-04:00
 latlon: [ 0, 0 ]
@@ -95,4 +96,4 @@ unspecified
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

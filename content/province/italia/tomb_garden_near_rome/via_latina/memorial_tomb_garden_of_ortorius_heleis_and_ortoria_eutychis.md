@@ -1,6 +1,7 @@
 ---
 gre_id: "e1481f1f86"
 aliases: [/id/e1481f1f86]
+type: "garden"
 title: "Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.649151, 13.194182 ]

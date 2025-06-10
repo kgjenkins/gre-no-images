@@ -1,6 +1,7 @@
 ---
 gre_id: "e3a26a1b3d"
 aliases: [/id/e3a26a1b3d]
+type: "garden"
 title: "Rural Villa in Gorhambury"
 date: 2020-07-11T10:45:22-04:00
 latlon: [ 51.753814, -0.382679 ]

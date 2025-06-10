@@ -1,6 +1,7 @@
 ---
 gre_id: "0a16dfa1d8"
 aliases: [/id/0a16dfa1d8]
+type: "garden"
 title: "The Circus of Roman Corinth"
 date: 2020-07-16T09:50:29-04:00
 latlon: [ 37.900814, 22.895986 ]

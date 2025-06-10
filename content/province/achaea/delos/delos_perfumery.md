@@ -1,6 +1,7 @@
 ---
 gre_id: "c73fb3da24"
 aliases: [/id/c73fb3da24]
+type: "garden"
 title: "Perfumery (Quarter of the Stadium, Insula I, Building B)"
 date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.392022, 25.270238 ]

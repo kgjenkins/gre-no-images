@@ -1,6 +1,7 @@
 ---
 gre_id: "3001682999"
 aliases: [/id/3001682999]
+type: "garden"
 title: "House of Sertius (Maison de Sertius)"
 date: 2020-11-13T10:39:31-07:00
 latlon: [ 35.485216, 6.468222 ]

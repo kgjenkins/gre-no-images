@@ -1,6 +1,7 @@
 ---
 gre_id: "c1fdd755e5"
 aliases: [/id/c1fdd755e5]
+type: "garden"
 title: "V.iv.3"
 date: 2020-09-29T12:07:01-04:00
 latlon: [ 40.74941, 14.485429 ]

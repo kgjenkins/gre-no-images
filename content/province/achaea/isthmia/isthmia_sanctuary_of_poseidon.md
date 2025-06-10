@@ -1,6 +1,7 @@
 ---
 gre_id: "e5cccd48c0"
 aliases: [/id/e5cccd48c0]
+type: "garden"
 title: "Sanctuary of Poseidon"
 date: 2020-07-26T10:54:32-04:00
 latlon: [ 37.915797, 22.992968 ]

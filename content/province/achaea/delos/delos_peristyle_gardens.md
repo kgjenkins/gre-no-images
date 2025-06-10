@@ -1,6 +1,7 @@
 ---
 gre_id: "137e564fe8"
 aliases: [/id/137e564fe8]
+type: "garden"
 title: "Peristyle Gardens in the Quarter of the Theater"
 date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.392022, 25.270238 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "cd75bd9c0e"
 aliases: [/id/cd75bd9c0e]
+type: "garden"
 title: "House No. 1 or West House"
 date: 2020-10-04T10:00:00-04:00
 latlon: [ 0, 0 ]
@@ -103,4 +104,4 @@ unspecified
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

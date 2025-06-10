@@ -1,6 +1,7 @@
 ---
 gre_id: "ed6a8dfedd"
 aliases: [/id/ed6a8dfedd]
+type: "garden"
 title: "Urban Houses in Carnuntum"
 date: 2020-07-22T08:57:49-04:00
 latlon: [ 48.113346, 16.867891 ]
@@ -95,4 +96,4 @@ unspecified
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

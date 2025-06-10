@@ -1,6 +1,7 @@
 ---
 gre_id: "40b1adacb6"
 aliases: [/id/40b1adacb6]
+type: "garden"
 title: "Tomb Garden and Cistern of Gallatis, Son of Pythion"
 date: 2020-07-26T10:33:06-04:00
 latlon: [ 38.493967, 22.841425 ]
@@ -88,4 +89,4 @@ Maureen Carroll (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 gre_id: "011acd8815"
 aliases: [/id/011acd8815]
+type: "garden"
 title: "House of Industrius (Maison d'Industrius)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 36.607458, 10.172291 ]
@@ -93,4 +94,4 @@ Unspecified
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

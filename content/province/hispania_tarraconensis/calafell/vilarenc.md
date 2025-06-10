@@ -1,6 +1,7 @@
 ---
 gre_id: "5f859cad1a"
 aliases: [/id/5f859cad1a]
+type: "garden"
 title: "Vilarenc"
 date: 2020-10-18T12:40:31-13:00
 latlon: [ 0, 0 ]

@@ -1,10 +1,11 @@
 ---
 gre_id: "fbde5b398f"
 aliases: [/id/fbde5b398f]
+type: "garden"
 title: "House of Venus (Maison de Venus)"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Nicholas Gill
 draft: true
 

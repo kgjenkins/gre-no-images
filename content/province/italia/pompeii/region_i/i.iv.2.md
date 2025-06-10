@@ -1,7 +1,7 @@
 ---
 gre_id: "99f50f2ebc"
 aliases: [/id/99f50f2ebc]
-article-type: "province"
+type: "garden"
 title: "I.4.2"
 date: 2021-03-19T09:25:59Z
 latlon: [ 40.750870, 14.493866 ]

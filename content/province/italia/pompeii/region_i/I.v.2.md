@@ -1,7 +1,7 @@
 ---
 gre_id: "39615f57fd"
 aliases: [/id/39615f57fd]
-article-type: "province"
+type: "garden"
 title: "I.5.2 Officina Coriarioum of M. Vesonius Primus"
 date: 2020-08-02T18:12:26-04:00
 latlon: [ 40.74941, 14.485429 ]

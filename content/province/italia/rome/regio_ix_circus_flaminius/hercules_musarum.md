@@ -1,7 +1,7 @@
 ---
 gre_id: "007c015ec1"
 aliases: [/id/007c015ec1]
-article-type: "province"
+type: "garden"
 title: "Hercules Musarum"
 date: 2021-04-04T10:00:00-07:00
 latlon: [ 41.891775, 12.486137 ]

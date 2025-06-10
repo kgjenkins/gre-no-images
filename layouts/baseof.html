@@ -19,12 +19,6 @@
 	</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
-	{{- if .Site.Params.opengraph }}
-		{{ template "_internal/opengraph.html" . }}
-	{{- end }}
-	{{- if .Site.Params.schema }}
-		{{ template "_internal/schema.html" . }}
-	{{- end }}
 
 	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
 	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
@@ -51,7 +45,7 @@
 	<div class="test-header">{{ .Site.BaseURL }}</div>
 	{{ end }}
 	<div class="container container--outer">
-		{{ partial "header" . }}
+		{{ partial "header.html" . }}
 		<div class="wrapper flex">
 			<div class="primary">
 			{{ block "main" . }}
@@ -64,12 +58,11 @@
 			</div>
 			{{ partial "sidebar.html" . }}
 		</div>
-		{{ partial "footer" . }}
+		{{ partial "footer.html" . }}
 	</div>
 <script async defer src="{{ "js/menu.js" | relURL }}"></script>
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
 {{- end }}
-{{- partial "mathjax.html" . -}}
 </body>
 </html>

@@ -1,10 +1,11 @@
 ---
 gre_id: "2ef0db08ba"
 aliases: [/id/2ef0db08ba]
+type: "garden"
 title: "House of the Dolphins (Maison des dauphins)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290739, 10.704487 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Jinyi Yang
 draft: false
 

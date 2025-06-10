@@ -1,6 +1,7 @@
 ---
 gre_id: "92633827fc"
 aliases: [/id/92633827fc]
+type: "garden"
 title: "R1 Casa Villanueve"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "bc0b1d0458"
 aliases: [/id/bc0b1d0458]
+type: "garden"
 title: "VIII.4.9. House of T. Mescinius Gelo"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

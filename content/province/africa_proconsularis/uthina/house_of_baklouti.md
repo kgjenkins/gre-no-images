@@ -1,6 +1,7 @@
 ---
 gre_id: "49d22e6ecc"
 aliases: [/id/49d22e6ecc]
+type: "garden"
 title: "House of Baklouti (Maison de Baklouti)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 36.607458, 10.172291 ]
@@ -96,4 +97,4 @@ Unspecified
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

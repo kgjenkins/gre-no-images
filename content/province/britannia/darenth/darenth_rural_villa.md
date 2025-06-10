@@ -1,6 +1,7 @@
 ---
 gre_id: "19c1b644fb"
 aliases: [/id/19c1b644fb]
+type: "garden"
 title: "Rural Villa in Darenth"
 date: 2020-07-08T12:08:30-04:00
 latlon: [ 51.421122, 0.257752 ]

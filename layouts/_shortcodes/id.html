@@ -1,0 +1,32 @@
+{{ $id := .Get "id" }}
+{{ $src := .Get "src" }}
+{{ $title := .Get "title" }}
+
+{{ $url := "" }}
+{{ if eq $src "aat" }}
+    {{ $url = "http://vocab.getty.edu/page/aat" }}
+{{ else if eq $src "orcid" }}
+    {{ $url = "https://orcid.org" }}
+{{ else if eq $src "pleiades" }}
+    {{ $url = "https://pleiades.stoa.org/places" }}
+{{ else if eq $src "tgn" }}
+    {{ $url = "http://vocab.getty.edu/page/tgn" }}
+{{ else if eq $src "powo" }}
+    {{ $url = "https://powo.science.kew.org/taxon" }}
+{{ else if eq $src "tgn" }}
+    {{ $url = "http://vocab.getty.edu/page/tgn" }}
+{{ end }}
+
+{{ $url = urls.JoinPath $url $id }}
+
+{{/* Capitalize the source appropriately */}}
+{{ if eq $src "pleiades"}}
+    {{ $src = strings.FirstUpper $src }}
+{{ else }}
+    {{ $src = upper $src }}
+{{ end }}
+
+<div class='linkedid'>
+    <b>{{ $src }}:</b>
+    <a href="{{ $url }}">{{ $id }} -- {{ $title }}</a>
+</div>

@@ -1,7 +1,7 @@
 ---
 gre_id: "25fff046fb"
 aliases: [/id/25fff046fb]
-article-type: "province"
+type: "garden"
 title: "Porticus of Pompey"
 date: 2021-04-06T10:00:00-07:00
 latlon: [ 41.894007, 12.479061 ]

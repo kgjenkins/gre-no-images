@@ -1,6 +1,7 @@
 ---
 gre_id: "99193ac2fa"
 aliases: [/id/99193ac2fa]
+type: "garden"
 title: "Rural Villa in Sudeley/Spoonley Wood"
 date: 2020-07-11T18:57:34-04:00
 latlon: [ 51.940896, -1.927588 ]

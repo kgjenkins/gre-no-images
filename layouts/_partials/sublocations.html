@@ -1,0 +1,48 @@
+{{- $path := .Path -}}
+
+<!-- get the current place name -->
+{{- $thisplace := partial "this-place.html" .Path -}}
+
+<!-- get list of sublocations -->
+{{- $sublocs := slice -}}
+{{- range where page.Pages "Type" "province" -}}
+    {{- if and (hasPrefix .Path (add $path "/")) (ne .Path $path) -}}
+        {{- $str := strings.TrimPrefix "/" (strings.TrimPrefix $path .Path) -}}
+        {{- if not (strings.Contains $str "/") -}}
+            <!-- force roman rumerals 1-39 to sort better (e.g. IX comes after VIII)-->
+            {{- $sortable := replaceRE "([ivx]*x[ivx]*)" "zzz$1" .Path -}}
+            {{- $sublocs = $sublocs | append $sortable -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+<!-- List any sublocations that have articles -->
+{{- if gt ($sublocs | len) 0 }}
+    <div class='sublocations'>
+        <h2>
+            {{- if eq $thisplace "Province" -}}
+                Provinces:
+            {{- else -}}
+                Sublocations of {{ $thisplace }}:
+            {{- end -}}
+        </h2>
+        <ul>
+            {{- range sort $sublocs -}}
+                <!-- repair roman numerals containing 'x' -->
+                {{- $loc := replaceRE "zzz" "" . -}}
+                {{- $count := 0 -}}
+                {{- range where page.RegularPagesRecursive "Type" "garden" -}}
+                    <!-- we add slash at end to distinguish VI, VII, VIII, etc. -->
+                    {{- if hasPrefix .Path (add $loc "/") -}}
+                        {{- $count = add $count 1 -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- if ne $count 0 -}}
+                    {{- $link := add (lower $loc) "/" -}}
+                    {{- $label := partial "romancase.html" (strings.TrimPrefix (add $path "/") $loc) }}
+                    <li><a href="{{ $link }}">{{ $label }}</a> <span class="count">({{$count}} gardens)</span></li>
+                {{- end -}}
+            {{- end }}
+        </ul>
+    </div>
+{{ end }}

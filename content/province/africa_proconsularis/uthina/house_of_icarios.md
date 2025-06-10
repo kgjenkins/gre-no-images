@@ -1,6 +1,7 @@
 ---
 gre_id: "fcc53d3e6e"
 aliases: [/id/fcc53d3e6e]
+type: "garden"
 title: "House of Icarios (Maison d'Icarios)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 36.607458, 10.172291 ]
@@ -114,4 +115,4 @@ This richly decorated house is considered as one of the most remarkable *domus* 
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

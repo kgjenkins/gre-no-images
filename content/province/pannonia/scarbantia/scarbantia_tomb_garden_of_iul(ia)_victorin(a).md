@@ -1,6 +1,7 @@
 ---
 gre_id: "124efc8c8f"
 aliases: [/id/124efc8c8f]
+type: "garden"
 title: "Tomb Garden of Iul(ia) Victorin(a) in Scarbantia"
 date: 2020-07-22T10:08:21-04:00
 latlon: [ 47.684893, 16.583036 ]
@@ -94,4 +95,4 @@ A limestone funerary stele of probably third century date unearthed in 1973 near
 ### Publication date
 
 
-21 Apr 20210
+21 Apr 2021

@@ -1,6 +1,7 @@
 ---
 gre_id: "f3b21bbf86"
 aliases: [/id/f3b21bbf86]
+type: "garden"
 title: "Petra Garden and Pool Complex"
 date: 2020-10-08T10:30:00-04:00
 latlon: [ 30.328615, 35.443000 ]

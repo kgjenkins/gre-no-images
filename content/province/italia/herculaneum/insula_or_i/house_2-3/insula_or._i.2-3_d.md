@@ -1,6 +1,7 @@
 ---
 gre_id: "d75a7ef81f"
 aliases: [/id/d75a7ef81f]
+type: "garden"
 title: "Insula or. I.2-3(D)"
 date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
@@ -70,4 +71,4 @@ Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
 
 ### Publication date
 
-21 Apr 20210
+21 Apr 2021

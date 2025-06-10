@@ -1,10 +1,11 @@
 ---
 gre_id: "f3e5a4f149"
 aliases: [/id/f3e5a4f149]
+type: "garden"
 title: "Sanctuary B, the templa Concordiae"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]
-author: Wilhelmina F. Jashemski, Amina-Aïcha Malek
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 editor: Xue Xia
 draft: false
 
