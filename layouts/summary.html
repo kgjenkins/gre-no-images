@@ -11,7 +11,7 @@
 		<header class="list__header">
 			<div class='smallcrumbs'>
 				{{- $crumbs := replaceRE "/province/" "" (path.Dir .Path) -}}
-				{{- partial "romancase" $crumbs -}}
+				{{- partial "romancase.html" $crumbs -}}
 			</div>
 			<h3 class="list__title post__title">
 				<a href="{{ .RelPermalink }}" rel="bookmark">

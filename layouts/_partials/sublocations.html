@@ -1,7 +1,7 @@
 {{- $path := .Path -}}
 
 <!-- get the current place name -->
-{{- $thisplace := partial "this-place" .Path -}}
+{{- $thisplace := partial "this-place.html" .Path -}}
 
 <!-- get list of sublocations -->
 {{- $sublocs := slice -}}
@@ -39,7 +39,7 @@
                 {{- end -}}
                 {{- if ne $count 0 -}}
                     {{- $link := add (lower $loc) "/" -}}
-                    {{- $label := partial "romancase" (strings.TrimPrefix (add $path "/") $loc) }}
+                    {{- $label := partial "romancase.html" (strings.TrimPrefix (add $path "/") $loc) }}
                     <li><a href="{{ $link }}">{{ $label }}</a> ({{$count}})</li>
                 {{- end -}}
             {{- end }}

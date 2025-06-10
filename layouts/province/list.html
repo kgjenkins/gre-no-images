@@ -1,14 +1,14 @@
-<!-- 
-For a given location (province or sublocation),
-list any sublocations, and
-list any gardens within the location
--->
+{{/* 
+    For a given location (province or sublocation),
+    list any sublocations, and
+    list any gardens within the location
+*/}}
 
 {{- define "main" -}}
 <main class="main list" role="main">
 	{{- partial "breadcrumbs.html" . -}}
 	{{- partial "sublocations.html" . -}}
-	{{- $thisplace := partial "this-place" .Path -}}
+	{{- $thisplace := partial "this-place.html" .Path -}}
 
 	<div class='province'>
 		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
@@ -19,7 +19,7 @@ list any gardens within the location
 	</div>
 
 	{{- if .Pages -}}
-		<!-- List all gardens under this location -->
+		<!-- List all garden articles under this location -->
 		{{- $pages := slice -}}
 		{{- range sort .RegularPagesRecursive ".Params.Title" -}}
 			{{- if ne ( path.Base .Path ) "index.md" -}}
@@ -32,7 +32,7 @@ list any gardens within the location
 			{{ $count }} garden
 			{{ if ne $count 1 }} articles {{ else }} entry{{ end }}
 			{{- if ne $thisplace "Province" }}
-				in {{ partial "romancase" $thisplace }}
+				in {{ partial "romancase.html" $thisplace }}
 			{{ end -}}
 			{{ if ne $count 1 }} have {{ else }} has {{ end }}
 			been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:

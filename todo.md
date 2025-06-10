@@ -103,6 +103,7 @@
         - House name, or house number, or both?
         - Roman/Arabic numerals for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
         - ideally, don't depend on upper/lowercase for meaning
+- [ ] consistent heading levels in articles (h1, h2, h3, etc.)
 
 # from 2025-03-04, 2025-04-04, 2025-05-06 meetings
 - [ ] when we restart blog/news, add the posting date and snippet to the list of posts

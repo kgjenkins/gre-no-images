@@ -84,12 +84,8 @@ figcaption {
   color: #000;
 }
 
-h2 {
-  margin: 0.5em 0 0.2em;
-}
-
-h3 {
-  margin: 0.5em 0 0.2em;
+h1, h2, h3, h4, h5, h6 {
+  margin: 0.5em 0 0;
 }
 
 .container--outer {
@@ -136,6 +132,15 @@ h3 {
   text-decoration: none;
 }
 
+.widget__title {
+  border: none;
+  padding: 0;
+}
+
+.widget-map {
+
+}
+
 .widget-search__field {
   font-size: 11pt;
   margin: 0;
@@ -146,12 +151,6 @@ h3 {
   padding: 0;
   margin: 0;
   background: none;
-}
-
-.widget-taglist__link {
-  text-transform: none;
-  margin: 0 0.8em 0 0;
-  font-size: 10.5pt;
 }
 
 nav.breadcrumbs {
@@ -170,7 +169,7 @@ nav.breadcrumbs a {
   padding: 0.5em;
   margin: 0 0 1em 1em;
   background: #eee;
-  border:1px solid #000;
+  border:3px solid #c22d30;
 }
 
 .sublocations ul {
@@ -182,11 +181,8 @@ nav.breadcrumbs a {
 }
 
 .province {
-  background: #fff;
-}
-
-.province h2 {
-  margin: 0;
+  border-bottom: 3px solid #c22d30;
+  padding-bottom: 1em;
 }
 
 .province ul {
@@ -294,37 +290,14 @@ article.list__item em {
 }
 
 
-h1::after {
-  content: 'h1';
+h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
   position: relative;
   margin-left: 0.5em;
   color: #f80;
 }
-
-h2::after {
-  content: 'h2';
-  position: relative;
-  margin-left: 0.5em;
-  color: #f80;
-}
-
-h3::after {
-  content: 'h3';
-  position: relative;
-  margin-left: 0.5em;
-  color: #f80;
-}
-
-h4::after {
-  content: 'h4';
-  position: relative;
-  margin-left: 0.5em;
-  color: #f80;
-}
-
-h5::after {
-  content: 'h5';
-  position: relative;
-  margin-left: 0.5em;
-  color: #f80;
-}
+xh1::after { content: 'h1' }
+xh2::after { content: 'h2' }
+xh3::after { content: 'h3' }
+xh4::after { content: 'h4' }
+xh5::after { content: 'h5' }
+xh6::after { content: 'h6' }

@@ -21,7 +21,7 @@
 
 			<!-- capitalize and link -->
 			{{- $link := strings.Repeat (sub $levels $i 1) "../" }}
-			<a href="{{ $link }}">{{ partial "romancase" $place }}</a>
+			<a href="{{ $link }}">{{ partial "romancase.html" $place }}</a>
 		{{- end }}
 	</nav>
 {{- end -}}
