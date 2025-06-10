@@ -1,6 +1,7 @@
 ---
 gre_id: "c808d6a60a"
 aliases: [/id/c808d6a60a]
+type: "garden"
 title: "House H (Maison H)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]

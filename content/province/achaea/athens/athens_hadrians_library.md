@@ -1,6 +1,7 @@
 ---
 gre_id: "1aef208ebc"
 aliases: [/id/1aef208ebc]
+type: "garden"
 title: "Library of Hadrian"
 date: 2020-07-16T09:48:59-04:00
 latlon: [ 37.975531, 23.725995 ]

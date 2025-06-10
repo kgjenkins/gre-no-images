@@ -1,7 +1,7 @@
 ---
 gre_id: "b876d5102b"
 aliases: [/id/b876d5102b]
-article-type: "province"
+type: "garden"
 title: "I.6.4 House of the Lararium; Casa del Larario; Sabello Iliaco"
 date: 2021-04-02T09:07:23+01:00
 latlon: [ 40.74941, 14.485429 ]

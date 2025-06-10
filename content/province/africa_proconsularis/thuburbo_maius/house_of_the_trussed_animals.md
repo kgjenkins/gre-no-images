@@ -1,6 +1,7 @@
 ---
 gre_id: "3a192fd948"
 aliases: [/id/3a192fd948]
+type: "garden"
 title: "House of the Trussed Animals (Maison des animaux liés)"
 date:
 latlon: [ 36.400355, 9.903990 ]

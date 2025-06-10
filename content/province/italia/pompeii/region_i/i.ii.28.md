@@ -1,7 +1,7 @@
 ---
 gre_id: "f15992d5a2"
 aliases: [/id/f15992d5a2]
-article-type: "province"
+type: "garden"
 title: "I.2.28 Casa Della Grata Metallica; Casa Dell’Atrio Tetra-Stilo"
 date: 2021-03-14T17:25:08Z
 latlon: [ 40.750870, 14.493866 ]

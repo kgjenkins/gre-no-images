@@ -1,6 +1,7 @@
 ---
 gre_id: "33272c1a3c"
 aliases: [/id/33272c1a3c]
+type: "garden"
 title: "Casa del Larario Fiorito (II.ix.4)"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

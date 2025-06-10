@@ -1,6 +1,7 @@
 ---
 gre_id: "33cc03c782"
 aliases: [/id/33cc03c782]
+type: "garden"
 title: "Rural Villa in Eisenstadt"
 date: 2020-07-22T09:31:35-04:00
 latlon: [ 46.5, 15.5 ]

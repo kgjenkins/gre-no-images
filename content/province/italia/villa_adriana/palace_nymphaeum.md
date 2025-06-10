@@ -1,6 +1,7 @@
 ---
 gre_id: "0760fafa27"
 aliases: [/id/0760fafa27]
+type: "garden"
 title: "Palace nymphaeum (Fig. 1, n. 16)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.940994, 12.778615 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "66554c8a9a"
 aliases: [/id/66554c8a9a]
+type: "garden"
 title: "Small House with peristyle and basins"
 date: 2020-10-01T10:00:00-04:00
 latlon: [ 52.055419, -0.795092 ]

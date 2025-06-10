@@ -1,6 +1,7 @@
 ---
 gre_id: "46cdbef913"
 aliases: [/id/46cdbef913]
+type: "garden"
 title: "Atrium House"
 date: 2020-07-09T07:38:05-07:00
 latlon: [ 50.940671, 6.959908 ]

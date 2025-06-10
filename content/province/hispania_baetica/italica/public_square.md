@@ -1,6 +1,7 @@
 ---
 gre_id: "cbc00aa8f3"
 aliases: [/id/cbc00aa8f3]
+type: "garden"
 title: "Public Square"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 0, 0 ]

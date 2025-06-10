@@ -1,6 +1,7 @@
 ---
 gre_id: "82cc724d9d"
 aliases: [/id/82cc724d9d]
+type: "garden"
 title: "Caesarea Maritima Promontory Palace of Herod the Great"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.49715, 34.8891]

@@ -1,6 +1,7 @@
 ---
 gre_id: "d75a7ef81f"
 aliases: [/id/d75a7ef81f]
+type: "garden"
 title: "Insula or. I.2-3(D)"
 date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "eac9f15896"
 aliases: [/id/eac9f15896]
+type: "garden"
 title: "Tomb Garden of Claudia Peloris"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

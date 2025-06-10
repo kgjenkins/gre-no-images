@@ -1,6 +1,7 @@
 ---
 gre_id: "00e4043547"
 aliases: [/id/00e4043547]
+type: "garden"
 title: "Sanctuary of Ganymede or Hebe"
 date: 2020-07-26T12:41:58-04:00
 latlon: [ 37.396081, 21.841947 ]

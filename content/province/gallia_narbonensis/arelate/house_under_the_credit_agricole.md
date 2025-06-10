@@ -1,6 +1,7 @@
 ---
 gre_id: "c0e1622827"
 aliases: [/id/c0e1622827]
+type: "garden"
 title: "House under the Crédit Agricole"
 date: 2020-09-29T23:41:02
 latlon: [ 43.604175, 1.443246 ]

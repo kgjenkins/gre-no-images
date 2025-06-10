@@ -1,6 +1,7 @@
 ---
 gre_id: "ed31244283"
 aliases: [/id/ed31244283]
+type: "garden"
 title: "Casa del Colonnato Tuscanico (VI.17/26)"
 date: 2020-10-10T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

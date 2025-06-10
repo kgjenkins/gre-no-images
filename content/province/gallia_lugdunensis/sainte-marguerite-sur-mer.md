@@ -1,6 +1,7 @@
 ---
 gre_id: "79108eb6ac"
 aliases: [/id/79108eb6ac]
+type: "garden"
 title: "Roman Villa"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.024342, 1.151012 ]

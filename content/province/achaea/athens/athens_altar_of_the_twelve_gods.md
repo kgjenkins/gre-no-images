@@ -1,6 +1,7 @@
 ---
 gre_id: "a9bd5b21c5"
 aliases: [/id/a9bd5b21c5]
+type: "garden"
 title: "Altar of the Twelve Gods"
 date: 2020-07-26T10:20:19-04:00
 latlon: [ 37.97572, 23.722662 ]

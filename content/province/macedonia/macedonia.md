@@ -1,7 +1,7 @@
 ---
 gre_id: "5eba2c564c"
 aliases: [/id/5eba2c564c]
-article-type: "province"
+type: "province"
 title: "Macedonia"
 date: 2020-07-16T09:34:20-04:00
 latlon: [ 42.5, 22.5 ]

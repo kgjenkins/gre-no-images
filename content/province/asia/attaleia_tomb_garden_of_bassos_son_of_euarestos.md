@@ -1,6 +1,7 @@
 ---
 gre_id: "823f7f9201"
 aliases: [/id/823f7f9201]
+type: "garden"
 title: "Tomb Garden of Bassos son of Euarestos"
 date: 2020-09-25T10:39:31-07:00
 latlon: [ 39.071402, 27.891043 ]

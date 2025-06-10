@@ -1,7 +1,7 @@
 ---
 gre_id: "9e45de979b"
 aliases: [/id/9e45de979b]
-article-type: "province"
+type: "garden"
 title: "I.4.11 Caupona of Copious"
 date: 2021-03-19T12:45:15Z
 latlon: [ 40.750870, 14.493866 ]

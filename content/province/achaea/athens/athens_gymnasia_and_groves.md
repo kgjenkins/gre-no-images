@@ -1,6 +1,7 @@
 ---
 gre_id: "67c1d91fc2"
 aliases: [/id/67c1d91fc2]
+type: "garden"
 title: "Gymnasia and Groves"
 date: 2020-07-16T09:47:21-04:00
 latlon: [ 37.974031, 23.743349 ]

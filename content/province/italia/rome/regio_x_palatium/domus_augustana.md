@@ -1,7 +1,7 @@
 ---
 gre_id: "b03661296b"
 aliases: [/id/b03661296b]
-article-type: "province"
+type: "garden"
 title: "Domus Augustana"
 date: 2021-04-08T02:46:42+02:00
 latlon: [ 41.889306, 12.487109 ]

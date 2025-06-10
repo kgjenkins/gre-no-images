@@ -1,6 +1,7 @@
 ---
 gre_id: "71ab14ebd1"
 aliases: [/id/71ab14ebd1]
+type: "garden"
 title: "Arcos I Public Baths"
 date: 2020-10-22T08:59:31-13:00
 latlon: [ 47.260687, 9.617966 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "f3db68a29f"
 aliases: [/id/f3db68a29f]
+type: "garden"
 title: "House of the Seasons (La maison des Saisons)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 35.240165, 9.119793 ]

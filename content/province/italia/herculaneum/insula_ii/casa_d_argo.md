@@ -1,6 +1,7 @@
 ---
 gre_id: "8661630841"
 aliases: [/id/8661630841]
+type: "garden"
 title: "Casa D’Argo"
 date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]

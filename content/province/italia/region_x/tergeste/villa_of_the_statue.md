@@ -1,6 +1,7 @@
 ---
 gre_id: "8e167780d6"
 aliases: [/id/8e167780d6]
+type: "garden"
 title: "Villa of the Statue (I.iii.23)"
 date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.7015, 13.725 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "715633921e"
 aliases: [/id/715633921e]
+type: "garden"
 title: "The anonymous sanctuary, Dar Lachheb"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]

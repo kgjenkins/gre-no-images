@@ -5,7 +5,7 @@
 
 <!-- get list of sublocations -->
 {{- $sublocs := slice -}}
-{{- range where site.Pages "Kind" "section" -}}
+{{- range where page.Pages "Type" "province" -}}
     {{- if and (hasPrefix .Path (add $path "/")) (ne .Path $path) -}}
         {{- $str := strings.TrimPrefix "/" (strings.TrimPrefix $path .Path) -}}
         {{- if not (strings.Contains $str "/") -}}
@@ -31,7 +31,7 @@
                 <!-- repair roman numerals containing 'x' -->
                 {{- $loc := replaceRE "zzz" "" . -}}
                 {{- $count := 0 -}}
-                {{- range site.RegularPages -}}
+                {{- range where page.RegularPagesRecursive "Type" "garden" -}}
                     <!-- we add slash at end to distinguish VI, VII, VIII, etc. -->
                     {{- if hasPrefix .Path (add $loc "/") -}}
                         {{- $count = add $count 1 -}}

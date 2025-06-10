@@ -1,6 +1,7 @@
 ---
 gre_id: "b1bc5e5927"
 aliases: [/id/b1bc5e5927]
+type: "garden"
 title: "House of the Trifolium (Maison du Trifolium)"
 date: 2020-10-29
 latlon: [ 36.422473, 9.218866 ]

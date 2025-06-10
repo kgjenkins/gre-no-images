@@ -1,6 +1,7 @@
 ---
 gre_id: "2da812a6c3"
 aliases: [/id/2da812a6c3]
+type: "garden"
 title: "Tomb Garden of (Cl)oelia Tyche and (C)loelia Faustina"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

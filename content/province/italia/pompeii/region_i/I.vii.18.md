@@ -1,6 +1,7 @@
 ---
 gre_id: "ab2e4f0ff3"
 aliases: [/id/ab2e4f0ff3]
+type: "garden"
 title: "I.7.18 Shop-House"
 date: 2020-08-08T18:54:04-04:00
 latlon: [ 40.74941, 14.485429 ]

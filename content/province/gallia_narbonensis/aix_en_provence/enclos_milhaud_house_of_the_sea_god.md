@@ -1,6 +1,7 @@
 ---
 gre_id: "754214bc20"
 aliases: [/id/754214bc20]
+type: "garden"
 title: "Enclos Milhaud, House of the Sea god"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]

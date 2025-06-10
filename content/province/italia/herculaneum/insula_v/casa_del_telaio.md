@@ -1,6 +1,7 @@
 ---
 gre_id: "24c99cc9d4"
 aliases: [/id/24c99cc9d4]
+type: "garden"
 title: "Casa del Telaio"
 date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]

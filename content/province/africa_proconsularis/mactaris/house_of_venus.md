@@ -1,6 +1,7 @@
 ---
 gre_id: "9132260c70"
 aliases: [/id/9132260c70]
+type: "garden"
 title: "House of Venus (Maison de Venus)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 35.853198, 9.206544 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "dc6198eba1"
 aliases: [/id/dc6198eba1]
-article-type: "province"
+type: "garden"
 title: "Caupona, VI.I.1"
 date: 2021-02-19T09:54:16-06:00
 latlon: [ 40.749738, 14.489882 ]

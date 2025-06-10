@@ -1,7 +1,7 @@
 ---
 gre_id: "ad291761fe"
 aliases: [/id/ad291761fe]
-article-type: "province"
+type: "garden"
 title: "II.iii.3 ()"
 date: 2021-03-06T15:03:29Z
 latlon: [ 50.940671, 6.959908 ]

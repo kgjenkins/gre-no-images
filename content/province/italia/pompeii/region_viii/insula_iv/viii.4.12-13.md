@@ -1,6 +1,7 @@
 ---
 gre_id: "686a8a8f0a"
 aliases: [/id/686a8a8f0a]
+type: "garden"
 title: "VIII.4.12-13. Shop-House"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

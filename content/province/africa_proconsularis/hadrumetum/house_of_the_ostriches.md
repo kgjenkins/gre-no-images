@@ -1,6 +1,7 @@
 ---
 gre_id: "6b9b695b66"
 aliases: [/id/6b9b695b66]
+type: "garden"
 title: "House of the Ostriches (Maison des Autruches)"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 35.825866, 10.63878 ]

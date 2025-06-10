@@ -1,6 +1,7 @@
 ---
 gre_id: "1fd5602273"
 aliases: [/id/1fd5602273]
+type: "garden"
 title: "Tomb Garden of Anonymous"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

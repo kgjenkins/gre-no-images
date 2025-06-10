@@ -1,6 +1,7 @@
 ---
 gre_id: "59d4dedc89"
 aliases: [/id/59d4dedc89]
+type: "garden"
 title: "Caupona-Hospitium dei \"Pulcinella\" (I.viii.10)"
 date: 2020-08-09T09:29:04-04:00
 latlon: [ 40.74941, 14.485429 ]

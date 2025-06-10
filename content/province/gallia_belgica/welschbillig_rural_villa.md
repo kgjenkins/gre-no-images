@@ -1,6 +1,7 @@
 ---
 gre_id: "41a9c5c4df"
 aliases: [/id/41a9c5c4df]
+type: "garden"
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 0, 0 ]

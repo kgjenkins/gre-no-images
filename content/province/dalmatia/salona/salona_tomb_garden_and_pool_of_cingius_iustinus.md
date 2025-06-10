@@ -1,6 +1,7 @@
 ---
 gre_id: "b85436cd7e"
 aliases: [/id/b85436cd7e]
+type: "garden"
 title: "Tomb Garden and Pool of Cingius Iustinus"
 date: 2020-07-14T16:52:02-04:00
 latlon: [ 43.539561, 16.483426 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "c72ff9e782"
 aliases: [/id/c72ff9e782]
+type: "garden"
 title: "Theater"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]

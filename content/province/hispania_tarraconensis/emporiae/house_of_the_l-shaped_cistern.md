@@ -1,6 +1,7 @@
 ---
 gre_id: "48566b8135"
 aliases: [/id/48566b8135]
+type: "garden"
 title: "House of the L-shaped Cistern"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "101706da04"
 aliases: [/id/101706da04]
+type: "garden"
 title: "House of the Lucius Verus"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.297762, 10.699599 ]

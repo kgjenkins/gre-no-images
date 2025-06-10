@@ -1,6 +1,7 @@
 ---
 gre_id: "a268867d07"
 aliases: [/id/a268867d07]
+type: "garden"
 title: "Rural Villa in Bancroft"
 date: 2020-07-07T18:04:20-04:00
 latlon: [ 52.055419, -0.795092 ]

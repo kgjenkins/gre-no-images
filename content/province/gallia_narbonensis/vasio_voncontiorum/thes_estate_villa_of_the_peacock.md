@@ -1,6 +1,7 @@
 ---
 gre_id: "18d2d716ed"
 aliases: [/id/18d2d716ed]
+type: "garden"
 title: "Thès estate, villa of the Peacock"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

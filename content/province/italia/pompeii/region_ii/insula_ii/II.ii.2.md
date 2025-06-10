@@ -1,7 +1,7 @@
 ---
 gre_id: "db7d29c09a"
 aliases: [/id/db7d29c09a]
-article-type: "province"
+type: "garden"
 title: "II.ii.2 (House of D. Octavius Quartio)"
 date: 2021-02-21T13:04:51Z
 latlon: [ 40.750870, 14.493866 ]

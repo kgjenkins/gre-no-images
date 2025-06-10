@@ -1,6 +1,7 @@
 ---
 gre_id: "44c33a5f5f"
 aliases: [/id/44c33a5f5f]
+type: "garden"
 title: "Caupona with Small Bath"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

@@ -1,6 +1,7 @@
 ---
 gre_id: "3ec02332d6"
 aliases: [/id/3ec02332d6]
+type: "garden"
 title: "House of the Peacock (Maison du Paon)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290182, 10.704849 ]

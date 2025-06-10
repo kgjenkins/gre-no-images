@@ -1,6 +1,7 @@
 ---
 gre_id: "223a8c3e1a"
 aliases: [/id/223a8c3e1a]
+type: "garden"
 title: "The Gardens of Sperlonga. The peristyle garden "
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.251480, 13.449332 ]

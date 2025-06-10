@@ -10,7 +10,10 @@
 	{{- partial "sublocations.html" . -}}
 	{{- $thisplace := partial "this-place.html" .Path -}}
 
-	<div class='province'>
+	<div class='province{{ if .Params.draft }} draft{{ end }}'>
+		{{ if .Params.draft }}
+			<div class="draft">DRAFT</div>
+		{{ end }}
 		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
 		<!-- province/subprovince article? -->
 		{{- if .Content -}}
@@ -18,28 +21,24 @@
 		{{- end -}}
 	</div>
 
-	{{- if .Pages -}}
-		<!-- List all garden articles under this location -->
-		{{- $pages := slice -}}
-		{{- range sort .RegularPagesRecursive ".Params.Title" -}}
-			{{- if ne ( path.Base .Path ) "index.md" -}}
-				{{- $pages = $pages | append . -}}
-			{{- end -}}
-		{{- end -}}
-		{{- $count := len $pages -}}
-		
-		<div class='summary'>
-			{{ $count }} garden
-			{{ if ne $count 1 }} articles {{ else }} entry{{ end }}
-			{{- if ne $thisplace "Province" }}
-				in {{ partial "romancase.html" $thisplace }}
-			{{ end -}}
-			{{ if ne $count 1 }} have {{ else }} has {{ end }}
-			been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:
-		</div>
-		{{- range $pages -}}
-			{{- .Render "summary" -}}
-		{{- end -}}
+	<!-- List all garden articles under this location -->
+	{{- $pages := slice -}}
+	{{- range where page.RegularPagesRecursive "Type" "garden" -}}
+		{{- $pages = $pages | append . -}}
+	{{- end -}}
+	{{- $count := len $pages -}}
+	
+	<div class='summary'>
+		{{ $count }} garden
+		{{ if ne $count 1 }} articles {{ else }} entry{{ end }}
+		{{- if ne $thisplace "Province" }}
+			in {{ partial "romancase.html" $thisplace }}
+		{{ end -}}
+		{{ if ne $count 1 }} have {{ else }} has {{ end }}
+		been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:
+	</div>
+	{{- range $pages -}}
+		{{- .Render "summary" -}}
 	{{- end -}}
 </main>
 {{- end -}}

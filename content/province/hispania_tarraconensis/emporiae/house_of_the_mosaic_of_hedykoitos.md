@@ -1,6 +1,7 @@
 ---
 gre_id: "b0bff5a21c"
 aliases: [/id/b0bff5a21c]
+type: "garden"
 title: "House of the Mosaic of Hedykoitos"
 date: 2020-11-08T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]
