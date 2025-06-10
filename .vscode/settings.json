@@ -1,5 +1,5 @@
 {
 	"editor.detectIndentation": true,
 	"editor.tabSize": 4,
-	"editor.quickSuggestionsDelay": 1000
+	"editor.quickSuggestionsDelay": 10000
 }

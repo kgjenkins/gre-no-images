@@ -1,18 +1,22 @@
+<!-- 
+For a given location (province or sublocation),
+list any sublocations, and
+list any gardens within the location
+-->
+
 {{- define "main" -}}
-<!-- Display list of gardens under the current location -->
 <main class="main list" role="main">
 	{{- partial "breadcrumbs.html" . -}}
-
-	<!-- List sublocations -->
 	{{- partial "sublocations.html" . -}}
+	{{- $thisplace := partial "this-place" .Path -}}
 
-	<!-- Province article -->
-	{{- if .Content -}}
-		<div class='province'>
-			<h1 class="post__title">{{ .Title }}</h1>
+	<div class='province'>
+		<h1 class="post__title">{{ default $thisplace .Title }}</h1>
+		<!-- province/subprovince article? -->
+		{{- if .Content -}}
 			{{ .Content }}
-		</div>
-	{{- end -}}
+		{{- end -}}
+	</div>
 
 	{{- if .Pages -}}
 		<!-- List all gardens under this location -->
@@ -24,14 +28,9 @@
 		{{- end -}}
 		{{- $count := len $pages -}}
 		
-		<!-- get the current place name -->
-		{{- $thisplace := "" -}}
-		{{- $thisplace = delimit (last 1 (split (.Path) "/") ) "" -}}
-		{{- $thisplace = replaceRE "_" " " $thisplace | title -}}
-		
 		<div class='count'>
 			{{ $count }} garden
-			{{ if ne $count 1 }} entries {{ else }} entry{{ end }}
+			{{ if ne $count 1 }} articles {{ else }} entry{{ end }}
 			{{- if ne $thisplace "Province" }}
 				in {{ partial "romancase" $thisplace }}
 			{{ end -}}

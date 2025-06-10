@@ -122,7 +122,7 @@
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
-- [ ] generate new "gre_id" and "alias" values
+- [ ] generate new "gre_id" and "alias" values for province pages
 
 # Images
 - [x] rename 37 JPG files to jpg
@@ -160,3 +160,4 @@ Users with forks that have no updates:
 - XueXia329 (Xue Xia, Cornell alum)
 - yifanli7 (Yifan Li, Cornell alum)
 - yK755 (Yaniv Korman, Cornell alum)
+

@@ -1,44 +1,48 @@
 {{- $path := .Path -}}
 
-<!-- iterate through all published pages in this province
-            to find unique subdirectories
--->
-{{- $dirs := slice -}}
-{{- range .RegularPagesRecursive -}}
-    {{- $d := strings.TrimPrefix (print $path "/") ( path.Dir .Path) -}}
-    <!-- only keep first level subdirectories -->
-    {{- $d = replaceRE "/.*" "" $d -}}
-    <!-- force roman rumerals to sort better (e.g. IX comes after VIII)-->
-    {{- $d = replaceRE "([ivx]*x[ivx]*)" "xxx$1" $d -}}
-    <!-- don't keep articles in the current directory -->
-    {{- if and (not (in $dirs $d)) (not (eq $path $d)) -}}
-        {{- if ne $d "province" -}}
-            {{- $dirs = $dirs | append $d -}}
+<!-- get the current place name -->
+{{- $thisplace := partial "this-place" .Path -}}
+
+<!-- get list of sublocations -->
+{{- $sublocs := slice -}}
+{{- range where site.Pages "Kind" "section" -}}
+    {{- if and (hasPrefix .Path (add $path "/")) (ne .Path $path) -}}
+        {{- $str := strings.TrimPrefix "/" (strings.TrimPrefix $path .Path) -}}
+        {{- if not (strings.Contains $str "/") -}}
+            <!-- force roman rumerals 1-39 to sort better (e.g. IX comes after VIII)-->
+            {{- $sortable := replaceRE "([ivx]*x[ivx]*)" "zzz$1" .Path -}}
+            {{- $sublocs = $sublocs | append $sortable -}}
         {{- end -}}
     {{- end -}}
 {{- end -}}
 
-<!-- get the current place name -->
-{{- $thisplace := "" -}}
-{{- $thisplace = delimit (last 1 (split (.Path) "/") ) "" -}}
-{{- $thisplace = replaceRE "_" " " $thisplace | title -}}
-
-<!-- List sublocations, if any -->
-{{- if index $dirs 0 -}}
+<!-- List any sublocations that have articles -->
+{{- if gt ($sublocs | len) 0 }}
     <div class='sublocations'>
-        {{- if eq $thisplace "Province" }}
-            Provinces:
-        {{- else }}
-            Sublocations of {{ partial "romancase" $thisplace }}:
-        {{ end -}}
+        <h2>
+            {{- if eq $thisplace "Province" -}}
+                Provinces:
+            {{- else -}}
+                Sublocations of {{ $thisplace }}:
+            {{- end -}}
+        </h2>
         <ul>
-            {{ range $i, $v := sort $dirs -}}
-                {{- with strings.TrimPrefix $path . -}}
-                    <!-- repair roman numerals containing x -->
-                    {{- $link := replaceRE "xxx" "" . -}}
-                    <li><a href="{{- $link | lower -}}/">{{- partial "romancase" $link -}}</a></li>
-                {{ end -}}
+            {{- range sort $sublocs -}}
+                <!-- repair roman numerals containing 'x' -->
+                {{- $loc := replaceRE "zzz" "" . -}}
+                {{- $count := 0 -}}
+                {{- range site.RegularPages -}}
+                    <!-- we add slash at end to distinguish VI, VII, VIII, etc. -->
+                    {{- if hasPrefix .Path (add $loc "/") -}}
+                        {{- $count = add $count 1 -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- if ne $count 0 -}}
+                    {{- $link := add (lower $loc) "/" -}}
+                    {{- $label := partial "romancase" (strings.TrimPrefix (add $path "/") $loc) }}
+                    <li><a href="{{ $link }}">{{ $label }}</a> ({{$count}})</li>
+                {{- end -}}
             {{- end }}
         </ul>
     </div>
-{{ end -}}
+{{ end }}

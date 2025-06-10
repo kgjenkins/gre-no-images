@@ -171,11 +171,14 @@ nav.breadcrumbs a {
   margin: 0 0 1em 1em;
   background: #eee;
   border:1px solid #000;
-  font-weight: bold;
 }
 
 .sublocations ul {
   margin: 0 0 0 2em;
+}
+
+.sublocations a {
+  font-weight: bold;
 }
 
 .province {
@@ -288,4 +291,40 @@ article.list__item em {
 
 .clearfix::after {
   clear: none;
+}
+
+
+h1::after {
+  content: 'h1';
+  position: relative;
+  margin-left: 0.5em;
+  color: #f80;
+}
+
+h2::after {
+  content: 'h2';
+  position: relative;
+  margin-left: 0.5em;
+  color: #f80;
+}
+
+h3::after {
+  content: 'h3';
+  position: relative;
+  margin-left: 0.5em;
+  color: #f80;
+}
+
+h4::after {
+  content: 'h4';
+  position: relative;
+  margin-left: 0.5em;
+  color: #f80;
+}
+
+h5::after {
+  content: 'h5';
+  position: relative;
+  margin-left: 0.5em;
+  color: #f80;
 }
