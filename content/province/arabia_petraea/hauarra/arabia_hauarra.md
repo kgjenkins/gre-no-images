@@ -6,7 +6,7 @@ title: "Shrine Complex in Insula E125"
 date: 2020-10-08T10:30:00-04:00
 latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
-editor: Jane Millar and Leigh-Ann Bedal
+editor: Jane Millar, Leigh-Ann Bedal
 draft: false
 
 categories:

@@ -6,7 +6,7 @@ title: "Petra Garden and Pool Complex"
 date: 2020-10-08T10:30:00-04:00
 latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
-editor: Jane Miller and Leigh-Ann Bedal
+editor: Jane Miller, Leigh-Ann Bedal
 draft: false
 
 categories:

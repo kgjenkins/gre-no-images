@@ -5,8 +5,8 @@ type: "garden"
 title: "Thermae Agrippae"
 date: 2021-03-31T10:58:08-07:00
 latlon: [ 41.896879, 12.476831 ]
-author: E.R. Macaulay and Beth Ryan
-editor: Joshua Rosenheim and Rhiannon Paré
+author: E.R. Macaulay, Beth Ryan
+editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "thermae"

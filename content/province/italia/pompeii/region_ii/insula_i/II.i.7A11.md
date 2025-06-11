@@ -5,7 +5,7 @@ type: "garden"
 title: "II.i.7A/11"
 date: 2021-02-21T12:22:56Z
 latlon: [ 40.750870, 14.493866 ]
-author: Wilhelmina Jashemski and Jessica Venner
+author: Wilhelmina Jashemski, Jessica Venner
 editor: Jessica Venner
 draft: false
 
