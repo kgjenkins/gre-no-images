@@ -5,9 +5,10 @@ aliases: [/id/{{ $id }}]
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 latlon: [ 0, 0 ]
-author: NAME_OF_AUTHOR
-editor: NAME_OF_EDITOR
+author: AUTHOR ONE, AUTHOR TWO
+editor: EDITOR ONE, EDITOR TWO, EDITOR THREE
 draft: true
+modified: {{ .Date }}
 ---
 
 # Province

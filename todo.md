@@ -160,3 +160,45 @@ Users with forks that have no updates:
 - yifanli7 (Yifan Li, Cornell alum)
 - yK755 (Yaniv Korman, Cornell alum)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# UPDATES 2025-06-11
+
+- 
+- refactored layouts
+- breadcrumb style
+- search snippets, highlighting
+- sublocations box on right
+    - displays whenever there are sublocations
+    - shows number of gardens per sublocation
+- province pages (Achaea and Delos only)
+    - terminology: "province" or "location"?
+- metadata section on garden pages
+    - authors, editors, could add date
+    - linked IDs
+- people pages
+    - separate page for each person -- can be as detailed as we want
+    - linked from main "people" page
+    - linked from article metadata
+
+QUESTIONS:
+- dates (created vs updated, display in metadata or not?  values need to be updated!)
+- what info in
