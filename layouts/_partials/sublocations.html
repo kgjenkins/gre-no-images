@@ -38,7 +38,7 @@
                     {{- end -}}
                 {{- end -}}
                 {{- if ne $count 0 -}}
-                    {{- $link := add (lower $loc) "/" -}}
+                    {{- $link := add (lower (strings.TrimPrefix (add $path "/") $loc)) "/" -}}
                     {{- $label := partial "romancase.html" (strings.TrimPrefix (add $path "/") $loc) }}
                     <li><a href="{{ $link }}">{{ $label }}</a> <span class="count">({{$count}} gardens)</span></li>
                 {{- end -}}
