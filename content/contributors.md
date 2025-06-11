@@ -1,7 +1,7 @@
 ---
 title: "People"
 date: 2021-04-20T13:49:40-04:00
-author: David Ratzan
+author: David Ratzan, Divya Kumar-Dumas
 draft: false
 ---
 The Gardens of the Roman Empire Project has engaged a wonderful community of scholars, archaeologists, and students over the years.  We have a group of **editors**, who are coordinating the project, a **digital humanities team** that is shaping this website and bringing the data to life, **area editorial teams** for the provinces and major cities, who are seeking out new gardens and reviewing entries; and our contributing **authors**.
