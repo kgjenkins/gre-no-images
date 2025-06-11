@@ -1,7 +1,7 @@
 ---
 gre_id: "420d0f0968"
 aliases: [/id/420d0f0968]
-type: "province"
+type: province
 title: "Germania Superior"
 date: 2020-07-12T15:52:12-04:00
 latlon: [ 49.214670, 8.015747 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "098e103ad4"
 aliases: [/id/098e103ad4]
-type: "garden"
+type: garden
 title: "House C, Piazza della Vittoria"
 date: 2020-10-01T11:30:00-05:00
 latlon: [ 38.11127, 13.353442 ]

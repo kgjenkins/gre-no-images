@@ -125,7 +125,7 @@
 # Province pages
 - [ ] review which sections should be retained in province pages (and also for gardens...)
 - [ ] move content from garden entries to the province _index.md
-- [ ] generate new "gre_id" and "alias" values for province pages
+- [ ] generate new "gre_id" and "alias" values for new province pages
 
 # Images
 - [x] rename 37 JPG files to jpg
@@ -138,13 +138,7 @@
 
 # User forks
 
-Forks: https://github.com/roman-gardens/gre/forks?include=active&period=
-
-Users with forks of the new main repo:
-- dkdumas (Divya Kumar-Dumas, ISAW)
-- kgjenkins (Keith Jenkins, Cornell)
-
-User forks that have updates, as of 2025-03-26:
+User forks of the old GRE repo that have updates, as of 2025-03-26:
 - [ ] [amartyashri](https://github.com/roman-gardens/gre/compare/main...amartyashri:gre:master) (Amartya Shri) - 28 files, Pleaides links, removed empty sections
 - [ ] [crc034](https://github.com/roman-gardens/gre/compare/main...crc034:gre:master) (Clarie Campbell, Univ. Arkansas) - 4 files: draft=false, ignore /docs files
 - [ ] [jemillar](https://github.com/roman-gardens/gre/compare/main...jemillar:gre:master) (Jane Millar, UT Austin) - 36 files: links, tags, etc.

@@ -1,7 +1,7 @@
 ---
 gre_id: "b358c1f3d6"
 aliases: [/id/b358c1f3d6]
-type: "garden"
+type: garden
 title: "Sanctuary of Zeus Philios"
 date: 2020-07-26T12:30:28-04:00
 latlon: [ 37.413033, 22.127645 ]

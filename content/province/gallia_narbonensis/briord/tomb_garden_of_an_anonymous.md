@@ -1,7 +1,7 @@
 ---
 gre_id: "6ed849dd03"
 aliases: [/id/6ed849dd03]
-type: "garden"
+type: garden
 title: "Tomb garden of an anonymous"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]

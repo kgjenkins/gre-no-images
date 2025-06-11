@@ -1,7 +1,7 @@
 ---
 gre_id: "c2d36cf1df"
 aliases: [/id/c2d36cf1df]
-type: "garden"
+type: garden
 title: "I.2.10 House of L. Vousius Faustus and M. Volusius Faustus"
 date: 2021-02-21T14:06:03Z
 latlon: [ 40.750870, 14.493866 ]

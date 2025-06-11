@@ -1,7 +1,7 @@
 ---
 gre_id: "fbdca9a4f2"
 aliases: [/id/fbdca9a4f2]
-type: "garden"
+type: garden
 title: "21, rue Séguier, An Agricultural Establishment"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

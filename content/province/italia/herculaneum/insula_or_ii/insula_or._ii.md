@@ -1,7 +1,7 @@
 ---
 gre_id: "f1a0523454"
 aliases: [/id/f1a0523454]
-type: "garden"
+type: garden
 title: "Insula or. II"
 date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

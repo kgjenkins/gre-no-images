@@ -1,7 +1,7 @@
 ---
 gre_id: "43d2397bce"
 aliases: [/id/43d2397bce]
-type: "garden"
+type: garden
 title: "Theater (Theâtre)"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]

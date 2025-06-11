@@ -1,16 +1,13 @@
 ---
 gre_id: "9e4fc7e761"
 aliases: [/id/9e4fc7e761]
-type: "garden"
-title: Puissalicon, villa de la Condoumine"
+type: garden
+title: "Puissalicon, villa de la Condoumine"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
 author: AUTHOR_ID
 editor: Yichen Liu
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
 ### Province

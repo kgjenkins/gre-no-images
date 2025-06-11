@@ -1,7 +1,7 @@
 ---
 gre_id: "18a75adaf8"
 aliases: [/id/18a75adaf8]
-type: "garden"
+type: garden
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00
 latlon: [ 41.891775, 12.486137 ]

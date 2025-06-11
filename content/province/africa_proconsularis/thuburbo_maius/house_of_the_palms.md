@@ -1,7 +1,7 @@
 ---
 gre_id: "52804dc314"
 aliases: [/id/52804dc314]
-type: "garden"
+type: garden
 title: "House of the Palms (Maison des Palmes)"
 date:
 latlon: [ 36.400355, 9.903990 ]

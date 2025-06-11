@@ -1,7 +1,7 @@
 ---
 gre_id: "9970d12455"
 aliases: [/id/9970d12455]
-type: "garden"
+type: garden
 title: "Gardens of the Temple of Elagabalus"
 date: 2021-02-19T16:52:54+01:00
 latlon: [ 41.889306, 12.487109 ]

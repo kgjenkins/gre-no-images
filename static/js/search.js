@@ -17,12 +17,16 @@ function displayResults (qterms, results, store) {
       resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a>' +
        (item.draft? ' (DRAFT)' : '') + '</h3>'
 
+      // normalize diacritics for better snippet matching
+      let content = item.content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+
       // find text around first instance of first query term
-      let q1 = qterms[0]
-      let re = new RegExp(`^.*?(.{1,140})(${q1})(.{1,140}).*?$`, 'is')
+      let q1 = qterms[0].normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      let re = new RegExp(`^.*?(.{0,140})(${q1})(.{0,140}).*?$`, 'is')
       // extract and highlight first term
-      let snippet = item.content.replace(re, '$1<em>$2</em>$3')
+      let snippet = content.replace(re, '$1<em>$2</em>$3')
       // highlight any other terms found within the snippet
+      console.log(qterms)
       if (qterms.length > 1) {
         for (let i = 1 ; i < qterms.length; i++) {
           let qi = qterms[i]
@@ -63,14 +67,13 @@ if (q) {
       this.add({
         id: key,
         title: window.store[key].title,
-        //tags: window.store[key].category,
         content: window.store[key].content
       })
     }
   })
 
   // Only return results that contain ALL query terms
-  let qterms = q.replace(/\W+/g, ' ').trim().split(' ')
+  let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
   let qall = '+' + qterms.join(' +')
 
   try {

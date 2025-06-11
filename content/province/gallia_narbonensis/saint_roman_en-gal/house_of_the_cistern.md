@@ -1,7 +1,7 @@
 ---
 gre_id: "7e77e960b0"
 aliases: [/id/7e77e960b0]
-type: "garden"
+type: garden
 title: "House of the Cistern"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

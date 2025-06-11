@@ -1,7 +1,7 @@
 ---
 gre_id: "29a912e203"
 aliases: [/id/29a912e203]
-type: "garden"
+type: garden
 title: "I.viii.10 B"
 date: 2020-08-09T10:35:46-04:00
 latlon: [ 40.74941, 14.485429 ]

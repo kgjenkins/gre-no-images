@@ -1,7 +1,7 @@
 ---
 gre_id: "b48e71074e"
 aliases: [/id/b48e71074e]
-type: "garden"
+type: garden
 title: "House of M. Lucretius Fronto (V.iv.a/11)"
 date: 2020-09-29T12:07:01-04:00
 latlon: [ 40.74941, 14.485429 ]

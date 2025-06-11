@@ -1,7 +1,7 @@
 ---
 gre_id: "3b8bd0aa5b"
 aliases: [/id/3b8bd0aa5b]
-type: "garden"
+type: garden
 title: "Kitchen and Commercial Gardens"
 date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.392022, 25.270238 ]

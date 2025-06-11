@@ -1,3 +1,3 @@
 ---
-title: Search results
+title: "Search results"
 ---

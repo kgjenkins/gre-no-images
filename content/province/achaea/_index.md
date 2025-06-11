@@ -1,7 +1,7 @@
 ---
 gre_id: "8abb33d60a"
 aliases: [/id/8abb33d60a]
-type: "province"
+type: province
 title: "Achaea"
 date: 2020-07-20T13:58:53-04:00
 latlon: [ 38.102121, 22.224585 ]

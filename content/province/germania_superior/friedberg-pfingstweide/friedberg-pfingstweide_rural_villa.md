@@ -1,7 +1,7 @@
 ---
 gre_id: "5de1c69bbd"
 aliases: [/id/5de1c69bbd]
-type: "garden"
+type: garden
 title: "Rural Villa in Friedberg Pfingstweide"
 date: 2020-07-15T18:12:31-04:00
 latlon: [ 49.214670, 8.015747 ]

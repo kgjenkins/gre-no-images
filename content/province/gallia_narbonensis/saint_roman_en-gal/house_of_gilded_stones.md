@@ -1,7 +1,7 @@
 ---
 gre_id: "14f5da05a7"
 aliases: [/id/14f5da05a7]
-type: "garden"
+type: garden
 title: "House of Gilded Stones"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

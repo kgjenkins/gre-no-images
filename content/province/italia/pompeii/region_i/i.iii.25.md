@@ -1,7 +1,7 @@
 ---
 gre_id: "ccbf25d8b9"
 aliases: [/id/ccbf25d8b9]
-type: "garden"
+type: garden
 title: "I.3.25"
 date: 2021-03-19T09:12:36Z
 latlon: [ 40.750870, 14.493866 ]

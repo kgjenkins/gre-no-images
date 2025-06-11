@@ -1,7 +1,7 @@
 ---
 gre_id: "0708bf7b00"
 aliases: [/id/0708bf7b00]
-type: "garden"
+type: garden
 title: "La Olmeda  "
 date: 2020-11-02
 latlon: [ 42.482035, -4.736989 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "f4f68e533a"
 aliases: [/id/f4f68e533a]
-type: "garden"
+type: garden
 title: "House of Castorius, Central District (Maison du Castorius, Quartier central)"
 date: 2020-12-20T10:00:00-04:00
 latlon: [ 36.317690, 5.736683 ]

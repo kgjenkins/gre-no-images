@@ -1,7 +1,7 @@
 ---
 gre_id: "f1728557d2"
 aliases: [/id/f1728557d2]
-type: "garden"
+type: garden
 title: "House of the Nymphs (Maison des Nymphes)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.440688, 10.719419 ]

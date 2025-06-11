@@ -1,7 +1,7 @@
 ---
 gre_id: "cf9b8b7e86"
 aliases: [/id/cf9b8b7e86]
-type: "garden"
+type: garden
 title: "House of Dionysos"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.858276, 10.331915 ]

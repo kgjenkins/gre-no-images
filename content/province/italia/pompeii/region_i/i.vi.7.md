@@ -1,7 +1,7 @@
 ---
 gre_id: "217200fd4f"
 aliases: [/id/217200fd4f]
-type: "garden"
+type: garden
 title: "I.6.7 Fullonica of Stephanus"
 date: 2021-04-02T09:35:43+01:00
 latlon: [ 40.74941, 14.485429 ]

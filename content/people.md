@@ -9,7 +9,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 - *Italics* original editors
 - \*  Deceased  
-- Corresponding editors are noted in **bold**.
+- Corresponding editors are noted in **bold**.  †
 
 ## Editors
 - *[Wilhelmina Jashemski](wilhelmina-jashemski)*\* , University of Maryland
@@ -332,7 +332,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 - Stephen Sidebottom
 - Holly Spoth-Torres
 - Maria Anntonietta Tomei
-- Monika Truemper
+- Monika Trümper
 - D. Vaquerizo
 - Françoise Villedieu
 - Győző Vörös

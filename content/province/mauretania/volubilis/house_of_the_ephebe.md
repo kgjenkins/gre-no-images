@@ -1,7 +1,7 @@
 ---
 gre_id: "d810c81400"
 aliases: [/id/d810c81400]
-type: "garden"
+type: garden
 title: "House of the Ephebe (Maison de l'Ephebe)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

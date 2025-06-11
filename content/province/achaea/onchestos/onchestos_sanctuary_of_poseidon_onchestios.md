@@ -1,7 +1,7 @@
 ---
 gre_id: "a6e56210af"
 aliases: [/id/a6e56210af]
-type: "garden"
+type: garden
 title: "Sanctuary of Poseidon Onchestios"
 date: 2020-07-26T12:40:59-04:00
 latlon: [ 38.373269, 23.150267 ]

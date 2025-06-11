@@ -1,7 +1,7 @@
 ---
 gre_id: "88a590cc40"
 aliases: [/id/88a590cc40]
-type: "garden"
+type: garden
 title: "Peristyle Market (Marché)"
 date:
 latlon: [ 36.40112, 9.904448 ]

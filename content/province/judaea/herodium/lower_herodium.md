@@ -1,7 +1,7 @@
 ---
 gre_id: "0af81a130f"
 aliases: [/id/0af81a130f]
-type: "garden"
+type: garden
 title: "Herodium Lower Garden Complex"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]

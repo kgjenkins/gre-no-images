@@ -1,7 +1,7 @@
 ---
 gre_id: "cbe7467d9b"
 aliases: [/id/cbe7467d9b]
-type: "garden"
+type: garden
 title: "V.iv.a/11"
 date: 2020-09-29T12:07:01-04:00
 latlon: [ 40.74941, 14.485429 ]

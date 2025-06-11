@@ -1,7 +1,7 @@
 ---
 gre_id: "66b90ed631"
 aliases: [/id/66b90ed631]
-type: "garden"
+type: garden
 title: "House with the Five Mosaics"
 date: 2020-10-05T23:06:02-24:00
 latlon: [ 42.439512, 3.176623 ]

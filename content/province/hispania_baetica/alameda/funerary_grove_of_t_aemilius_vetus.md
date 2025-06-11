@@ -1,7 +1,7 @@
 ---
 gre_id: "5f7b056781"
 aliases: [/id/5f7b056781]
-type: "garden"
+type: garden
 title: "Funerary Grove of T. Aemilius Vetus"
 date: 2020-10-03T21:00:00-04:00
 latlon: [ 0, 0 ]

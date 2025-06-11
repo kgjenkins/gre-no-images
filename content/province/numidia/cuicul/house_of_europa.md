@@ -1,7 +1,7 @@
 ---
 gre_id: "989124b02a"
 aliases: [/id/989124b02a]
-type: "garden"
+type: garden
 title: "House of Europa, Central District (Maison d'Europe, Quartier Central)"
 date: 2020-12-20T10:00:00-04:00
 latlon: [ 36.317690, 5.736683 ]

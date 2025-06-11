@@ -1,6 +1,6 @@
 ---
-title: Jane Millar
-draft: true
+title: "Jane Millar"
+draft: false
 ---
 
 University of Texas, Austin

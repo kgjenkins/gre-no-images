@@ -1,7 +1,7 @@
 ---
 gre_id: "2c185e541c"
 aliases: [/id/2c185e541c]
-type: "garden"
+type: garden
 title: "Tower Enclosure, Insula III, House IIIA – 3 phases"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

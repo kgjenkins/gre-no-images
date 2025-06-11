@@ -1,7 +1,7 @@
 ---
 gre_id: "64d2b66cf2"
 aliases: [/id/64d2b66cf2]
-type: "garden"
+type: garden
 title: "Villa at Durrueli di Realmonte"
 date: 2020-10-01T11:30:00-05:00
 latlon: [ 0, 0 ]

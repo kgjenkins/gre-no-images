@@ -1,7 +1,7 @@
 ---
 gre_id: "2749debd19"
 aliases: [/id/2749debd19]
-type: "province"
+type: province
 title: "Britannia"
 date: 2020-07-07T12:53:41-04:00
 latlon: [ 52.5, -2.5 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "6e996a0bd3"
 aliases: [/id/6e996a0bd3]
-type: "garden"
+type: garden
 title: "The Belvedere of the Venus of Cnidus (Fig. 1, n. 11)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.944649, 12.774798 ]

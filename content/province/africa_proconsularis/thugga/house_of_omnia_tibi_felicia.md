@@ -1,7 +1,7 @@
 ---
 gre_id: "0e18b5c4ee"
 aliases: [/id/0e18b5c4ee]
-type: "garden"
+type: garden
 title: "House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]

@@ -1,14 +1,17 @@
 ---
-gre_id: ac3df48e02
+gre_id: "ac3df48e02"
 aliases: [/id/ac3df48e02]
 type: garden
-title: Temple Grove
+title: "Temple Grove"
 date: 2020-07-16T09:45:49-04:00
 latlon: [ 37.739227, 23.518981 ]
 author: Maureen Carroll
 editor: Jane Millar, Amartya Shri
 draft: false
 ---
+
+## Province
+[Achaea]({{<relref "..">}})
 
 ## Garden
 

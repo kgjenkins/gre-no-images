@@ -1,7 +1,7 @@
 ---
 gre_id: "1c2b9ebf6d"
 aliases: [/id/1c2b9ebf6d]
-type: "garden"
+type: garden
 title: "VIII.7.1. Caupona"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

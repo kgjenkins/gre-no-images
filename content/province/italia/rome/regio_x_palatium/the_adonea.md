@@ -1,7 +1,7 @@
 ---
 gre_id: "4a1a7a53e6"
 aliases: [/id/4a1a7a53e6]
-type: "garden"
+type: garden
 title: "The Adonea of the Flavian Palace, Palatine"
 date: 2021-04-04T21:59:57+02:00
 latlon: [ 41.889306, 12.487109 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "3362b96966"
 aliases: [/id/3362b96966]
-type: "garden"
+type: garden
 title: "Machaerus Southern Courtyard"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.870046, 35.443876 ]

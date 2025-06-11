@@ -1,7 +1,7 @@
 ---
 gre_id: "b1672db932"
 aliases: [/id/b1672db932]
-type: "garden"
+type: garden
 title: "Sollertianna Domus"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.289921, 10.704940 ]

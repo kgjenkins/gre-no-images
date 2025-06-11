@@ -1,7 +1,7 @@
 ---
 gre_id: "5cdeb84b3f"
 aliases: [/id/5cdeb84b3f]
-type: "garden"
+type: garden
 title: "House on Via del Tempio Rotondo"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.753312445649286, 12.288591244178454 ]

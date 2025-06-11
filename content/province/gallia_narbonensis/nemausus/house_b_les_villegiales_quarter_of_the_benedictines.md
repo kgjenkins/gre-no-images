@@ -1,7 +1,7 @@
 ---
 gre_id: "aa32fd6c71"
 aliases: [/id/aa32fd6c71]
-type: "garden"
+type: garden
 title: "House B, Les Villégiales, quarter of the Benedictines"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

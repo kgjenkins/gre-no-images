@@ -1,7 +1,7 @@
 ---
 gre_id: "b11bef169b"
 aliases: [/id/b11bef169b]
-type: "garden"
+type: garden
 title: "Le Pinard, House A"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]
