@@ -7,13 +7,16 @@
 	</div>
 {{- end }}
 
-{{- with .Params.author }}
-	{{ $vals := partial "listify.html" . }}
+{{- $page := .Page -}}
+
+{{- with .Params.author -}}
+	{{- $vals := partial "listify.html" . -}}
 	<div>
 		Author{{ if gt (len $vals) 1 }}s{{ end }}:
     	{{ range $i, $v := $vals }}
 			{{- if ne $i 0 -}}, {{ end -}}
-			<a href="/people/{{ urlize $v}}">{{ $v }}</a>
+			{{ $link := $page.RelRef (dict "path" (add "people/" (urlize $v))) }}
+			<a href="{{ $link }}">{{ $v }}</a>
 		{{ end }}
 	</div>
 {{- end }}
