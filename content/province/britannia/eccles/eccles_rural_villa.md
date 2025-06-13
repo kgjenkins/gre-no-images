@@ -1,7 +1,7 @@
 ---
 gre_id: "a4cf8fcabe"
 aliases: [/id/a4cf8fcabe]
-type: "garden"
+type: garden
 title: "Rural Villa in Eccles"
 date: 2020-07-08T17:53:24-04:00
 latlon: [ 51.318926, 0.479999 ]

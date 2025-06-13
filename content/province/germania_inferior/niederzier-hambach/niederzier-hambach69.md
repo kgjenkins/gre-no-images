@@ -1,7 +1,7 @@
 ---
 gre_id: "dfee38324f"
 aliases: [/id/dfee38324f]
-type: "garden"
+type: garden
 title: "Niederzier Hambach 69"
 date: 2020-07-12T10:55:45-07:00
 latlon: [ 50.897592, 6.445 ]

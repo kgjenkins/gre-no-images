@@ -1,7 +1,7 @@
 ---
 gre_id: "b72e648637"
 aliases: [/id/b72e648637]
-type: "garden"
+type: garden
 title: "The villa of Saint Martin"
 date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]

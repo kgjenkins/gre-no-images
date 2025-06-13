@@ -18,12 +18,13 @@ function smallcrumbs(dir) {
 
 // build the search index from each garden page
 window.store = {
-{{- range $ri, $rv := where .Site.Pages "Section" "province" -}}
+{{- range $ri, $rv := where .Site.Pages "Type" "garden" -}}
 	{{ if .Title }}
+	{{ $content := print .Plain " Author: " .Params.Author " Editor: " .Params.Editor " " }}
 "{{ $ri }}": {
 	"title": "{{ .Title }}",
 	"smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
-	"content": {{ .Plain }},
+	"content": {{ $content }},
 	"url": "{{ print .Site.BaseURL "id/" .Params.gre_id "/" }}",
 	"draft": {{ if .Draft }}true{{ else }}false{{ end }}
 },

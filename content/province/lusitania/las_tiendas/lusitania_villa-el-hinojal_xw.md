@@ -1,7 +1,7 @@
 ---
 gre_id: "40f9550565"
 aliases: [/id/40f9550565]
-type: "garden"
+type: garden
 title: "Villa de Hinojal"
 date: 2020-11-02
 latlon: [ 0, 0 ]

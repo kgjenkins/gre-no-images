@@ -1,7 +1,7 @@
 ---
 gre_id: "af71a50afa"
 aliases: [/id/af71a50afa]
-type: "garden"
+type: garden
 title: "Tomb Garden of C. Nonius Minyas"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]

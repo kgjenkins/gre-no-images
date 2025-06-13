@@ -1,7 +1,7 @@
 ---
 gre_id: "ce27b94b83"
 aliases: [/id/ce27b94b83]
-type: "garden"
+type: garden
 title: "Herodium Herod’s Tomb Garden"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]

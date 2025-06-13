@@ -1,7 +1,7 @@
 ---
 gre_id: "aa75859597"
 aliases: [/id/aa75859597]
-type: "garden"
+type: garden
 title: "Temple of Diana"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "4b7f618619"
 aliases: [/id/4b7f618619]
-type: "garden"
+type: garden
 title: "I.2.20 Caupona of Innulus"
 date: 2021-03-14T17:00:49Z
 latlon: [ 40.750870, 14.493866 ]

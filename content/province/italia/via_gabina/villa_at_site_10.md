@@ -1,7 +1,7 @@
 ---
 gre_id: "4e09dabd43"
 aliases: [/id/4e09dabd43]
-type: "garden"
+type: garden
 title: "Villa at site 10"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.890683, 12.632573 ]

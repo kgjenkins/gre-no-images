@@ -1,7 +1,7 @@
 ---
 gre_id: "efd6c707c3"
 aliases: [/id/efd6c707c3]
-type: "garden"
+type: garden
 title: "House I,  Quartier de la Verrerie at Trinquetaille"
 date: 2020-10-04T22:55:02-00:00
 latlon: [ 43.677616, 4.630799 ]

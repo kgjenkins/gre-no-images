@@ -1,7 +1,7 @@
 ---
 gre_id: "fc5b8ea073"
 aliases: [/id/fc5b8ea073]
-type: "garden"
+type: garden
 title: "Rural Villa in Chedworth"
 date: 2020-07-08T08:19:06-04:00
 latlon: [ 51.819999, -1.924458 ]

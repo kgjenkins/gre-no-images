@@ -1,7 +1,7 @@
 ---
 gre_id: "64430de73d"
 aliases: [/id/64430de73d]
-type: "garden"
+type: garden
 title: "House of the Labors of Hercules (La maison des travaux d'Hercules)"
 date: 2020-10-01T10:00:00-04:00
 latlon: [ 0, 0 ]

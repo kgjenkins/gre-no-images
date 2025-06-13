@@ -1,7 +1,7 @@
 ---
 gre_id: "e94db794a9"
 aliases: [/id/e94db794a9]
-type: "garden"
+type: garden
 title: "VIII.6.4-5. Market Garden"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

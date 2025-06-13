@@ -1,7 +1,7 @@
 ---
 gre_id: "fe162e4efd"
 aliases: [/id/fe162e4efd]
-type: "garden"
+type: garden
 title: "House of Successus (I.ix.3)"
 date: 2020-08-09T17:59:16-04:00
 latlon: [ 40.74941, 14.485429 ]

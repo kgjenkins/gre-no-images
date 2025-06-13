@@ -1,12 +1,12 @@
 ---
 gre_id: "864b23466d"
 aliases: [/id/864b23466d]
-type: "garden"
+type: garden
 title: "Divorum"
 date: 2021-03-31T10:00:00-07:00
 latlon: [ 41.894698, 12.478022 ]
-author: Valerie Aymer and Kathryn Gleason
-editor: Joshua Rosenheim and Rhiannon Paré
+author: Valerie Aymer, Kathryn Gleason
+editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "altars (religious fixtures)"

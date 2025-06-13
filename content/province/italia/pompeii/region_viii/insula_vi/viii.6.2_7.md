@@ -1,7 +1,7 @@
 ---
 gre_id: "d1863ce1ab"
 aliases: [/id/d1863ce1ab]
-type: "garden"
+type: garden
 title: "VIII.6.2/7. (no. 12 at Pompeii)"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

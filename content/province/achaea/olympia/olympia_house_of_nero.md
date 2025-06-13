@@ -1,7 +1,7 @@
 ---
 gre_id: "c6200cef9d"
 aliases: [/id/c6200cef9d]
-type: "garden"
+type: garden
 title: "House of Nero"
 date: 2020-07-27T08:53:14-04:00
 latlon: [ 37.637820, 21.631715 ]

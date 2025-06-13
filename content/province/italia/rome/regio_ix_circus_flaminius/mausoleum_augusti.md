@@ -1,12 +1,12 @@
 ---
 gre_id: "ac531a92fb"
 aliases: [/id/ac531a92fb]
-type: "garden"
+type: garden
 title: "Mausoleum Augusti"
 date: 2021-04-05T15:00:00-07:00
 latlon: [ 41.906030, 12.476423 ]
 author: E.R. Macaulay
-editor: Joshua Rosenheim and Rhiannon Paré
+editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "altars (religious fixtures)"

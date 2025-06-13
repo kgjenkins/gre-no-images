@@ -1,7 +1,7 @@
 ---
 gre_id: "e1cc46f46d"
 aliases: [/id/e1cc46f46d]
-type: "garden"
+type: garden
 title: "The so-called \"Baths\" of Rielves"
 date: 2020-11-02
 latlon: [ 39.960815, -4.192941 ]

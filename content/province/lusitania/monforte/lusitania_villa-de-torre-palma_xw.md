@@ -1,7 +1,7 @@
 ---
 gre_id: "21b8a4b56c"
 aliases: [/id/21b8a4b56c]
-type: "garden"
+type: garden
 title: "Villa de Torre de Palma"
 date: 2020-11-02
 latlon: [ 39.062264, -7.488473 ]

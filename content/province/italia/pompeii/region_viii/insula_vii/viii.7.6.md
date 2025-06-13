@@ -1,7 +1,7 @@
 ---
 gre_id: "088601b402"
 aliases: [/id/088601b402]
-type: "garden"
+type: garden
 title: "VIII.7.6."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

@@ -1,7 +1,7 @@
 ---
 gre_id: "e1ec386f49"
 aliases: [/id/e1ec386f49]
-type: "garden"
+type: garden
 title: "Urban House on Lungenstrasse"
 date: 2020-07-12T10:53:55-07:00
 latlon: [ 50.940671, 6.959908 ]

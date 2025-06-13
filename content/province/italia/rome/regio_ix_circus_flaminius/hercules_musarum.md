@@ -1,12 +1,12 @@
 ---
 gre_id: "007c015ec1"
 aliases: [/id/007c015ec1]
-type: "garden"
+type: garden
 title: "Hercules Musarum"
 date: 2021-04-04T10:00:00-07:00
 latlon: [ 41.891775, 12.486137 ]
-author: E.R. Macaulay and Linda Anderson
-editor: Joshua Rosenheim and Rhiannon Paré
+author: E.R. Macaulay, Linda Anderson
+editor: Joshua Rosenheim, Rhiannon Paré
 draft: false
 tags:
  - "temples (buildings)"

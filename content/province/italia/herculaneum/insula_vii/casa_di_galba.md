@@ -1,7 +1,7 @@
 ---
 gre_id: "49d8a94d53"
 aliases: [/id/49d8a94d53]
-type: "garden"
+type: garden
 title: "Casa di Galba (VII.2)"
 date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

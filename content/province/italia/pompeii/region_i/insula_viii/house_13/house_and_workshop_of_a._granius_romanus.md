@@ -1,7 +1,7 @@
 ---
 gre_id: "151456a175"
 aliases: [/id/151456a175]
-type: "garden"
+type: garden
 title: "House and Workshop of A. Granius Romanus (I.viii.13)"
 date: 2020-08-09T10:39:08-04:00
 latlon: [ 40.74941, 14.485429 ]

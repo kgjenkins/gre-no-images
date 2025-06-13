@@ -1,11 +1,11 @@
 ---
 gre_id: "8a6db3fdb1"
 aliases: [/id/8a6db3fdb1]
-type: "garden"
+type: garden
 title: "Domus Tiberiana"
 date: 2021-04-08T02:45:17+02:00
 latlon: [ 41.889306, 12.487109 ]
-author: M.-A. Tomei and E.R. Macaulay
+author: M.-A. Tomei, E.R. Macaulay
 editor: Rhiannon Paré
 draft: false
 ---

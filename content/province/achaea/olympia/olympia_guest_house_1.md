@@ -1,7 +1,7 @@
 ---
 gre_id: "af830a592c"
 aliases: [/id/af830a592c]
-type: "garden"
+type: garden
 title: "Guest House 1"
 date: 2020-07-27T08:54:25-04:00
 latlon: [ 37.637590, 21.628024 ]

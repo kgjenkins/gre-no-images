@@ -1,7 +1,7 @@
 ---
 gre_id: "b50312a60b"
 aliases: [/id/b50312a60b]
-type: "garden"
+type: garden
 title: "Vigna Barberini"
 date: 2021-04-04T21:57:14+02:00
 latlon: [ 41.889306, 12.487109 ]

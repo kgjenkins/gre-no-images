@@ -1,7 +1,7 @@
 ---
 gre_id: "00c8ac8a9c"
 aliases: [/id/00c8ac8a9c]
-type: "garden"
+type: garden
 title: "Pacis"
 date: 2021-06-30T14:08:18+02:00
 latlon: [ 0, 0 ]

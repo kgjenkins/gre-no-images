@@ -1,7 +1,7 @@
 ---
 gre_id: "fd8693dc71"
 aliases: [/id/fd8693dc71]
-type: "garden"
+type: garden
 title: "Sanctuary of Mysian Demeter"
 date: 2020-07-26T12:41:28-04:00
 latlon: [ 38.018398, 23.849020 ]

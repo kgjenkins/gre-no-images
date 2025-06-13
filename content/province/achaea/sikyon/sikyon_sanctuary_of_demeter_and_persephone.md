@@ -1,7 +1,7 @@
 ---
 gre_id: "4427ca763c"
 aliases: [/id/4427ca763c]
-type: "garden"
+type: garden
 title: "Sanctuary of Demeter and Persephone"
 date: 2020-07-26T12:42:23-04:00
 latlon: [ 37.984037, 22.712222 ]

@@ -1,6 +1,6 @@
 ---
 type: people
-title: Amina-Aïcha Malek
+title: "Amina-Aïcha Malek"
 email: aicha.malek@ens.fr
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 gre_id: "545e2e06a2"
 aliases: [/id/545e2e06a2]
-type: "garden"
+type: garden
 title: "Shrine of the Fates"
 date: 2020-07-26T12:42:56-04:00
 latlon: [ 37.919512, 22.623851 ]

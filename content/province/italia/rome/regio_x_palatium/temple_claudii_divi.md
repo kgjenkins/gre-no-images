@@ -1,7 +1,7 @@
 ---
 gre_id: "36b18899b0"
 aliases: [/id/36b18899b0]
-type: "garden"
+type: garden
 title: "Gardens of the Temple of the Divine Claudius"
 date: 2021-02-02T10:57:44-07:00
 latlon: [ 41.886952, 12.495084 ]

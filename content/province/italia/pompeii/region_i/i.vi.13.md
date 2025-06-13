@@ -1,7 +1,7 @@
 ---
 gre_id: "c538942469"
 aliases: [/id/c538942469]
-type: "garden"
+type: garden
 title: "I.6.13 House of Stallus Eros"
 date: 2021-04-02T10:01:33+01:00
 latlon: [ 40.74941, 14.485429 ]

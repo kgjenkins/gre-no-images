@@ -1,11 +1,11 @@
 ---
 gre_id: "5614a0cdf5"
 aliases: [/id/5614a0cdf5]
-type: "garden"
+type: garden
 title: "II.i.7B/8-9"
 date: 2021-02-19T17:25:51Z
 latlon: [ 40.750870, 14.493866 ]
-author: Wilhelmina Jashemski and Jessica Venner
+author: Wilhelmina Jashemski, Jessica Venner
 editor: Jessica Venner
 draft: false
 

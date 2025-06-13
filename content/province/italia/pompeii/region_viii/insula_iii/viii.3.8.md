@@ -1,7 +1,7 @@
 ---
 gre_id: "cc227bb5cc"
 aliases: [/id/cc227bb5cc]
-type: "garden"
+type: garden
 title: "VIII.3.8. House of the Wild Boar I; Casa del Cinghiale I; House of L. Coelius Caldus"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

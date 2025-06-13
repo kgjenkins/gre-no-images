@@ -1,7 +1,7 @@
 ---
 gre_id: "66f25084eb"
 aliases: [/id/66f25084eb]
-type: "garden"
+type: garden
 title: "Villa in the Casale district near Piazza Armerina"
 date: 2020-10-01T11:30:00-05:00
 latlon: [ 0, 0 ]

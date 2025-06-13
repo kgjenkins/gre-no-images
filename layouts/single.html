@@ -8,7 +8,10 @@
 			{{- partial "breadcrumbs.html" . -}}
 
 			<h1 class="post__title">{{ .Title }}</h1>
-			{{- partial "metadata.html" . -}}
+			{{- if eq .Type "garden" -}}
+				<!-- metadata for garden articles -->
+				{{- partial "metadata.html" . -}}
+			{{- end -}}
 		</header>
 		{{- if .Params.thumbnail }}
 		<figure class="post__thumbnail">

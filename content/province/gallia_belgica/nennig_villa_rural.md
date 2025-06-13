@@ -1,7 +1,7 @@
 ---
 gre_id: "cf6297a793"
 aliases: [/id/cf6297a793]
-type: "garden"
+type: garden
 title: "Rural Villa"
 date: 2020-12-12T10:39:31-07:00
 latlon: [ 49.528992, 6.384557 ]

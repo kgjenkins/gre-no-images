@@ -18,7 +18,6 @@ removePathAccents = true
 # The default setting "ap" does not capitalize "via"...
 titleCaseStyle = "go"
 
-
 # This needs to be high to insure .Summary includes the Garden Description
 summaryLength = 10000
 

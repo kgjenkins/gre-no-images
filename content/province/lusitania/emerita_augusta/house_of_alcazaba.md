@@ -1,7 +1,7 @@
 ---
 gre_id: "fb663f9f74"
 aliases: [/id/fb663f9f74]
-type: "garden"
+type: garden
 title: "House of Alcazaba"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 36.720965, -4.416832 ]

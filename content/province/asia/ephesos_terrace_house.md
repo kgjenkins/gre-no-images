@@ -1,7 +1,7 @@
 ---
 gre_id: "a59bfedb41"
 aliases: [/id/a59bfedb41]
-type: "garden"
+type: garden
 title: "Terrace House 2"
 date: 2020-10-22T10:39:31-07:00
 latlon: [ 37.944523, 27.351764 ]

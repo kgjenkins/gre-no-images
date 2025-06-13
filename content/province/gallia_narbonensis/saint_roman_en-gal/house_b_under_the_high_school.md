@@ -1,7 +1,7 @@
 ---
 gre_id: "a52615cbde"
 aliases: [/id/a52615cbde]
-type: "garden"
+type: garden
 title: "La Plaine, House A under the High School"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

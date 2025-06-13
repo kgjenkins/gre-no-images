@@ -1,7 +1,7 @@
 ---
 gre_id: "5d34e59833"
 aliases: [/id/5d34e59833]
-type: "garden"
+type: garden
 title: "Jericho Herodian Second Palace"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853703, 35.434669 ]

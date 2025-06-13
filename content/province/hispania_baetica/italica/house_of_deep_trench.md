@@ -1,7 +1,7 @@
 ---
 gre_id: "8dbbeb7015"
 aliases: [/id/8dbbeb7015]
-type: "garden"
+type: garden
 title: "House of the Deep Trench"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]

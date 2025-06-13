@@ -1,7 +1,7 @@
 ---
 gre_id: "f3e5a4f149"
 aliases: [/id/f3e5a4f149]
-type: "garden"
+type: garden
 title: "Sanctuary B, the templa Concordiae"
 date: 2020-11-10
 latlon: [ 36.422473, 9.218866 ]

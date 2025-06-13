@@ -1,7 +1,7 @@
 ---
 gre_id: "5b1b3c0848"
 aliases: [/id/5b1b3c0848]
-type: "garden"
+type: garden
 title: "Neronian Palace"
 date: 2021-04-08T02:46:02+02:00
 latlon: [ 41.900013, 12.461381 ]

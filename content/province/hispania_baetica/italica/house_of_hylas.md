@@ -1,7 +1,7 @@
 ---
 gre_id: "d9d49da85e"
 aliases: [/id/d9d49da85e]
-type: "garden"
+type: garden
 title: "House of Hylas"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]

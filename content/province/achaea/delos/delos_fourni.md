@@ -1,7 +1,7 @@
 ---
 gre_id: "4d91f6dff9"
 aliases: [/id/4d91f6dff9]
-type: "garden"
+type: garden
 title: "House of Fourni"
 date: 2020-10-25T10:30:00-04:00
 latlon: [ 37.392022, 25.270238 ]

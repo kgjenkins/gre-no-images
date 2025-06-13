@@ -1,7 +1,7 @@
 ---
 gre_id: "d9747cf8bb"
 aliases: [/id/d9747cf8bb]
-type: "garden"
+type: garden
 title: "Sanctuary of Artemis"
 date: 2020-07-16T09:50:12-04:00
 latlon: [ 38.430259, 23.593654 ]

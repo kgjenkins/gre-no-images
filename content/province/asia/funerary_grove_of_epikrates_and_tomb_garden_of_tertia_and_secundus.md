@@ -1,7 +1,7 @@
 ---
 gre_id: "50eb63744b"
 aliases: [/id/50eb63744b]
-type: "garden"
+type: garden
 title: "Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus"
 date: 2020-09-29T19:30:32-05:00
 latlon: [ 0, 0 ]
